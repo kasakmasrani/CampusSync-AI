@@ -1,0 +1,11 @@
+user_id,username,department,year,event_ids,event_tags,feedback_ratings,feedback_sentiments
+1,stu2@gmail.com,Law,Senior,21;20;12;16;6;15;24;5;10;23;29;30;28;27;31,df;ai;sdgsdg;gs;sdf;gh;dfgs;a;asd;zx;lkm;mk;bf;zs;d;sdfds;sd,4;5;1;4,positive;negative;neutral
+2,stu1@gmail.com,Medicine,Graduate,17;21;20;12;16;15;6;5;10;8;7;18;4;3;2;1,ai;sdgsdg;ml;dfgs;d;sdfds,5,
+3,stu3@gmail.com,Science,Junior,21;20;12;16;15;6;24;30,ai;sdgsdg;dfgs;asd;zs;d;sdfds,,
+4,stu4@gmail.com,Engineering,Junior,21;20;12;6;15;16;5;10;8;4;18;7;3;2;1;17;24;30,ai;sdgsdg;ml;dfgs;asd;zs;d;sdfds,,
+5,stu5@gmail.com,Medicine,Junior,24;23;21;20;12;16;15;6;5;10,ai;gs;sdgsdg;dfgs;bf;d;sdfds,,
+6,stu6@gmail.com,Arts & Humanities,Junior,24;28;29;23;21;12;20;27;16;15;6;5,df;ai;sdf;gs;sdgsdg;dfgs;a;asd;zx;lkm;bf;d;sdfds;sd,,neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral
+7,stu7@gmail.com,Engineering,Sophomore,17;28;29;21;23;20;12;16;27;24;15;5;6,df;sdf;gs;sdgsdg;ai;dfgs;a;asd;zx;lkm;bf;d;sdfds;sd,,neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral
+8,Events,,,,,,
+13,stu10@gmail.com,Education,Graduate,28;29;23;21;20;12;27;16;15;24;6;5,df;sdf;gs;sdgsdg;ai;dfgs;a;asd;zx;lkm;bf;d;sdfds;sd,,neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral
+14,stu11@gmail.com,Engineering,Senior,29;28;23;12;20;21;27;16;24;15,df;sdf;gs;sdgsdg;ai;dfgs;a;asd;zx;lkm;bf;d;sdfds;sd,,neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral;neutral
