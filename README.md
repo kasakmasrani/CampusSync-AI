@@ -34,9 +34,10 @@ CampusSync-AI/
 │── README.md
 │── LICENSE
 │── .gitignore
-
-
+```
 ---
+
+
 
 ## ⚡ Installation & Setup
 
