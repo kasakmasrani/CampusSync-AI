@@ -14,7 +14,8 @@ def update_actual_results(sender, instance, **kwargs):
     if event_datetime < now and (
         instance.actual_attendees is None or
         instance.actual_engagement is None or
-        instance.actual_sentiment is None
+        instance.actual_sentiment is None or
+        instance.actual_success_rate is None
     ):
         # Calculate actual attendees
         actual_attendees = instance.registered_users.count()
@@ -32,9 +33,14 @@ def update_actual_results(sender, instance, **kwargs):
         else:
             actual_engagement = 0
             actual_sentiment = "neutral" 
+        # Autofill actual_success_rate as attendance/capacity (if capacity > 0)
+        actual_success_rate = 0
+        if instance.max_capacity and instance.max_capacity > 0:
+            actual_success_rate = round((actual_attendees / instance.max_capacity) * 100, 2)
         # Update only actual fields to avoid recursion
         Event.objects.filter(pk=instance.pk).update(
             actual_attendees=actual_attendees,
             actual_engagement=actual_engagement,
-            actual_sentiment=actual_sentiment
+            actual_sentiment=actual_sentiment,
+            actual_success_rate=actual_success_rate
         )

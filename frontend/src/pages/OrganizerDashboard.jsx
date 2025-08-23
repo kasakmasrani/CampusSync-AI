@@ -332,6 +332,7 @@ const OrganizerDashboard = () => {
       const data = await response.json();
       setSelectedInterest(interest);
       setStudentsList(data);
+    // console.log('👥 StudentsList:', data);
       setShowStudentModal(true);
     } catch (error) {
       console.error("❌ Failed to fetch students:", error);
@@ -1074,32 +1075,48 @@ const OrganizerDashboard = () => {
                 Students Interested in {selectedInterest}
               </DialogTitle>
               <DialogDescription>
-                {studentsList.length > 0 ? (
-                  <div className="divide-y divide-gray-200 max-h-80 overflow-y-auto mt-4">
-                    {studentsList.map((student) => (
-                      <div key={student.id} className="flex items-center gap-4 py-3">
-                        {/* Avatar: fallback to initials if no avatar */}
-                        <div className="w-10 h-10 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-600 font-bold text-lg shadow">
-                          {student.avatar ? (
-                            <img src={student.avatar} alt={student.username} className="w-10 h-10 rounded-full object-cover" />
-                          ) : (
-                            (student.username && student.username.length > 0)
-                              ? student.username[0].toUpperCase()
-                              : '?'
-                          )}
-                        </div>
-                        <div className="flex-1 min-w-0">
-                          <div className="font-semibold text-[#111827] truncate">{student.username}</div>
-                          <div className="text-xs text-[#6B7280] truncate">{student.email}</div>
-                        </div>
-                        {/* Optionally, add more info or actions here */}
-                      </div>
-                    ))}
-                  </div>
-                ) : (
-                  <span className="block text-center text-gray-500 py-8">No students found.</span>
-                )}
+                Below is the list of students. You can filter and render their names in descending order:
               </DialogDescription>
+              <div className="mt-4 mb-2 flex gap-2">
+                <Button
+                  type="button"
+                  onClick={() => {
+                    const extractNum = str => {
+                      const match = str.match(/(\d+)/);
+                      return match ? parseInt(match[1], 10) : 0;
+                    };
+                    setStudentsList(prev => [...prev].sort((a, b) => extractNum(b.username) - extractNum(a.username)));
+                  }}
+                  className="bg-indigo-500 text-white px-4 py-2 rounded"
+                >
+                  Sort Descending
+                </Button>
+              </div>
+              {studentsList.length > 0 ? (
+                <div className="divide-y divide-gray-200 max-h-80 overflow-y-auto mt-4">
+                  {studentsList.map((student) => (
+                    <div key={student.id} className="flex items-center gap-4 py-3">
+                      {/* Avatar: fallback to initials if no avatar */}
+                      <div className="w-10 h-10 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-600 font-bold text-lg shadow">
+                        {student.avatar ? (
+                          <img src={student.avatar} alt={student.username} className="w-10 h-10 rounded-full object-cover" />
+                        ) : (
+                          (student.username && student.username.length > 0)
+                            ? student.username[0].toUpperCase()
+                            : '?'
+                        )}
+                      </div>
+                      <div className="flex-1 min-w-0">
+                        <div className="font-semibold text-[#111827] truncate">{student.username}</div>
+                        <div className="text-xs text-[#6B7280] truncate">{student.email}</div>
+                      </div>
+                      {/* Optionally, add more info or actions here */}
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <span className="block text-center text-gray-500 py-8">No students found.</span>
+              )}
             </DialogHeader>
           </DialogContent>
         </Dialog>

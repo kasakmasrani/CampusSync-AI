@@ -18,6 +18,7 @@ import logging
 import os
 import sys
 import subprocess
+from django.core.management import call_command
 
 # Public event list view
 class EventListView(generics.ListAPIView):
@@ -423,6 +424,9 @@ class RetrainEventPredictionModelView(APIView):
 
     def post(self, request):
         try:
+            # Step 1: Export completed events to CSV
+            call_command('export_completed_events')
+            # Step 2: Retrain the prediction model
             train_model()
             print("[ML] Event prediction model retrained successfully.")
             return Response({"detail": "Event prediction model retrained successfully."}, status=200)
@@ -437,17 +441,12 @@ class RetrainStudentClusteringModelView(APIView):
 
     def post(self, request):
         try:
-            # Run the training script as a subprocess to avoid import issues
-            base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-            script_path = os.path.join(base_dir, "ml", "train_model_students.py")
-            result = subprocess.run([sys.executable, script_path], capture_output=True, text=True)
-            if result.returncode == 0:
-                print("[ML] Student clustering model retrained successfully.")
-                return Response({"detail": "Student clustering model retrained successfully.", "output": result.stdout}, status=200)
-            else:
-                print(f"[ML] Student clustering model retraining failed: {result.stderr}")
-                return Response({"detail": f"Retraining failed: {result.stderr}"}, status=500)
+            from ml.student_clustering import train_clustering_model
+            train_clustering_model()
+            print("[ML] Student clustering model retrained successfully.")
+            return Response({"detail": "Student clustering model retrained successfully."}, status=200)
         except Exception as e:
+            print(f"[ML] Student clustering model retraining failed: {str(e)}")
             return Response({"detail": f"Retraining failed: {str(e)}"}, status=500)
 
 

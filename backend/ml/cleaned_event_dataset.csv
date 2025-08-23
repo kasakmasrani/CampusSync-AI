@@ -1,0 +1,1111 @@
+event_title,category,department,target_year,capacity,location,month,day_of_week,hour,event_tags,title_length,title_word_count,num_tags,is_weekend,time_of_day,is_workshop,dept_popularity,feature_version,success_rate
+Ai Workshop,Technology,Computer,3,100,Seminar Room,9,6,10,"ai, ml",11,2,2,1,morning,1,0.1918918918918919,v1.1,85
+Freshers' Night,Cultural,Management,1,300,Auditorium,8,1,18,"freshers, welcome",15,2,2,0,evening,0,0.34684684684684686,v1.1,92
+Research Paper Writing,Academic,Science,4,80,Seminar Room,10,1,11,"research, writing",22,3,2,0,morning,0,0.15675675675675677,v1.1,78
+Inter-Department Football,Sports,Civil,2,150,Open Ground,11,6,14,"football, sports",25,2,2,1,afternoon,0,0.1045045045045045,v1.1,88
+Resume Building Workshop,Professional,Management,3,75,Seminar Room,7,3,9,"resume, career",24,3,2,0,morning,1,0.34684684684684686,v1.1,80
+Robotics Competition,Technology,Mechanical,4,120,Main Hall,9,6,13,"robotics, engineering",20,2,2,1,afternoon,0,0.08468468468468468,v1.1,90
+Annual Debate Competition,Academic,Science,2,90,Auditorium,10,1,10,"debate, public speaking",25,3,2,0,morning,0,0.15675675675675677,v1.1,75
+Cricket Tournament,Sports,Electrical,3,200,Open Ground,12,3,9,"cricket, sports",18,2,2,0,morning,0,0.0945945945945946,v1.1,95
+Industry Expert Talk,Professional,Computer,4,180,Main Hall,8,5,15,"industry, networking",20,3,2,1,afternoon,0,0.1918918918918919,v1.1,82
+Photography Exhibition,Cultural,Management,1,250,Auditorium,11,2,16,"photography, art",22,2,2,0,afternoon,0,0.34684684684684686,v1.1,70
+Data Science Bootcamp,Technology,Computer,3,150,Seminar Room,9,3,9,"data science, analytics",21,3,2,0,morning,0,0.1918918918918919,v1.1,88
+Literary Fest,Cultural,Science,2,100,Main Hall,10,4,10,"literature, books",13,2,2,0,morning,0,0.15675675675675677,v1.1,72
+Project Presentation Day,Academic,Mechanical,4,200,Auditorium,12,1,10,"projects, innovation",24,3,2,0,morning,0,0.08468468468468468,v1.1,85
+Badminton Championship,Sports,Civil,1,100,Open Ground,9,0,13,"badminton, sports",22,2,2,0,afternoon,0,0.1045045045045045,v1.1,89
+Interview Skills Workshop,Professional,Electrical,3,60,Seminar Room,8,3,10,"interview, job",25,3,2,0,morning,1,0.0945945945945946,v1.1,77
+Blockchain Seminar,Technology,Computer,2,110,Seminar Room,10,1,14,"blockchain, crypto",18,2,2,0,afternoon,0,0.1918918918918919,v1.1,80
+Cultural Extravaganza,Cultural,Management,1,400,Auditorium,11,4,18,"culture, music",21,2,2,0,evening,0,0.34684684684684686,v1.1,99
+Guest Lecture Series,Academic,Science,3,130,Main Hall,9,2,11,"lecture, knowledge",20,3,2,0,morning,0,0.15675675675675677,v1.1,79
+Volleyball Tournament,Sports,Electrical,2,120,Open Ground,7,5,15,"volleyball, sports",21,2,2,1,afternoon,0,0.0945945945945946,v1.1,87
+Entrepreneurship Summit,Professional,Management,4,200,Auditorium,10,6,9,"entrepreneurship, startup",23,2,2,1,morning,0,0.34684684684684686,v1.1,90
+Cyber Security Workshop,Technology,Computer,3,90,Seminar Room,11,4,10,"cyber security, hacking",23,3,2,0,morning,1,0.1918918918918919,v1.1,83
+Fashion Show,Cultural,Management,1,350,Auditorium,8,6,19,"fashion, design",12,2,2,1,evening,0,0.34684684684684686,v1.1,80
+Physics Olympiad,Academic,Science,4,70,Seminar Room,12,6,9,"physics, olympiad",16,2,2,1,morning,0,0.15675675675675677,v1.1,75
+Table Tennis Competition,Sports,Mechanical,2,80,Main Hall,9,1,14,"table tennis, sports",24,3,2,0,afternoon,0,0.08468468468468468,v1.1,86
+Career Fair,Professional,Management,1,300,Main Hall,11,1,10,"career, jobs",11,2,2,0,morning,0,0.34684684684684686,v1.1,93
+Web Development Bootcamp,Technology,Computer,2,120,Seminar Room,7,0,9,"web dev, coding",24,3,2,0,morning,0,0.1918918918918919,v1.1,87
+Traditional Day,Cultural,Management,1,380,Open Ground,9,6,11,"tradition, ethnic",15,2,2,1,morning,0,0.34684684684684686,v1.1,91
+Maths Workshop,Academic,Science,1,60,Seminar Room,10,3,10,"maths, problem solving",14,2,2,0,morning,1,0.15675675675675677,v1.1,73
+Basketball Tournament,Sports,Civil,3,180,Open Ground,11,0,13,"basketball, sports",21,2,2,0,afternoon,0,0.1045045045045045,v1.1,90
+Public Speaking Contest,Professional,Science,2,70,Auditorium,8,3,10,"public speaking, communication",23,3,2,0,morning,0,0.15675675675675677,v1.1,76
+Cloud Computing Seminar,Technology,Computer,4,100,Virtual,12,6,11,"cloud, aws",23,3,2,1,morning,0,0.1918918918918919,v1.1,84
+Music Concert,Cultural,Management,1,320,Auditorium,9,2,18,"music, concert",13,2,2,0,evening,0,0.34684684684684686,v1.1,94
+Coding Hackathon,Technology,Computer,3,150,Seminar Room,11,6,9,"coding, hackathon",16,2,2,1,morning,0,0.1918918918918919,v1.1,91
+Debate Championship,Academic,Science,3,85,Auditorium,10,0,10,"debate, argument",19,2,2,0,morning,0,0.15675675675675677,v1.1,78
+Chess Tournament,Sports,Mechanical,2,70,Seminar Room,9,3,14,"chess, board games",16,2,2,0,afternoon,0,0.08468468468468468,v1.1,82
+Soft Skills Training,Professional,Management,2,90,Seminar Room,7,1,10,"soft skills, communication",20,3,2,0,morning,0,0.34684684684684686,v1.1,79
+Iot Workshop,Technology,Electrical,4,110,Seminar Room,10,5,9,"iot, smart devices",12,2,2,1,morning,1,0.0945945945945946,v1.1,86
+Drama Fest,Cultural,Management,1,280,Auditorium,11,3,17,"drama, theatre",10,2,2,0,evening,0,0.34684684684684686,v1.1,81
+Chemistry Lab Session,Academic,Science,1,50,Seminar Room,9,3,14,"chemistry, lab",21,3,2,0,afternoon,0,0.15675675675675677,v1.1,70
+Athletics Meet,Sports,Civil,1,250,Open Ground,12,6,9,"athletics, running",14,2,2,1,morning,0,0.1045045045045045,v1.1,92
+Interview Prep Session,Professional,Computer,4,80,Virtual,8,0,11,"interview, career",22,3,2,0,morning,0,0.1918918918918919,v1.1,85
+Machine Learning Summit,Technology,Computer,4,200,Main Hall,9,4,10,"ml, deep learning",23,3,2,0,morning,0,0.1918918918918919,v1.1,90
+Bollywood Night,Cultural,Management,1,350,Auditorium,10,5,19,"bollywood, dance",15,2,2,1,evening,0,0.34684684684684686,v1.1,96
+Gate Preparation Seminar,Academic,Electrical,3,120,Seminar Room,7,0,15,"gate, exam prep",24,3,2,0,afternoon,0,0.0945945945945946,v1.1,77
+E-Sports Tournament,Sports,Computer,1,150,Virtual,11,4,16,"gaming, esports",19,2,2,0,afternoon,0,0.1918918918918919,v1.1,88
+Leadership Workshop,Professional,Management,3,100,Seminar Room,9,6,9,"leadership, management",19,2,2,1,morning,1,0.34684684684684686,v1.1,83
+Android App Development,Technology,Computer,2,90,Seminar Room,8,4,10,"android, mobile dev",23,3,2,0,morning,0,0.1918918918918919,v1.1,85
+Diwali Celebration,Cultural,Management,1,380,Open Ground,10,3,17,"diwali, festival",18,2,2,0,evening,0,0.34684684684684686,v1.1,98
+Quantum Computing Talk,Academic,Science,4,70,Seminar Room,12,4,11,"quantum, physics",22,3,2,0,morning,0,0.15675675675675677,v1.1,75
+Yoga Session,Sports,Science,1,80,Open Ground,7,2,7,"yoga, fitness",12,2,2,0,morning,0,0.15675675675675677,v1.1,70
+Startup Pitch Contest,Professional,Management,3,150,Auditorium,11,0,14,"startup, entrepreneurship",21,3,2,0,afternoon,0,0.34684684684684686,v1.1,89
+Ethical Hacking Workshop,Technology,Computer,3,100,Seminar Room,10,4,9,"hacking, cyber",24,3,2,0,morning,1,0.1918918918918919,v1.1,86
+Talent Show,Cultural,Management,1,300,Auditorium,9,5,18,"talent, performance",11,2,2,1,evening,0,0.34684684684684686,v1.1,93
+Foreign Language Class,Academic,Science,1,60,Seminar Room,8,3,16,"language, culture",22,3,2,0,afternoon,0,0.15675675675675677,v1.1,72
+Carrom Tournament,Sports,Mechanical,1,50,Main Hall,10,3,13,"carrom, board games",17,2,2,0,afternoon,0,0.08468468468468468,v1.1,79
+Group Discussion Practice,Professional,Management,2,70,Seminar Room,7,4,10,"gd, communication",25,3,2,0,morning,0,0.34684684684684686,v1.1,75
+Data Analytics Seminar,Technology,Computer,4,120,Virtual,11,4,14,"data, analytics",22,3,2,0,afternoon,0,0.1918918918918919,v1.1,87
+Traditional Folk Dance,Cultural,Management,1,200,Open Ground,9,1,17,"folk dance, tradition",22,3,2,0,evening,0,0.34684684684684686,v1.1,80
+Research Methodology,Academic,Science,3,90,Seminar Room,10,0,10,"research, methodology",20,2,2,0,morning,0,0.15675675675675677,v1.1,76
+Swimming Competition,Sports,Civil,1,100,Open Ground,8,0,10,"swimming, sports",20,2,2,0,morning,0,0.1045045045045045,v1.1,85
+Personal Branding,Professional,Management,4,80,Seminar Room,12,6,11,"branding, career",17,2,2,1,morning,0,0.34684684684684686,v1.1,81
+Game Development Workshop,Technology,Computer,3,110,Seminar Room,9,3,10,"game dev, unity",25,3,2,0,morning,1,0.1918918918918919,v1.1,89
+Fashion Walk,Cultural,Management,1,250,Main Hall,8,5,19,"fashion, ramp",12,2,2,1,evening,0,0.34684684684684686,v1.1,78
+Academic Writing Skills,Academic,Science,2,75,Seminar Room,11,5,11,"writing, academic",23,3,2,1,morning,0,0.15675675675675677,v1.1,74
+Cricket Practice Session,Sports,Electrical,2,100,Open Ground,7,6,16,"cricket, practice",24,3,2,1,afternoon,0,0.0945945945945946,v1.1,70
+Stress Management,Professional,Science,1,120,Seminar Room,9,5,15,"stress, mental health",17,2,2,1,afternoon,0,0.15675675675675677,v1.1,77
+Augmented Reality Workshop,Technology,Computer,4,90,Virtual,10,4,10,"ar, vr",26,3,2,0,morning,1,0.1918918918918919,v1.1,85
+Poetry Slam,Cultural,Science,1,100,Main Hall,11,5,17,"poetry, literature",11,2,2,1,evening,0,0.15675675675675677,v1.1,76
+Advanced Excel Training,Academic,Management,3,70,Seminar Room,8,6,9,"excel, data analysis",23,3,2,1,morning,0,0.34684684684684686,v1.1,80
+Squash Tournament,Sports,Mechanical,1,60,Open Ground,9,0,14,"squash, sports",17,2,2,0,afternoon,0,0.08468468468468468,v1.1,83
+Time Management,Professional,Management,2,80,Seminar Room,10,1,10,"time management, productivity",15,2,2,0,morning,0,0.34684684684684686,v1.1,78
+Network Security Seminar,Technology,Computer,3,100,Seminar Room,12,0,11,"network, security",24,3,2,0,morning,0,0.1918918918918919,v1.1,84
+Rangoli Competition,Cultural,Management,1,150,Open Ground,10,1,10,"rangoli, art",19,2,2,0,morning,0,0.34684684684684686,v1.1,87
+Linear Algebra Refresher,Academic,Science,2,65,Seminar Room,9,0,14,"algebra, maths",24,3,2,0,afternoon,0,0.15675675675675677,v1.1,71
+Weightlifting Competition,Sports,Civil,1,80,Open Ground,11,6,10,"weightlifting, strength",25,2,2,1,morning,0,0.1045045045045045,v1.1,82
+Conflict Resolution,Professional,Management,3,70,Seminar Room,8,3,14,"conflict, resolution",19,2,2,0,afternoon,0,0.34684684684684686,v1.1,76
+Big Data Workshop,Technology,Computer,4,130,Virtual,9,5,9,"big data, hadoop",17,3,2,1,morning,1,0.1918918918918919,v1.1,89
+Cultural Exchange Program,Cultural,Management,1,250,Auditorium,11,1,18,"culture, exchange",25,3,2,0,evening,0,0.34684684684684686,v1.1,90
+Thermodynamics Basics,Academic,Mechanical,2,75,Seminar Room,7,5,10,"thermodynamics, engineering",21,2,2,1,morning,0,0.08468468468468468,v1.1,73
+Tennis Tournament,Sports,Electrical,1,100,Open Ground,10,6,13,"tennis, sports",17,2,2,1,afternoon,0,0.0945945945945946,v1.1,88
+Effective Communication,Professional,Management,1,100,Seminar Room,9,0,11,"communication, skills",23,2,2,0,morning,0,0.34684684684684686,v1.1,82
+Devops Workshop,Technology,Computer,3,110,Seminar Room,11,2,10,"devops, automation",15,2,2,0,morning,1,0.1918918918918919,v1.1,87
+Classical Dance Night,Cultural,Management,1,280,Auditorium,8,5,18,"classical dance, art",21,3,2,1,evening,0,0.34684684684684686,v1.1,91
+Microbiology Basics,Academic,Science,1,55,Seminar Room,10,4,14,"microbiology, biology",19,2,2,0,afternoon,0,0.15675675675675677,v1.1,69
+Marathon,Sports,Civil,1,300,Open Ground,12,5,7,"marathon, running",8,1,2,1,morning,0,0.1045045045045045,v1.1,95
+Financial Planning,Professional,Management,4,90,Seminar Room,9,1,10,"finance, planning",18,2,2,0,morning,0,0.34684684684684686,v1.1,80
+Ethical Ai Seminar,Technology,Computer,4,140,Virtual,10,4,15,"ai, ethics",18,3,2,0,afternoon,0,0.1918918918918919,v1.1,88
+Street Play Festival,Cultural,Management,1,200,Open Ground,11,0,16,"street play, theatre",20,3,2,0,afternoon,0,0.34684684684684686,v1.1,79
+Numerical Methods,Academic,Mechanical,3,80,Seminar Room,9,5,10,"numerical, maths",17,2,2,1,morning,0,0.08468468468468468,v1.1,74
+Badminton Doubles,Sports,Electrical,1,90,Open Ground,8,2,14,"badminton, doubles",17,2,2,0,afternoon,0,0.0945945945945946,v1.1,86
+Goal Setting Workshop,Professional,Science,2,65,Seminar Room,7,4,10,"goals, personal development",21,3,2,0,morning,1,0.15675675675675677,v1.1,75
+Computer Vision Workshop,Technology,Computer,4,100,Virtual,12,3,9,"computer vision, image processing",24,3,2,0,morning,1,0.1918918918918919,v1.1,86
+Fashion Designing Contest,Cultural,Management,2,180,Main Hall,9,5,15,"fashion, design",25,3,2,1,afternoon,0,0.34684684684684686,v1.1,80
+Environmental Science Talk,Academic,Science,3,110,Seminar Room,11,0,11,"environment, sustainability",26,3,2,0,morning,0,0.15675675675675677,v1.1,77
+Kho Kho Tournament,Sports,Civil,1,120,Open Ground,10,5,13,"kho kho, sports",18,3,2,1,afternoon,0,0.1045045045045045,v1.1,85
+Mock Interview Drive,Professional,Computer,1,150,Virtual,8,2,9,"interview, mock",20,3,2,0,morning,0,0.1918918918918919,v1.1,89
+Ar/Vr Development,Technology,Computer,3,90,Seminar Room,10,2,10,"ar, vr",17,2,2,0,morning,0,0.1918918918918919,v1.1,85
+Singing Competition,Cultural,Management,1,250,Auditorium,9,3,17,"singing, music",19,2,2,0,evening,0,0.34684684684684686,v1.1,92
+Analog Electronics,Academic,Electrical,2,70,Seminar Room,7,5,10,"electronics, circuits",18,2,2,1,morning,0,0.0945945945945946,v1.1,72
+Skating Competition,Sports,Mechanical,1,70,Open Ground,11,1,14,"skating, sports",19,2,2,0,afternoon,0,0.08468468468468468,v1.1,81
+Team Building Activities,Professional,Management,1,120,Open Ground,8,3,10,"team building, collaboration",24,3,2,0,morning,0,0.34684684684684686,v1.1,84
+Data Structures Workshop,Technology,Computer,2,100,Seminar Room,9,1,9,"data structures, algorithms",24,3,2,0,morning,1,0.1918918918918919,v1.1,88
+Annual Fest,Cultural,Management,1,400,Open Ground,12,2,17,"fest, celebration",11,2,2,0,evening,0,0.34684684684684686,v1.1,99
+Applied Mathematics,Academic,Science,3,85,Seminar Room,10,2,14,"maths, applied",19,2,2,0,afternoon,0,0.15675675675675677,v1.1,75
+Yoga Workshop,Sports,Science,1,60,Main Hall,7,2,8,"yoga, wellness",13,2,2,0,morning,1,0.15675675675675677,v1.1,73
+Resume Review Session,Professional,Management,3,50,Virtual,11,4,11,"resume, career",21,3,2,0,morning,0,0.34684684684684686,v1.1,81
+Quantum Machine Learning,Technology,Computer,4,100,Virtual,12,2,10,"quantum, ml",24,3,2,0,morning,0,0.1918918918918919,v1.1,82
+Stand-Up Comedy Night,Cultural,Management,1,180,Auditorium,10,2,19,"comedy, entertainment",21,3,2,0,evening,0,0.34684684684684686,v1.1,86
+Physics Quiz,Academic,Science,1,70,Seminar Room,9,2,11,"physics, quiz",12,2,2,0,morning,0,0.15675675675675677,v1.1,70
+Cycling Rally,Sports,Civil,1,150,Open Ground,8,4,7,"cycling, rally",13,2,2,0,morning,0,0.1045045045045045,v1.1,85
+Networking Mixer,Professional,Computer,1,200,Main Hall,11,3,17,"networking, career",16,2,2,0,evening,0,0.1918918918918919,v1.1,90
+Cybersecurity Awareness,Technology,Computer,1,120,Virtual,9,2,10,"cybersecurity, awareness",23,2,2,0,morning,0,0.1918918918918919,v1.1,83
+Open Mic Night,Cultural,Management,1,100,Auditorium,7,1,18,"open mic, performance",14,3,2,0,evening,0,0.34684684684684686,v1.1,80
+Project Management,Academic,Management,4,90,Seminar Room,10,0,9,"project management, planning",18,2,2,0,morning,0,0.34684684684684686,v1.1,79
+Tug Of War,Sports,Mechanical,1,100,Open Ground,11,3,15,"tug of war, sports",10,3,2,0,afternoon,0,0.08468468468468468,v1.1,84
+Public Relations Workshop,Professional,Management,3,75,Seminar Room,8,6,10,"pr, communication",25,3,2,1,morning,1,0.34684684684684686,v1.1,77
+Ai In Healthcare Seminar,Technology,Computer,4,130,Virtual,12,2,14,"ai, healthcare",24,4,2,0,afternoon,0,0.1918918918918919,v1.1,89
+Cultural Parade,Cultural,Management,1,300,Open Ground,9,0,16,"parade, culture",15,2,2,0,afternoon,0,0.34684684684684686,v1.1,91
+Circuit Design Workshop,Academic,Electrical,3,80,Seminar Room,8,4,9,"circuits, design",23,3,2,0,morning,1,0.0945945945945946,v1.1,75
+Chess Exhibition,Sports,Science,1,60,Main Hall,10,3,13,"chess, exhibition",16,2,2,0,afternoon,0,0.15675675675675677,v1.1,80
+Goal Setting For Success,Professional,Management,1,90,Seminar Room,9,4,10,"goals, success",24,4,2,0,morning,0,0.34684684684684686,v1.1,82
+Web Security Webinar,Technology,Computer,3,110,Virtual,11,2,11,"web security, cyber",20,3,2,0,morning,0,0.1918918918918919,v1.1,85
+Bollywood Dance Workshop,Cultural,Management,1,150,Main Hall,8,1,16,"bollywood, dance",24,3,2,0,afternoon,1,0.34684684684684686,v1.1,88
+Data Visualization,Academic,Computer,4,95,Seminar Room,10,5,14,"data viz, analytics",18,2,2,1,afternoon,0,0.1918918918918919,v1.1,86
+Cross Country Race,Sports,Civil,1,200,Open Ground,12,0,8,"cross country, running",18,3,2,0,morning,0,0.1045045045045045,v1.1,90
+Job Interview Simulation,Professional,Management,1,80,Virtual,9,4,10,"interview, simulation",24,3,2,0,morning,0,0.34684684684684686,v1.1,84
+Iot Security,Technology,Electrical,4,90,Seminar Room,10,5,9,"iot, security",12,2,2,1,morning,0,0.0945945945945946,v1.1,83
+Cultural Fashion Show,Cultural,Management,1,280,Auditorium,11,3,19,"fashion, culture",21,3,2,0,evening,0,0.34684684684684686,v1.1,90
+Thermodynamics Advanced,Academic,Mechanical,4,70,Seminar Room,9,6,11,"thermodynamics, engineering",23,2,2,1,morning,0,0.08468468468468468,v1.1,76
+Cricket Friendly Match,Sports,Electrical,1,120,Open Ground,7,0,15,"cricket, friendly",22,3,2,0,afternoon,0,0.0945945945945946,v1.1,75
+Stress Reduction Techniques,Professional,Science,1,100,Seminar Room,10,1,15,"stress, wellness",27,3,2,0,afternoon,0,0.15675675675675677,v1.1,79
+Ar In Education,Technology,Computer,3,80,Virtual,11,5,10,"ar, education",15,3,2,1,morning,0,0.1918918918918919,v1.1,81
+Storytelling Session,Cultural,Science,1,70,Seminar Room,12,0,16,"storytelling, literature",20,2,2,0,afternoon,0,0.15675675675675677,v1.1,70
+Advanced Python,Academic,Computer,3,100,Seminar Room,9,4,9,"python, programming",15,2,2,0,morning,0,0.1918918918918919,v1.1,87
+Volleyball Friendly,Sports,Electrical,1,80,Open Ground,8,6,14,"volleyball, friendly",19,2,2,1,afternoon,0,0.0945945945945946,v1.1,80
+Effective Presentation Skills,Professional,Management,1,90,Seminar Room,9,4,11,"presentation, public speaking",29,3,2,0,morning,0,0.34684684684684686,v1.1,83
+Blockchain For Beginners,Technology,Computer,2,100,Virtual,10,0,14,"blockchain, crypto",24,3,2,0,afternoon,0,0.1918918918918919,v1.1,82
+Diwali Mela,Cultural,Management,1,350,Open Ground,10,2,15,"diwali, festival",11,2,2,0,afternoon,0,0.34684684684684686,v1.1,96
+Linear Algebra Applications,Academic,Science,3,75,Seminar Room,9,2,10,"algebra, applications",27,3,2,0,morning,0,0.15675675675675677,v1.1,74
+Football Friendly Match,Sports,Civil,1,150,Open Ground,11,3,14,"football, friendly",23,3,2,0,afternoon,0,0.1045045045045045,v1.1,87
+Career Counseling,Professional,Management,1,100,Virtual,8,1,10,"career, counseling",17,2,2,0,morning,0,0.34684684684684686,v1.1,85
+Data Science For Business,Technology,Computer,4,140,Main Hall,9,3,10,"data science, business",25,4,2,0,morning,0,0.1918918918918919,v1.1,90
+Inter-College Fest,Cultural,Management,1,400,Auditorium,12,4,18,"fest, inter college",18,2,2,0,evening,0,0.34684684684684686,v1.1,99
+Applied Physics,Academic,Science,2,60,Seminar Room,8,2,11,"physics, applied",15,2,2,0,morning,0,0.15675675675675677,v1.1,72
+Badminton Doubles Tournament,Sports,Electrical,1,100,Open Ground,9,6,13,"badminton, doubles",28,3,2,1,afternoon,0,0.0945945945945946,v1.1,89
+Negotiation Skills,Professional,Management,3,80,Seminar Room,10,2,9,"negotiation, communication",18,2,2,0,morning,0,0.34684684684684686,v1.1,78
+Ai Ethics Debate,Technology,Computer,4,100,Virtual,12,1,10,"ai, ethics",16,3,2,0,morning,0,0.1918918918918919,v1.1,85
+Cultural Street Food Festival,Cultural,Management,1,300,Open Ground,11,4,17,"food, festival",29,4,2,0,evening,0,0.34684684684684686,v1.1,93
+Calculus Refresher,Academic,Science,1,70,Seminar Room,9,1,14,"calculus, math's",18,2,2,0,afternoon,0,0.15675675675675677,v1.1,71
+Table Tennis Friendly,Sports,Mechanical,1,60,Main Hall,10,6,15,"table tennis, friendly",21,3,2,1,afternoon,0,0.08468468468468468,v1.1,80
+Emotional Intelligence,Professional,Management,1,110,Seminar Room,7,4,10,"emotional intelligence, soft skills",22,2,2,0,morning,0,0.34684684684684686,v1.1,81
+Quantum Cryptography,Technology,Computer,4,90,Virtual,11,2,11,"quantum, cryptography",20,2,2,0,morning,0,0.1918918918918919,v1.1,84
+Music Jam Session,Cultural,Management,1,150,Open Ground,9,1,18,"music, jam",17,3,2,0,evening,0,0.34684684684684686,v1.1,85
+Organic Chemistry Workshop,Academic,Science,2,55,Seminar Room,8,2,14,"chemistry, organic",26,3,2,0,afternoon,1,0.15675675675675677,v1.1,68
+Basketball Friendly Match,Sports,Civil,1,120,Open Ground,11,3,15,"basketball, friendly",25,3,2,0,afternoon,0,0.1045045045045045,v1.1,88
+Cv Writing Workshop,Professional,Management,1,70,Virtual,8,1,10,"cv writing, resume",19,3,2,0,morning,1,0.34684684684684686,v1.1,79
+Blockchain In Supply Chain,Technology,Computer,4,100,Virtual,10,1,10,"blockchain, supply chain",26,4,2,0,morning,0,0.1918918918918919,v1.1,86
+Traditional Music Night,Cultural,Management,1,200,Auditorium,11,5,18,"traditional music, folk",23,3,2,1,evening,0,0.34684684684684686,v1.1,89
+Differential Equations,Academic,Science,3,80,Seminar Room,9,2,10,"differential equations, maths",22,2,2,0,morning,0,0.15675675675675677,v1.1,76
+Athletics Training Camp,Sports,Civil,1,100,Open Ground,7,0,9,"athletics, training",23,3,2,0,morning,0,0.1045045045045045,v1.1,78
+Mentorship Program Launch,Professional,Management,1,150,Main Hall,9,6,11,"mentorship, career",25,3,2,1,morning,0,0.34684684684684686,v1.1,87
+Machine Learning For Beginners,Technology,Computer,2,120,Seminar Room,8,4,9,"ml, beginner",30,4,2,0,morning,0,0.1918918918918919,v1.1,87
+Art Exhibition,Cultural,Management,1,200,Auditorium,10,6,16,"art, exhibition",14,2,2,1,afternoon,0,0.34684684684684686,v1.1,80
+Aerodynamics Basics,Academic,Mechanical,3,70,Seminar Room,11,1,10,"aerodynamics, engineering",19,2,2,0,morning,0,0.08468468468468468,v1.1,74
+Football Practice Session,Sports,Civil,1,100,Open Ground,7,6,16,"football, practice",25,3,2,1,afternoon,0,0.1045045045045045,v1.1,70
+Interview Etiquette,Professional,Management,1,60,Virtual,12,2,14,"interview, etiquette",19,2,2,0,afternoon,0,0.34684684684684686,v1.1,80
+Vr In Gaming,Technology,Computer,3,90,Virtual,12,5,10,"vr, gaming",12,3,2,1,morning,0,0.1918918918918919,v1.1,83
+Cultural Storytelling,Cultural,Science,1,80,Seminar Room,9,6,15,"storytelling, culture",21,2,2,1,afternoon,0,0.15675675675675677,v1.1,75
+Probability And Statistics,Academic,Science,2,75,Seminar Room,10,3,10,"probability, statistics",26,3,2,0,morning,0,0.15675675675675677,v1.1,73
+Cricket Coaching,Sports,Electrical,1,80,Open Ground,8,5,15,"cricket, coaching",16,2,2,1,afternoon,0,0.0945945945945946,v1.1,70
+Leadership Styles,Professional,Management,1,100,Seminar Room,11,6,11,"leadership, styles",17,2,2,1,morning,0,0.34684684684684686,v1.1,82
+Image Processing Workshop,Technology,Computer,4,110,Virtual,10,6,9,"image processing, computer vision",25,3,2,1,morning,1,0.1918918918918919,v1.1,87
+Literary Debate,Cultural,Science,1,90,Auditorium,11,5,10,"literature, debate",15,2,2,1,morning,0,0.15675675675675677,v1.1,77
+Advanced Data Structures,Academic,Computer,3,90,Seminar Room,9,0,9,"data structures, algorithms",24,3,2,0,morning,0,0.1918918918918919,v1.1,89
+Badminton Coaching,Sports,Electrical,1,70,Open Ground,7,6,16,"badminton, coaching",18,2,2,1,afternoon,0,0.0945945945945946,v1.1,68
+Professional Communication,Professional,Management,1,120,Seminar Room,8,0,10,"communication, professional",26,2,2,0,morning,0,0.34684684684684686,v1.1,84
+Robotics For Beginners,Technology,Mechanical,2,80,Seminar Room,9,6,10,"robotics, beginner",22,3,2,1,morning,0,0.08468468468468468,v1.1,82
+Traditional Art Workshop,Cultural,Management,1,100,Main Hall,10,3,14,"art, traditional",24,3,2,0,afternoon,1,0.34684684684684686,v1.1,78
+Biochemistry Basics,Academic,Science,1,60,Seminar Room,11,6,14,"biochemistry, biology",19,2,2,1,afternoon,0,0.15675675675675677,v1.1,70
+Athletics Training,Sports,Civil,1,100,Open Ground,8,3,9,"athletics, training",18,2,2,0,morning,0,0.1045045045045045,v1.1,75
+Job Search Strategies,Professional,Management,1,90,Virtual,9,0,11,"job search, career",21,3,2,0,morning,0,0.34684684684684686,v1.1,86
+Cloud Security Seminar,Technology,Computer,4,120,Virtual,12,4,14,"cloud, security",22,3,2,0,afternoon,0,0.1918918918918919,v1.1,88
+Annual Sports Day,Sports,All,1,350,Open Ground,12,3,9,"sports, annual",17,3,2,0,morning,0,0.007207207207207207,v1.1,95
+Inter-Department Cultural,Cultural,Management,1,300,Auditorium,11,1,18,"culture, inter department",25,2,2,0,evening,0,0.34684684684684686,v1.1,92
+Advanced Calculus,Academic,Science,2,70,Seminar Room,9,3,11,"calculus, advanced",17,2,2,0,morning,0,0.15675675675675677,v1.1,75
+Basketball Coaching,Sports,Civil,1,90,Open Ground,7,4,15,"basketball, coaching",19,2,2,0,afternoon,0,0.1045045045045045,v1.1,72
+Interview Skills For Tech,Professional,Computer,1,85,Virtual,10,3,10,"interview, tech",25,4,2,0,morning,0,0.1918918918918919,v1.1,87
+Ar/Vr In Healthcare,Technology,Computer,4,100,Virtual,11,2,10,"ar, vr",19,3,2,0,morning,0,0.1918918918918919,v1.1,86
+Poetry Writing Workshop,Cultural,Science,1,60,Seminar Room,12,1,15,"poetry, writing",23,3,2,0,afternoon,1,0.15675675675675677,v1.1,73
+Advanced Networking,Academic,Computer,3,90,Seminar Room,10,0,9,"networking, advanced",19,2,2,0,morning,0,0.1918918918918919,v1.1,85
+Tennis Coaching,Sports,Electrical,1,70,Open Ground,8,0,16,"tennis, coaching",15,2,2,0,afternoon,0,0.0945945945945946,v1.1,70
+Career Development Plan,Professional,Management,1,100,Seminar Room,9,2,11,"career, development",23,3,2,0,morning,0,0.34684684684684686,v1.1,83
+Deep Learning Bootcamp,Technology,Computer,4,150,Main Hall,9,1,9,"deep learning, ai",22,3,2,0,morning,0,0.1918918918918919,v1.1,92
+Annual College Fair,Professional,All,1,300,Main Hall,11,0,10,"career, college fair",19,3,2,0,morning,0,0.007207207207207207,v1.1,94
+Physics Practical,Academic,Science,1,50,Seminar Room,10,1,14,"physics, practical",17,2,2,0,afternoon,0,0.15675675675675677,v1.1,68
+Weightlifting Training,Sports,Civil,1,70,Open Ground,11,2,10,"weightlifting, training",22,2,2,0,morning,0,0.1045045045045045,v1.1,78
+Business Etiquette,Professional,Management,1,80,Seminar Room,8,1,10,"etiquette, business",18,2,2,0,morning,0,0.34684684684684686,v1.1,79
+Quantum Mechanics Seminar,Academic,Science,4,80,Seminar Room,12,3,11,"quantum, mechanics",25,3,2,0,morning,0,0.15675675675675677,v1.1,77
+Table Tennis Coaching,Sports,Mechanical,1,50,Main Hall,9,5,15,"table tennis, coaching",21,3,2,1,afternoon,0,0.08468468468468468,v1.1,75
+Digital Marketing Workshop,Professional,Management,3,100,Virtual,10,5,9,"digital marketing, marketing",26,3,2,1,morning,1,0.34684684684684686,v1.1,85
+Ethical Ai Development,Technology,Computer,4,110,Virtual,11,0,10,"ai, ethics",22,3,2,0,morning,0,0.1918918918918919,v1.1,88
+Traditional Games Day,Sports,All,1,200,Open Ground,10,1,13,"traditional games, sports",21,3,2,0,afternoon,0,0.007207207207207207,v1.1,85
+Advanced Physics,Academic,Science,2,65,Seminar Room,9,4,11,"physics, advanced",16,2,2,0,morning,0,0.15675675675675677,v1.1,73
+Public Speaking Workshop,Professional,Management,1,90,Seminar Room,7,1,10,"public speaking, communication",24,3,2,0,morning,1,0.34684684684684686,v1.1,80
+Iot Applications,Technology,Electrical,3,100,Seminar Room,10,2,10,"iot, applications",16,2,2,0,morning,0,0.0945945945945946,v1.1,86
+Cultural Dance Workshop,Cultural,Management,1,120,Main Hall,8,4,17,"dance, cultural",23,3,2,0,evening,1,0.34684684684684686,v1.1,87
+Chemistry Practical,Academic,Science,1,50,Seminar Room,9,3,14,"chemistry, practical",19,2,2,0,afternoon,0,0.15675675675675677,v1.1,69
+Marathon Training,Sports,Civil,1,150,Open Ground,11,4,7,"marathon, training",17,2,2,0,morning,0,0.1045045045045045,v1.1,88
+Time Management Strategies,Professional,Management,1,70,Seminar Room,12,6,10,"time management, productivity",26,3,2,1,morning,0,0.34684684684684686,v1.1,78
+Game Development With Unity,Technology,Computer,3,100,Seminar Room,10,3,9,"game dev, unity",27,4,2,0,morning,0,0.1918918918918919,v1.1,89
+Comedy Open Mic,Cultural,Management,1,100,Auditorium,9,6,19,"comedy, open mic",15,3,2,1,evening,0,0.34684684684684686,v1.1,82
+Robotics Design Competition,Technology,Mechanical,4,130,Main Hall,11,5,13,"robotics, competition",27,3,2,1,afternoon,0,0.08468468468468468,v1.1,90
+Data Structures & Algorithms,Academic,Computer,2,110,Seminar Room,8,0,9,"data structures, algorithms",28,4,2,0,morning,0,0.1918918918918919,v1.1,88
+Volleyball Training,Sports,Electrical,1,80,Open Ground,7,6,15,"volleyball, training",19,2,2,1,afternoon,0,0.0945945945945946,v1.1,75
+Mock Interview Workshop,Professional,Management,1,75,Virtual,10,4,10,"interview, mock",23,3,2,0,morning,1,0.34684684684684686,v1.1,85
+Cyber Warfare Seminar,Technology,Computer,4,120,Virtual,12,0,11,"cyber, warfare",21,3,2,0,morning,0,0.1918918918918919,v1.1,87
+Cultural Quiz,Cultural,Science,1,90,Seminar Room,11,0,14,"culture, quiz",13,2,2,0,afternoon,0,0.15675675675675677,v1.1,76
+Research Proposal Writing,Academic,Science,3,80,Seminar Room,9,0,10,"research, proposal",25,3,2,0,morning,0,0.15675675675675677,v1.1,77
+Basketball Skills Camp,Sports,Civil,1,100,Open Ground,8,3,16,"basketball, skills",22,3,2,0,afternoon,0,0.1045045045045045,v1.1,80
+Leadership Development,Professional,Management,1,100,Seminar Room,10,0,9,"leadership, development",22,2,2,0,morning,0,0.34684684684684686,v1.1,84
+Ar/Vr Hackathon,Technology,Computer,1,150,Main Hall,11,1,9,"ar, vr",15,2,2,0,morning,0,0.1918918918918919,v1.1,90
+Inter-Department Sports,Sports,All,1,300,Open Ground,11,2,9,"sports, inter department",23,2,2,0,morning,0,0.007207207207207207,v1.1,93
+Advanced Robotics,Academic,Mechanical,4,90,Seminar Room,10,5,10,"robotics, advanced",17,2,2,1,morning,0,0.08468468468468468,v1.1,81
+Financial Literacy,Professional,Management,1,110,Seminar Room,9,3,10,"finance, literacy",18,2,2,0,morning,0,0.34684684684684686,v1.1,82
+Web Development With React,Technology,Computer,3,100,Seminar Room,8,4,9,"react, web dev",26,4,2,0,morning,0,0.1918918918918919,v1.1,87
+Traditional Music Workshop,Cultural,Management,1,80,Main Hall,9,3,17,"music, traditional",26,3,2,0,evening,1,0.34684684684684686,v1.1,79
+Environmental Engineering,Academic,Civil,3,90,Seminar Room,11,4,11,"environmental, engineering",25,2,2,0,morning,0,0.1045045045045045,v1.1,76
+Badminton Tournament Finals,Sports,Electrical,1,150,Open Ground,10,1,14,"badminton, finals",27,3,2,0,afternoon,0,0.0945945945945946,v1.1,91
+Career Progression,Professional,Management,1,90,Virtual,12,4,10,"career, progression",18,2,2,0,morning,0,0.34684684684684686,v1.1,85
+Ai In Robotics,Technology,Mechanical,4,120,Virtual,11,4,10,"ai, robotics",14,3,2,0,morning,0,0.08468468468468468,v1.1,89
+Cultural Exchange Meet,Cultural,Management,1,250,Auditorium,10,2,18,"culture, exchange",22,3,2,0,evening,0,0.34684684684684686,v1.1,90
+Thermodynamics Applications,Academic,Mechanical,3,85,Seminar Room,9,2,10,"thermodynamics, applications",27,2,2,0,morning,0,0.08468468468468468,v1.1,75
+Cricket Tournament Finals,Sports,Electrical,1,200,Open Ground,12,0,9,"cricket, finals",25,3,2,0,morning,0,0.0945945945945946,v1.1,95
+Personal Finance Basics,Professional,Management,1,90,Seminar Room,7,2,10,"finance, personal",23,3,2,0,morning,0,0.34684684684684686,v1.1,78
+Data Science With Python,Technology,Computer,3,130,Seminar Room,9,5,9,"data science, python",24,4,2,1,morning,0,0.1918918918918919,v1.1,89
+Freshers' Orientation,Professional,Management,1,300,Auditorium,7,2,10,"freshers, orientation",21,2,2,0,morning,0,0.34684684684684686,v1.1,92
+Advanced Control Systems,Academic,Electrical,4,70,Seminar Room,10,0,11,"control systems, electrical",24,3,2,0,morning,0,0.0945945945945946,v1.1,76
+Football Tournament Finals,Sports,Civil,1,200,Open Ground,12,0,14,"football, finals",26,3,2,0,afternoon,0,0.1045045045045045,v1.1,90
+Time Management For Students,Professional,Management,1,80,Seminar Room,8,5,10,"time management, students",28,4,2,1,morning,0,0.34684684684684686,v1.1,77
+Blockchain Development,Technology,Computer,4,110,Virtual,11,4,9,"blockchain, development",22,2,2,0,morning,0,0.1918918918918919,v1.1,88
+Annual Cultural Fest,Cultural,Management,1,380,Open Ground,12,6,17,"cultural fest, annual",20,3,2,1,evening,0,0.34684684684684686,v1.1,98
+Quantum Physics,Academic,Science,3,75,Seminar Room,10,3,14,"quantum, physics",15,2,2,0,afternoon,0,0.15675675675675677,v1.1,75
+Athletics Championship,Sports,Civil,1,250,Open Ground,12,2,9,"athletics, championship",22,2,2,0,morning,0,0.1045045045045045,v1.1,93
+Job Interview Prep,Professional,Management,1,100,Virtual,9,5,10,"interview, prep",18,3,2,1,morning,0,0.34684684684684686,v1.1,87
+Ai In Finance,Technology,Computer,4,100,Virtual,12,6,11,"ai, finance",13,3,2,1,morning,0,0.1918918918918919,v1.1,86
+Literary Club Meet,Cultural,Science,1,60,Seminar Room,11,5,15,"literature, club",18,3,2,1,afternoon,0,0.15675675675675677,v1.1,70
+Aerospace Engineering Talk,Academic,Mechanical,4,100,Main Hall,10,1,10,"aerospace, engineering",26,3,2,0,morning,0,0.08468468468468468,v1.1,79
+Basketball Tournament Finals,Sports,Civil,1,180,Open Ground,12,4,15,"basketball, finals",28,3,2,0,afternoon,0,0.1045045045045045,v1.1,91
+Public Speaking Skills,Professional,Management,1,100,Seminar Room,8,6,10,"public speaking, skills",22,3,2,1,morning,0,0.34684684684684686,v1.1,81
+Bollywood Dance Class,Cultural,Management,1,120,Main Hall,9,0,17,"bollywood, dance",21,3,2,0,evening,0,0.34684684684684686,v1.1,86
+Advanced Mathematics,Academic,Science,3,80,Seminar Room,11,3,10,"maths, advanced",20,2,2,0,morning,0,0.15675675675675677,v1.1,78
+Tennis Tournament Finals,Sports,Electrical,1,120,Open Ground,11,4,13,"tennis, finals",24,3,2,0,afternoon,0,0.0945945945945946,v1.1,89
+Effective Resume Writing,Professional,Management,1,70,Virtual,7,3,10,"resume, writing",24,3,2,0,morning,0,0.34684684684684686,v1.1,77
+Iot In Smart Cities,Technology,Electrical,4,90,Virtual,12,5,10,"iot, smart cities",19,4,2,1,morning,0,0.0945945945945946,v1.1,85
+Cultural Day Celebrations,Cultural,Management,1,300,Open Ground,11,6,16,"culture, celebration",25,3,2,1,afternoon,0,0.34684684684684686,v1.1,94
+Physics Olympiad Prep,Academic,Science,4,60,Seminar Room,12,1,9,"physics, olympiad",21,3,2,0,morning,0,0.15675675675675677,v1.1,74
+Table Tennis Tournament Finals,Sports,Mechanical,1,80,Main Hall,11,2,14,"table tennis, finals",30,4,2,0,afternoon,0,0.08468468468468468,v1.1,87
+Entrepreneurial Mindset,Professional,Management,1,100,Seminar Room,9,5,10,"entrepreneurship, mindset",23,2,2,1,morning,0,0.34684684684684686,v1.1,85
+Machine Learning Applications,Technology,Computer,4,140,Main Hall,10,4,9,"ml, applications",29,3,2,0,morning,0,0.1918918918918919,v1.1,91
+Drama Workshop,Cultural,Management,1,70,Auditorium,8,3,16,"drama, workshop",14,2,2,0,afternoon,1,0.34684684684684686,v1.1,75
+Analog Electronics Design,Academic,Electrical,3,80,Seminar Room,9,6,10,"electronics, design",25,3,2,1,morning,0,0.0945945945945946,v1.1,77
+Swimming Championship,Sports,Civil,1,120,Open Ground,9,3,10,"swimming, championship",21,2,2,0,morning,0,0.1045045045045045,v1.1,86
+Personal Development Plan,Professional,Management,1,90,Seminar Room,10,6,11,"personal development, planning",25,3,2,1,morning,0,0.34684684684684686,v1.1,80
+Deep Learning Applications,Technology,Computer,4,130,Virtual,11,2,10,"deep learning, applications",26,3,2,0,morning,0,0.1918918918918919,v1.1,90
+Inter-College Debate,Academic,Science,1,100,Auditorium,10,4,10,"debate, inter college",20,2,2,0,morning,0,0.15675675675675677,v1.1,79
+Marathon For Charity,Sports,Civil,1,250,Open Ground,12,6,8,"marathon, charity",20,3,2,1,morning,0,0.1045045045045045,v1.1,94
+Career Mentoring Session,Professional,Management,1,80,Virtual,9,1,14,"mentoring, career",24,3,2,0,afternoon,0,0.34684684684684686,v1.1,86
+Ai In Medicine,Technology,Computer,4,110,Virtual,12,1,10,"ai, medicine",14,3,2,0,morning,0,0.1918918918918919,v1.1,87
+Cultural Singing Competition,Cultural,Management,1,200,Auditorium,9,0,17,"singing, cultural",28,3,2,0,evening,0,0.34684684684684686,v1.1,91
+Numerical Methods In Engineering,Academic,Mechanical,3,75,Seminar Room,11,5,11,"numerical, engineering",32,4,2,1,morning,0,0.08468468468468468,v1.1,76
+Squash Training,Sports,Mechanical,1,50,Open Ground,9,2,14,"squash, training",15,2,2,0,afternoon,0,0.08468468468468468,v1.1,78
+Effective Teamwork,Professional,Management,1,100,Seminar Room,8,0,10,"teamwork, collaboration",18,2,2,0,morning,0,0.34684684684684686,v1.1,83
+Blockchain For Finance,Technology,Computer,4,100,Virtual,10,6,11,"blockchain, finance",22,3,2,1,morning,0,0.1918918918918919,v1.1,87
+Traditional Sports Day,Sports,All,1,250,Open Ground,11,2,9,"sports, traditional",22,3,2,0,morning,0,0.007207207207207207,v1.1,92
+Physics Lecture Series,Academic,Science,1,150,Main Hall,9,0,10,"physics, lecture",22,3,2,0,morning,0,0.15675675675675677,v1.1,78
+Yoga For Wellness,Sports,Science,1,70,Main Hall,7,5,7,"yoga, wellness",17,3,2,1,morning,0,0.15675675675675677,v1.1,72
+Interview Coaching,Professional,Management,1,60,Virtual,12,3,15,"interview, coaching",18,2,2,0,afternoon,0,0.34684684684684686,v1.1,81
+Ar/Vr For Beginners,Technology,Computer,2,90,Seminar Room,11,0,10,"ar, vr",19,3,2,0,morning,0,0.1918918918918919,v1.1,84
+Poetry Reading,Cultural,Science,1,80,Seminar Room,12,3,16,"poetry, reading",14,2,2,0,afternoon,0,0.15675675675675677,v1.1,74
+Advanced Databases,Academic,Computer,4,100,Seminar Room,10,6,9,"databases, advanced",18,2,2,1,morning,0,0.1918918918918919,v1.1,86
+Cricket Skills Workshop,Sports,Electrical,1,80,Open Ground,8,2,15,"cricket, skills",23,3,2,0,afternoon,1,0.0945945945945946,v1.1,75
+Career Planning Workshop,Professional,Management,1,90,Seminar Room,9,4,11,"career, planning",24,3,2,0,morning,1,0.34684684684684686,v1.1,84
+Data Analytics In Business,Technology,Computer,4,130,Virtual,11,6,9,"data analytics, business",26,4,2,1,morning,0,0.1918918918918919,v1.1,89
+Cultural Food Fair,Cultural,Management,1,300,Open Ground,10,0,17,"food, fair",18,3,2,0,evening,0,0.34684684684684686,v1.1,93
+Chemistry Olympiad,Academic,Science,4,65,Seminar Room,12,1,9,"chemistry, olympiad",18,2,2,0,morning,0,0.15675675675675677,v1.1,73
+Volleyball Championship,Sports,Electrical,1,100,Open Ground,11,1,14,"volleyball, championship",23,2,2,0,afternoon,0,0.0945945945945946,v1.1,89
+Public Speaking Competition,Professional,Science,1,80,Auditorium,9,1,10,"public speaking, competition",27,3,2,0,morning,0,0.15675675675675677,v1.1,79
+Ai For Social Good,Technology,Computer,4,100,Virtual,12,1,11,"ai, social good",18,4,2,0,morning,0,0.1918918918918919,v1.1,88
+Traditional Dance Performance,Cultural,Management,1,250,Auditorium,11,6,18,"dance, traditional",29,3,2,1,evening,0,0.34684684684684686,v1.1,91
+Differential Equations Applications,Academic,Science,4,80,Seminar Room,10,1,10,"differential equations, applications",35,3,2,0,morning,0,0.15675675675675677,v1.1,77
+Basketball Training,Sports,Civil,1,90,Open Ground,7,2,16,"basketball, training",19,2,2,0,afternoon,0,0.1045045045045045,v1.1,70
+Negotiation Skills Workshop,Professional,Management,1,70,Seminar Room,8,1,10,"negotiation, workshop",27,3,2,0,morning,1,0.34684684684684686,v1.1,76
+Iot Security Workshop,Technology,Electrical,4,90,Seminar Room,10,3,9,"iot, security",21,3,2,0,morning,1,0.0945945945945946,v1.1,84
+Cultural Singing Performance,Cultural,Management,1,200,Auditorium,9,4,18,"singing, performance",28,3,2,0,evening,0,0.34684684684684686,v1.1,90
+Physics Concepts Review,Academic,Science,1,60,Seminar Room,9,6,11,"physics, review",23,3,2,1,morning,0,0.15675675675675677,v1.1,70
+Athletics Meet Finals,Sports,Civil,1,300,Open Ground,12,2,9,"athletics, finals",21,3,2,0,morning,0,0.1045045045045045,v1.1,95
+Job Readiness Program,Professional,Management,1,150,Main Hall,11,5,10,"job readiness, career",21,3,2,1,morning,0,0.34684684684684686,v1.1,90
+Web Development Frameworks,Technology,Computer,3,110,Seminar Room,8,1,9,"web dev, frameworks",26,3,2,0,morning,0,0.1918918918918919,v1.1,88
+Annual Drama Production,Cultural,Management,1,350,Auditorium,12,5,19,"drama, production",23,3,2,1,evening,0,0.34684684684684686,v1.1,96
+Advanced Chemistry,Academic,Science,3,70,Seminar Room,11,4,14,"chemistry, advanced",18,2,2,0,afternoon,0,0.15675675675675677,v1.1,75
+Football Skills Training,Sports,Civil,1,100,Open Ground,7,2,16,"football, skills",24,3,2,0,afternoon,0,0.1045045045045045,v1.1,72
+Interview Strategies,Professional,Management,1,80,Virtual,10,4,10,"interview, strategies",20,2,2,0,morning,0,0.34684684684684686,v1.1,85
+Ai In Robotics Workshop,Technology,Mechanical,4,100,Virtual,12,0,9,"ai, robotics",23,4,2,0,morning,1,0.08468468468468468,v1.1,89
+Cultural Painting Competition,Cultural,Management,1,100,Main Hall,10,5,10,"painting, cultural",29,3,2,1,morning,0,0.34684684684684686,v1.1,82
+Linear Algebra For Ml,Academic,Computer,4,90,Seminar Room,9,2,11,"linear algebra, ml",21,4,2,0,morning,0,0.1918918918918919,v1.1,85
+Tennis Skills Workshop,Sports,Electrical,1,80,Open Ground,8,6,15,"tennis, skills",22,3,2,1,afternoon,1,0.0945945945945946,v1.1,75
+Career Growth Strategies,Professional,Management,1,110,Seminar Room,9,1,11,"career, growth",24,3,2,0,morning,0,0.34684684684684686,v1.1,84
+Deep Learning For Computer Vision,Technology,Computer,4,120,Virtual,11,3,9,"deep learning, computer vision",33,5,2,0,morning,0,0.1918918918918919,v1.1,90
+Annual Literary Meet,Academic,Science,1,100,Auditorium,11,6,10,"literary, meet",20,3,2,1,morning,0,0.15675675675675677,v1.1,79
+Marathon Preparation,Sports,Civil,1,150,Open Ground,11,4,7,"marathon, preparation",20,2,2,0,morning,0,0.1045045045045045,v1.1,89
+Job Fair For Graduates,Professional,Management,4,250,Main Hall,12,3,10,"job fair, graduates",22,4,2,0,morning,0,0.34684684684684686,v1.1,92
+Ai In Cybersecurity,Technology,Computer,4,130,Virtual,12,3,10,"ai, cybersecurity",19,3,2,0,morning,0,0.1918918918918919,v1.1,89
+Cultural Talent Show,Cultural,Management,1,280,Auditorium,9,1,18,"talent show, cultural",20,3,2,0,evening,0,0.34684684684684686,v1.1,93
+Aerodynamics In F1,Academic,Mechanical,4,90,Seminar Room,10,3,11,"aerodynamics, f1",18,3,2,0,morning,0,0.08468468468468468,v1.1,78
+Badminton Championship Finals,Sports,Electrical,1,180,Open Ground,11,6,13,"badminton, championship",29,3,2,1,afternoon,0,0.0945945945945946,v1.1,90
+Time Management For Professionals,Professional,Management,1,100,Seminar Room,8,4,10,"time management, professionals",33,4,2,0,morning,0,0.34684684684684686,v1.1,80
+Iot Ecosystems,Technology,Electrical,4,100,Virtual,11,5,10,"iot, ecosystems",14,2,2,1,morning,0,0.0945945945945946,v1.1,87
+Traditional Folk Music,Cultural,Science,1,100,Main Hall,10,2,17,"folk music, traditional",22,3,2,0,evening,0,0.15675675675675677,v1.1,77
+Physics Research Showcase,Academic,Science,4,120,Main Hall,12,4,10,"physics, research",25,3,2,0,morning,0,0.15675675675675677,v1.1,80
+Weightlifting Championship,Sports,Civil,1,100,Open Ground,11,1,10,"weightlifting, championship",26,2,2,0,morning,0,0.1045045045045045,v1.1,85
+Business Communication Skills,Professional,Management,1,110,Seminar Room,9,0,11,"business communication, skills",29,3,2,0,morning,0,0.34684684684684686,v1.1,84
+Quantum Computing For Developers,Technology,Computer,4,100,Virtual,12,5,10,"quantum, development",32,4,2,1,morning,0,0.1918918918918919,v1.1,86
+Cultural Poetry Reading,Cultural,Science,1,70,Seminar Room,12,4,15,"poetry, cultural",23,3,2,0,afternoon,0,0.15675675675675677,v1.1,72
+Advanced Machine Learning,Academic,Computer,4,120,Seminar Room,10,2,9,"ml, advanced",25,3,2,0,morning,0,0.1918918918918919,v1.1,90
+Football Tournament,Sports,Civil,1,250,Open Ground,11,6,14,"football, tournament",19,2,2,1,afternoon,0,0.1045045045045045,v1.1,92
+Startup Ecosystem Seminar,Professional,Management,1,180,Main Hall,10,2,10,"startup, ecosystem",25,3,2,0,morning,0,0.34684684684684686,v1.1,88
+Ai In Robotics Ethics,Technology,Mechanical,4,90,Virtual,12,0,10,"ai, robotics",21,4,2,0,morning,0,0.08468468468468468,v1.1,85
+Cultural Photography Competition,Cultural,Management,1,120,Main Hall,11,6,10,"photography, cultural",32,3,2,1,morning,0,0.34684684684684686,v1.1,80
+Chemistry Research Projects,Academic,Science,4,80,Seminar Room,12,5,14,"chemistry, research",27,3,2,1,afternoon,0,0.15675675675675677,v1.1,76
+Volleyball Tournament Finals,Sports,Electrical,1,150,Open Ground,12,6,14,"volleyball, finals",28,3,2,1,afternoon,0,0.0945945945945946,v1.1,90
+Professional Networking Event,Professional,Management,1,200,Main Hall,9,3,17,"networking, professional",29,3,2,0,evening,0,0.34684684684684686,v1.1,91
+Deep Learning For Nlp,Technology,Computer,4,110,Virtual,11,3,10,"deep learning, nlp",21,4,2,0,morning,0,0.1918918918918919,v1.1,89
+Annual Science Exhibition,Academic,Science,1,200,Main Hall,12,2,9,"science, exhibition",25,3,2,0,morning,0,0.15675675675675677,v1.1,85
+Basketball Tournament,Sports,Civil,1,200,Open Ground,11,5,13,"basketball, tournament",21,2,2,1,afternoon,0,0.1045045045045045,v1.1,91
+Career Development Workshop,Professional,Management,1,100,Seminar Room,8,5,10,"career, workshop",27,3,2,1,morning,1,0.34684684684684686,v1.1,86
+Ai In Business Strategy,Technology,Computer,4,120,Virtual,12,4,9,"ai, business",23,4,2,0,morning,0,0.1918918918918919,v1.1,87
+Cultural Drama Competition,Cultural,Management,1,180,Auditorium,10,5,17,"drama, competition",26,3,2,1,evening,0,0.34684684684684686,v1.1,88
+Thermodynamics Advanced Applications,Academic,Mechanical,4,70,Seminar Room,10,0,11,"thermodynamics, applications",36,3,2,0,morning,0,0.08468468468468468,v1.1,77
+Table Tennis Tournament,Sports,Mechanical,1,100,Main Hall,11,0,14,"table tennis, tournament",23,3,2,0,afternoon,0,0.08468468468468468,v1.1,88
+Resume & Cover Letter Workshop,Professional,Management,1,80,Virtual,9,2,10,"resume, cover letter",30,5,2,0,morning,1,0.34684684684684686,v1.1,80
+Iot Solutions For Industry,Technology,Electrical,4,100,Virtual,12,1,10,"iot, industry",26,4,2,0,morning,0,0.0945945945945946,v1.1,86
+Traditional Dance Workshop,Cultural,Management,1,90,Main Hall,9,4,16,"dance, traditional",26,3,2,0,afternoon,1,0.34684684684684686,v1.1,80
+Physics Electives Overview,Academic,Science,3,70,Seminar Room,11,3,10,"physics, electives",26,3,2,0,morning,0,0.15675675675675677,v1.1,74
+Swimming Race,Sports,Civil,1,100,Open Ground,9,4,10,"swimming, race",13,2,2,0,morning,0,0.1045045045045045,v1.1,85
+Leadership And Innovation,Professional,Management,1,120,Seminar Room,10,6,9,"leadership, innovation",25,3,2,1,morning,0,0.34684684684684686,v1.1,87
+Ai And Ethics,Technology,Computer,4,110,Virtual,12,2,11,"ai, ethics",13,3,2,0,morning,0,0.1918918918918919,v1.1,88
+Cultural Arts Festival,Cultural,Management,1,300,Auditorium,12,6,17,"arts, festival",22,3,2,1,evening,0,0.34684684684684686,v1.1,94
+Advanced Engineering Mathematics,Academic,Mechanical,4,85,Seminar Room,11,2,10,"engineering maths, advanced",32,3,2,0,morning,0,0.08468468468468468,v1.1,79
+Tennis Championship,Sports,Electrical,1,150,Open Ground,12,1,13,"tennis, championship",19,2,2,0,afternoon,0,0.0945945945945946,v1.1,90
+Professional Etiquette,Professional,Management,1,90,Seminar Room,8,2,10,"etiquette, professional",22,2,2,0,morning,0,0.34684684684684686,v1.1,82
+Blockchain For Data Security,Technology,Computer,4,100,Virtual,11,1,10,"blockchain, data security",28,4,2,0,morning,0,0.1918918918918919,v1.1,87
+Annual Alumni Meet,Professional,Management,1,350,Main Hall,12,5,18,"alumni, networking",18,3,2,1,evening,0,0.34684684684684686,v1.1,95
+Chemistry Olympiad Prep,Academic,Science,4,60,Seminar Room,12,5,9,"chemistry, olympiad",23,3,2,1,morning,0,0.15675675675675677,v1.1,73
+Athletics Fun Run,Sports,Civil,1,200,Open Ground,11,4,8,"athletics, fun run",17,3,2,0,morning,0,0.1045045045045045,v1.1,89
+Career Transition Workshop,Professional,Management,1,70,Virtual,10,1,10,"career, transition",26,3,2,0,morning,1,0.34684684684684686,v1.1,78
+Ai In Education,Technology,Computer,4,100,Virtual,12,4,10,"ai, education",15,3,2,0,morning,0,0.1918918918918919,v1.1,86
+Cultural Storytelling Festival,Cultural,Science,1,100,Auditorium,10,5,16,"storytelling, cultural",30,3,2,1,afternoon,0,0.15675675675675677,v1.1,79
+Linear Algebra Review,Academic,Computer,3,75,Seminar Room,9,5,14,"linear algebra, review",21,3,2,1,afternoon,0,0.1918918918918919,v1.1,76
+Swimming Techniques Workshop,Sports,Civil,1,50,Open Ground,8,6,10,"swimming, techniques",28,3,2,1,morning,1,0.1045045045045045,v1.1,75
+Leadership Coaching,Professional,Management,1,80,Seminar Room,11,6,9,"leadership, coaching",19,2,2,1,morning,0,0.34684684684684686,v1.1,85
+Deep Learning For Healthcare,Technology,Computer,4,120,Virtual,12,3,10,"deep learning, healthcare",28,4,2,0,morning,0,0.1918918918918919,v1.1,90
+Annual Academic Conference,Academic,All,1,250,Main Hall,12,5,9,"academic, conference",26,3,2,1,morning,0,0.007207207207207207,v1.1,91
+Football Marathon,Sports,Civil,1,150,Open Ground,11,5,14,"football, marathon",17,2,2,1,afternoon,0,0.1045045045045045,v1.1,89
+Startup Mentorship Program,Professional,Management,1,100,Virtual,9,6,11,"startup, mentorship",26,3,2,1,morning,0,0.34684684684684686,v1.1,87
+Ai In Retail,Technology,Computer,4,110,Virtual,12,0,10,"ai, retail",12,3,2,0,morning,0,0.1918918918918919,v1.1,87
+Cultural Music Festival,Cultural,Management,1,300,Auditorium,11,4,18,"music, festival",23,3,2,0,evening,0,0.34684684684684686,v1.1,93
+Advanced Physics Concepts,Academic,Science,3,70,Seminar Room,10,2,11,"physics, advanced",25,3,2,0,morning,0,0.15675675675675677,v1.1,75
+Basketball Skills Workshop,Sports,Civil,1,80,Open Ground,7,5,15,"basketball, skills",26,3,2,1,afternoon,1,0.1045045045045045,v1.1,75
+Professional Development Seminars,Professional,Management,1,150,Main Hall,10,3,10,"professional development, seminars",33,3,2,0,morning,0,0.34684684684684686,v1.1,88
+Iot Security Best Practices,Technology,Electrical,4,90,Virtual,12,3,10,"iot, security",27,4,2,0,morning,0,0.0945945945945946,v1.1,86
+Traditional Dance Gala,Cultural,Management,1,200,Auditorium,10,3,18,"dance, traditional",22,3,2,0,evening,0,0.34684684684684686,v1.1,90
+Chemistry Quiz Competition,Academic,Science,2,70,Seminar Room,9,6,14,"chemistry, quiz",26,3,2,1,afternoon,0,0.15675675675675677,v1.1,72
+Table Tennis Coaching Clinic,Sports,Mechanical,1,60,Main Hall,9,5,15,"table tennis, coaching",28,4,2,1,afternoon,0,0.08468468468468468,v1.1,79
+Career Networking Tips,Professional,Management,1,90,Virtual,11,0,11,"networking, career",22,3,2,0,morning,0,0.34684684684684686,v1.1,85
+Deep Learning With Tensorflow,Technology,Computer,4,130,Virtual,11,4,9,"deep learning, tensorflow",29,4,2,0,morning,0,0.1918918918918919,v1.1,91
+Annual Cultural Day,Cultural,Management,1,350,Open Ground,12,6,17,"cultural day, annual",19,3,2,1,evening,0,0.34684684684684686,v1.1,97
+Aerodynamics Workshop,Academic,Mechanical,3,80,Seminar Room,11,1,10,"aerodynamics, workshop",21,2,2,0,morning,1,0.08468468468468468,v1.1,77
+Badminton Mixed Doubles,Sports,Electrical,1,100,Open Ground,10,0,13,"badminton, mixed doubles",23,3,2,0,afternoon,0,0.0945945945945946,v1.1,87
+Time Management Workshop,Professional,Management,1,100,Seminar Room,7,5,10,"time management, workshop",24,3,2,1,morning,1,0.34684684684684686,v1.1,79
+Iot For Smart Homes,Technology,Electrical,3,100,Virtual,10,1,9,"iot, smart homes",19,4,2,0,morning,0,0.0945945945945946,v1.1,85
+Cultural Street Art Festival,Cultural,Management,1,250,Open Ground,11,3,16,"street art, cultural",28,4,2,0,afternoon,0,0.34684684684684686,v1.1,88
+Physics Olympiad Training,Academic,Science,4,55,Seminar Room,12,6,9,"physics, olympiad",25,3,2,1,morning,0,0.15675675675675677,v1.1,72
+Weightlifting Basics,Sports,Civil,1,70,Open Ground,11,6,10,"weightlifting, basics",20,2,2,1,morning,0,0.1045045045045045,v1.1,79
+Business Ethics Seminar,Professional,Management,1,100,Seminar Room,8,5,10,"business ethics, ethics",23,3,2,1,morning,0,0.34684684684684686,v1.1,81
+Quantum Computing Research,Academic,Science,4,90,Virtual,12,1,11,"quantum, research",26,3,2,0,morning,0,0.15675675675675677,v1.1,78
+Table Tennis Exhibition Match,Sports,Mechanical,1,70,Main Hall,10,1,14,"table tennis, exhibition",29,4,2,0,afternoon,0,0.08468468468468468,v1.1,85
+Digital Marketing Strategies,Professional,Management,1,120,Virtual,11,4,9,"digital marketing, strategies",28,3,2,0,morning,0,0.34684684684684686,v1.1,88
+Ai And The Future Of Work,Technology,Computer,4,140,Main Hall,12,5,10,"ai, future of work",25,6,2,1,morning,0,0.1918918918918919,v1.1,90
+Cultural Dance Competition,Cultural,Management,1,280,Auditorium,10,6,18,"dance, competition",26,3,2,1,evening,0,0.34684684684684686,v1.1,92
+Advanced Control Systems Design,Academic,Electrical,4,75,Seminar Room,11,2,11,"control systems, design",31,4,2,0,morning,0,0.0945945945945946,v1.1,77
+Tennis Coaching Clinic,Sports,Electrical,1,60,Open Ground,8,0,16,"tennis, coaching",22,3,2,0,afternoon,0,0.0945945945945946,v1.1,70
+Career Guidance Session,Professional,Management,1,100,Virtual,9,6,10,"career, guidance",23,3,2,1,morning,0,0.34684684684684686,v1.1,86
+Deep Learning Project Showcase,Technology,Computer,4,150,Main Hall,12,2,9,"deep learning, projects",30,4,2,0,morning,0,0.1918918918918919,v1.1,92
+Annual Freshers' Meet,Cultural,Management,1,300,Auditorium,8,3,18,"freshers, welcome",21,3,2,0,evening,0,0.34684684684684686,v1.1,95
+Physics For Engineers,Academic,Science,2,80,Seminar Room,9,0,14,"physics, engineering",21,3,2,0,afternoon,0,0.15675675675675677,v1.1,75
+Swimming Workshop,Sports,Civil,1,60,Open Ground,9,3,10,"swimming, workshop",17,2,2,0,morning,1,0.1045045045045045,v1.1,78
+Professional Ethics,Professional,Management,1,90,Seminar Room,10,6,10,"ethics, professional",19,2,2,1,morning,0,0.34684684684684686,v1.1,80
+Blockchain And Cryptocurrencies,Technology,Computer,3,120,Virtual,11,0,10,"blockchain, crypto",31,3,2,0,morning,0,0.1918918918918919,v1.1,86
+Cultural Arts Workshop,Cultural,Management,1,80,Main Hall,11,5,15,"arts, workshop",22,3,2,1,afternoon,1,0.34684684684684686,v1.1,79
+Chemistry Lab Safety,Academic,Science,1,50,Seminar Room,9,1,14,"chemistry, safety",20,3,2,0,afternoon,0,0.15675675675675677,v1.1,68
+Football Skills Workshop,Sports,Civil,1,90,Open Ground,8,4,16,"football, skills",24,3,2,0,afternoon,1,0.1045045045045045,v1.1,76
+Job Application Strategies,Professional,Management,1,110,Virtual,9,6,11,"job application, strategies",26,3,2,1,morning,0,0.34684684684684686,v1.1,88
+Ai For Autonomous Systems,Technology,Mechanical,4,100,Virtual,12,6,10,"ai, autonomous",25,4,2,1,morning,0,0.08468468468468468,v1.1,89
+Cultural Exchange Workshop,Cultural,Management,1,150,Main Hall,10,2,16,"culture, exchange",26,3,2,0,afternoon,1,0.34684684684684686,v1.1,89
+Aerodynamics In Sports,Academic,Mechanical,3,70,Seminar Room,11,3,11,"aerodynamics, sports",22,3,2,0,morning,0,0.08468468468468468,v1.1,75
+Badminton Tournament League,Sports,Electrical,1,120,Open Ground,10,4,13,"badminton, league",27,3,2,0,afternoon,0,0.0945945945945946,v1.1,89
+Time Management Best Practices,Professional,Management,1,90,Seminar Room,8,4,10,"time management, best practices",30,4,2,0,morning,0,0.34684684684684686,v1.1,80
+Iot For Agriculture,Technology,Electrical,4,90,Virtual,12,3,9,"iot, agriculture",19,3,2,0,morning,0,0.0945945945945946,v1.1,85
+Cultural Storytelling Performance,Cultural,Science,1,100,Auditorium,12,0,16,"storytelling, performance",33,3,2,0,afternoon,0,0.15675675675675677,v1.1,78
+Physics Nobel Laureate Talk,Academic,Science,4,150,Main Hall,12,0,10,"physics, nobel",27,4,2,0,morning,0,0.15675675675675677,v1.1,85
+Weightlifting Training Program,Sports,Civil,1,80,Open Ground,11,2,10,"weightlifting, training",30,3,2,0,morning,0,0.1045045045045045,v1.1,82
+Business Communication Workshop,Professional,Management,1,100,Seminar Room,9,3,10,"business communication, workshop",31,3,2,0,morning,1,0.34684684684684686,v1.1,83
+Quantum Computing Future,Technology,Computer,4,110,Virtual,12,3,11,"quantum, future",24,3,2,0,morning,0,0.1918918918918919,v1.1,87
+Cultural Heritage Walk,Cultural,Management,1,100,Open Ground,11,1,14,"heritage, culture",22,3,2,0,afternoon,0,0.34684684684684686,v1.1,80
+Advanced Engineering Mechanics,Academic,Mechanical,4,75,Seminar Room,12,2,10,"engineering mechanics, advanced",30,3,2,0,morning,0,0.08468468468468468,v1.1,78
+Tennis Skills Clinic,Sports,Electrical,1,70,Open Ground,9,1,16,"tennis, skills",20,3,2,0,afternoon,0,0.0945945945945946,v1.1,72
+Career Success Strategies,Professional,Management,1,120,Seminar Room,10,3,9,"career, success",25,3,2,0,morning,0,0.34684684684684686,v1.1,86
+Deep Learning In Finance,Technology,Computer,4,120,Virtual,12,4,10,"deep learning, finance",24,4,2,0,morning,0,0.1918918918918919,v1.1,89
+Annual Science Fest,Academic,Science,1,250,Main Hall,12,3,9,"science, fest",19,3,2,0,morning,0,0.15675675675675677,v1.1,90
+Football Skills Camp,Sports,Civil,1,100,Open Ground,7,2,15,"football, skills",20,3,2,0,afternoon,0,0.1045045045045045,v1.1,75
+Startup Idea Pitch,Professional,Management,1,150,Auditorium,10,1,14,"startup, pitch",18,3,2,0,afternoon,0,0.34684684684684686,v1.1,89
+Ai In Gaming,Technology,Computer,3,100,Virtual,12,2,10,"ai, gaming",12,3,2,0,morning,0,0.1918918918918919,v1.1,85
+Cultural Art Exhibition,Cultural,Management,1,200,Auditorium,11,2,16,"art, exhibition",23,3,2,0,afternoon,0,0.34684684684684686,v1.1,80
+Chemistry Practical Workshop,Academic,Science,2,55,Seminar Room,10,4,14,"chemistry, practical",28,3,2,0,afternoon,1,0.15675675675675677,v1.1,70
+Volleyball Drills,Sports,Electrical,1,80,Open Ground,8,2,14,"volleyball, drills",17,2,2,0,afternoon,0,0.0945945945945946,v1.1,78
+Professional Networking Workshop,Professional,Management,1,100,Seminar Room,9,2,10,"networking, workshop",32,3,2,0,morning,1,0.34684684684684686,v1.1,85
+Iot For Healthcare,Technology,Electrical,4,110,Virtual,12,5,10,"iot, healthcare",18,3,2,1,morning,0,0.0945945945945946,v1.1,87
+Cultural Movie Night,Cultural,Management,1,180,Auditorium,10,6,19,"movie, cultural",20,3,2,1,evening,0,0.34684684684684686,v1.1,82
+Physics Review Session,Academic,Science,1,70,Seminar Room,9,3,11,"physics, review",22,3,2,0,morning,0,0.15675675675675677,v1.1,71
+Athletics Skills Training,Sports,Civil,1,100,Open Ground,8,0,9,"athletics, training",25,3,2,0,morning,0,0.1045045045045045,v1.1,77
+Job Search Masterclass,Professional,Management,1,90,Virtual,10,1,11,"job search, masterclass",22,3,2,0,morning,0,0.34684684684684686,v1.1,87
+Ai And Robotics Integration,Technology,Mechanical,4,120,Virtual,12,4,9,"ai, robotics",27,4,2,0,morning,0,0.08468468468468468,v1.1,89
+Cultural Fashion Show Gala,Cultural,Management,1,300,Auditorium,11,5,19,"fashion, gala",26,4,2,1,evening,0,0.34684684684684686,v1.1,93
+Advanced Linear Algebra,Academic,Computer,4,80,Seminar Room,10,5,10,"linear algebra, advanced",23,3,2,1,morning,0,0.1918918918918919,v1.1,78
+Swimming Championship Finals,Sports,Civil,1,150,Open Ground,9,2,10,"swimming, finals",28,3,2,0,morning,0,0.1045045045045045,v1.1,88
+Career Development Bootcamp,Professional,Management,1,150,Main Hall,11,5,9,"career, bootcamp",27,3,2,1,morning,0,0.34684684684684686,v1.1,89
+Deep Learning For Image Recognition,Technology,Computer,4,120,Virtual,12,5,9,"deep learning, image recognition",35,5,2,1,morning,0,0.1918918918918919,v1.1,90
+Annual Quiz Competition,Academic,All,1,200,Main Hall,12,6,10,"quiz, annual",23,3,2,1,morning,0,0.007207207207207207,v1.1,85
+Football Friendly Championship,Sports,Civil,1,200,Open Ground,11,0,14,"football, friendly",30,3,2,0,afternoon,0,0.1045045045045045,v1.1,90
+Startup Funding Seminar,Professional,Management,1,180,Main Hall,10,3,10,"startup, funding",23,3,2,0,morning,0,0.34684684684684686,v1.1,88
+Ai In Cybersecurity Attacks,Technology,Computer,4,130,Virtual,12,6,10,"ai, cybersecurity",27,4,2,1,morning,0,0.1918918918918919,v1.1,89
+Cultural Food Festival,Cultural,Management,1,300,Open Ground,11,1,17,"food, festival",22,3,2,0,evening,0,0.34684684684684686,v1.1,92
+Chemistry Practical Exams,Academic,Science,1,50,Seminar Room,9,5,14,"chemistry, exams",25,3,2,1,afternoon,0,0.15675675675675677,v1.1,67
+Volleyball Tournament League,Sports,Electrical,1,100,Open Ground,11,2,13,"volleyball, league",28,3,2,0,afternoon,0,0.0945945945945946,v1.1,88
+Professional Skills Development,Professional,Management,1,110,Seminar Room,9,4,10,"professional skills, development",31,3,2,0,morning,0,0.34684684684684686,v1.1,84
+Iot Device Security,Technology,Electrical,4,90,Virtual,12,5,11,"iot, security",19,3,2,1,morning,0,0.0945945945945946,v1.1,85
+Cultural Music Performance,Cultural,Management,1,250,Auditorium,10,1,18,"music, performance",26,3,2,0,evening,0,0.34684684684684686,v1.1,91
+Physics Concepts Illustrated,Academic,Science,2,70,Seminar Room,9,2,11,"physics, concepts",28,3,2,0,morning,0,0.15675675675675677,v1.1,73
+Athletics Warm-Up Session,Sports,Civil,1,80,Open Ground,8,6,9,"athletics, warm-up",25,3,2,1,morning,0,0.1045045045045045,v1.1,75
+Job Search Networking,Professional,Management,1,100,Virtual,11,4,10,"job search, networking",21,3,2,0,morning,0,0.34684684684684686,v1.1,86
+Ai Workshop,Technology,Computer,3,120,Seminar Room,7,0,10,ai ml workshop,11,2,1,0,morning,1,0.1918918918918919,v1.1,85
+Cricket Tournament,Sports,Management,2,300,Open Ground,8,3,16,sports cricket tournament,18,2,1,0,afternoon,0,0.34684684684684686,v1.1,78
+Robotics Seminar,Technology,Mechanical,4,80,Auditorium,9,1,14,robotics automation,16,2,1,0,afternoon,0,0.08468468468468468,v1.1,92
+Cultural Fest,Cultural,Management,1,350,Main Hall,10,5,18,dance music culture,13,2,1,1,evening,0,0.34684684684684686,v1.1,88
+Data Science Talk,Academic,Computer,3,150,Seminar Room,7,6,11,data science analytics,17,3,1,1,morning,0,0.1918918918918919,v1.1,79
+Football Match,Sports,Management,2,250,Open Ground,8,3,17,sports football,14,2,1,0,evening,0,0.34684684684684686,v1.1,72
+Web Development,Technology,Computer,2,100,Seminar Room,9,2,9,web development coding,15,2,1,0,morning,0,0.1918918918918919,v1.1,86
+Physics Quiz,Academic,Science,1,200,Auditorium,10,5,15,physics quiz competition,12,2,1,1,afternoon,0,0.15675675675675677,v1.1,65
+Career Fair,Professional,Management,4,400,Main Hall,11,2,10,career jobs placement,11,2,1,0,morning,0,0.34684684684684686,v1.1,94
+Dance Competition,Cultural,Management,3,180,Main Hall,8,4,19,dance competition,17,2,1,0,evening,0,0.34684684684684686,v1.1,83
+Machine Learning,Technology,Computer,4,90,Seminar Room,7,0,13,ml algorithms,16,2,1,0,afternoon,0,0.1918918918918919,v1.1,91
+Basketball Game,Sports,Management,1,200,Open Ground,9,2,16,sports basketball,15,2,1,0,afternoon,0,0.34684684684684686,v1.1,68
+Civil Engineering,Academic,Civil,3,120,Auditorium,10,1,14,civil engineering,17,2,1,0,afternoon,0,0.1045045045045045,v1.1,74
+Music Festival,Cultural,Management,2,320,Main Hall,11,4,20,music festival,14,2,1,0,evening,0,0.34684684684684686,v1.1,89
+Startup Pitch,Professional,Management,4,150,Seminar Room,12,1,11,startup entrepreneurship,13,2,1,0,morning,0,0.34684684684684686,v1.1,87
+Ai Workshop,Technology,Computer,3,120,Seminar Room,7,4,10,"tech, ai",11,2,2,0,morning,1,0.1918918918918919,v1.1,88
+Career Fair,Professional,Management,4,300,Auditorium,8,5,11,"career, internship",11,2,2,1,morning,0,0.34684684684684686,v1.1,92
+Tech Talk,Technology,Electrical,2,150,Main Hall,9,6,14,"tech, innovation",9,2,2,1,afternoon,0,0.0945945945945946,v1.1,79
+Cultural Fest,Cultural,Civil,3,400,Open Ground,10,6,18,"culture, dance",13,2,2,1,evening,0,0.1045045045045045,v1.1,85
+Robotics Expo,Technology,Mechanical,2,200,Auditorium,8,6,9,"robotics, automation",13,2,2,1,morning,0,0.08468468468468468,v1.1,91
+Math Olympiad,Academic,Science,1,100,Seminar Room,9,3,10,"math, logic",13,2,2,0,morning,0,0.15675675675675677,v1.1,76
+Football Tournament,Sports,Mechanical,2,220,Open Ground,11,6,16,"sports, football",19,2,2,1,afternoon,0,0.08468468468468468,v1.1,83
+Alumni Meet,Professional,Management,4,180,Main Hall,12,6,15,"networking, alumni",11,2,2,1,afternoon,0,0.34684684684684686,v1.1,88
+Ai Ethics Talk,Technology,Computer,3,90,Seminar Room,7,3,11,"ethics, ai",14,3,2,0,morning,0,0.1918918918918919,v1.1,81
+Science Fair,Academic,Science,2,250,Main Hall,10,2,12,"science, research",12,2,2,0,afternoon,0,0.15675675675675677,v1.1,89
+Cultural Night,Cultural,Management,3,300,Auditorium,9,6,19,"dance, music",14,2,2,1,evening,0,0.34684684684684686,v1.1,84
+Startup Bootcamp,Professional,Computer,4,140,Seminar Room,8,2,13,"startup, pitch",16,2,2,0,afternoon,0,0.1918918918918919,v1.1,77
+Badminton Championship,Sports,Electrical,1,110,Open Ground,10,5,17,"sports, badminton",22,2,2,1,evening,0,0.0945945945945946,v1.1,72
+Civil Model Making,Technology,Civil,2,130,Main Hall,7,5,10,"model, design",18,3,2,1,morning,0,0.1045045045045045,v1.1,75
+Cybersecurity 101,Technology,Computer,3,100,Seminar Room,8,4,9,"security, cyber",17,2,2,0,morning,0,0.1918918918918919,v1.1,82
+Drama Night,Cultural,Civil,3,180,Auditorium,11,6,18,"drama, theatre",11,2,2,1,evening,0,0.1045045045045045,v1.1,87
+Resume Workshop,Professional,Management,4,70,Seminar Room,7,5,14,"resume, skills",15,2,2,1,afternoon,1,0.34684684684684686,v1.1,79
+Science Quiz,Academic,Science,2,90,Seminar Room,9,0,11,"quiz, knowledge",12,2,2,0,morning,0,0.15675675675675677,v1.1,74
+Hackathon,Technology,Computer,4,300,Virtual,8,4,9,"hackathon, code",9,1,2,0,morning,0,0.1918918918918919,v1.1,96
+Music Jam,Cultural,Electrical,1,200,Auditorium,12,4,17,"music, jam",9,2,2,0,evening,0,0.0945945945945946,v1.1,80
+Machine Learning Talk,Technology,Computer,3,110,Seminar Room,7,4,12,"ml, data",21,3,2,0,afternoon,0,0.1918918918918919,v1.1,85
+Basketball League,Sports,Mechanical,2,160,Open Ground,9,2,15,"sports, basketball",17,2,2,0,afternoon,0,0.08468468468468468,v1.1,78
+Ethical Hacking Workshop,Technology,Computer,3,90,Seminar Room,8,2,10,"hacking, cybersecurity",24,3,2,0,morning,1,0.1918918918918919,v1.1,88
+Art & Craft,Cultural,Civil,2,130,Main Hall,10,5,13,"art, painting",11,3,2,1,afternoon,0,0.1045045045045045,v1.1,76
+Industry Talk,Professional,Management,4,200,Auditorium,8,2,10,"industry, speaker",13,2,2,0,morning,0,0.34684684684684686,v1.1,89
+Chemistry Challenge,Academic,Science,2,85,Seminar Room,9,2,9,"chemistry, quiz",19,2,2,0,morning,0,0.15675675675675677,v1.1,73
+Cricket Match,Sports,Civil,1,220,Open Ground,11,4,8,"cricket, sports",13,2,2,0,morning,0,0.1045045045045045,v1.1,84
+Python Bootcamp,Technology,Computer,3,150,Virtual,7,0,10,"python, coding",15,2,2,0,morning,0,0.1918918918918919,v1.1,92
+Open Mic Night,Cultural,Management,2,180,Auditorium,10,0,19,"comedy, poetry",14,3,2,0,evening,0,0.34684684684684686,v1.1,81
+Product Management,Professional,Management,4,100,Seminar Room,9,4,11,"product, strategy",18,2,2,0,morning,0,0.34684684684684686,v1.1,87
+Biology Fair,Academic,Science,2,130,Main Hall,8,4,12,"biology, nature",12,2,2,0,afternoon,0,0.15675675675675677,v1.1,78
+Table Tennis Tournament,Sports,Electrical,1,90,Open Ground,9,0,16,"table tennis, sports",23,3,2,0,afternoon,0,0.0945945945945946,v1.1,75
+Web Dev Basics,Technology,Computer,2,120,Seminar Room,7,3,10,"webdev, html",14,3,2,0,morning,0,0.1918918918918919,v1.1,83
+Dance Battle,Cultural,Civil,3,210,Auditorium,11,0,18,"dance, music",12,2,2,0,evening,0,0.1045045045045045,v1.1,86
+Physics Olympiad,Academic,Science,1,100,Seminar Room,9,3,10,"physics, quiz",16,2,2,0,morning,0,0.15675675675675677,v1.1,77
+Volleyball League,Sports,Mechanical,2,140,Open Ground,10,1,15,"sports, volleyball",17,2,2,0,afternoon,0,0.08468468468468468,v1.1,79
+Blockchain Basics,Technology,Computer,3,100,Seminar Room,8,6,11,"blockchain, crypto",17,2,2,1,morning,0,0.1918918918918919,v1.1,84
+Hackathon,Technology,Computer,3,200,Seminar Room,8,0,9,hackathon coding,9,1,1,0,morning,0,0.1918918918918919,v1.1,93
+Tennis Tournament,Sports,Management,2,100,Open Ground,7,1,15,sports tennis,17,2,1,0,afternoon,0,0.34684684684684686,v1.1,71
+Chemistry Lab,Academic,Science,1,80,Seminar Room,9,3,10,chemistry lab,13,2,1,0,morning,0,0.15675675675675677,v1.1,66
+Drama Performance,Cultural,Management,4,250,Main Hall,10,4,19,drama theater,17,2,1,0,evening,0,0.34684684684684686,v1.1,85
+Iot Conference,Technology,Electrical,3,180,Auditorium,11,4,13,iot sensors,14,2,1,0,afternoon,0,0.0945945945945946,v1.1,88
+Volleyball Match,Sports,Management,1,150,Open Ground,8,1,17,sports volleyball,16,2,1,0,evening,0,0.34684684684684686,v1.1,69
+Math Olympiad,Academic,Science,2,120,Seminar Room,9,6,14,math competition,13,2,1,1,afternoon,0,0.15675675675675677,v1.1,73
+Art Exhibition,Cultural,Management,3,200,Main Hall,10,4,16,art exhibition,14,2,1,0,afternoon,0,0.34684684684684686,v1.1,81
+Internship Fair,Professional,Management,3,300,Main Hall,11,0,10,internship career,15,2,1,0,morning,0,0.34684684684684686,v1.1,90
+Coding Contest,Technology,Computer,2,150,Seminar Room,7,3,12,coding programming,14,2,1,0,afternoon,0,0.1918918918918919,v1.1,84
+Badminton Game,Sports,Management,4,80,Open Ground,8,2,18,sports badminton,14,2,1,0,evening,0,0.34684684684684686,v1.1,70
+Biology Seminar,Academic,Science,1,100,Auditorium,9,4,11,biology research,15,2,1,0,morning,0,0.15675675675675677,v1.1,67
+Fashion Show,Cultural,Management,2,280,Main Hall,10,2,20,fashion design,12,2,1,0,evening,0,0.34684684684684686,v1.1,86
+Tech Symposium,Technology,Computer,4,220,Auditorium,12,1,9,technology innovation,14,2,1,0,morning,0,0.1918918918918919,v1.1,92
+Cricket Match,Sports,Management,3,350,Open Ground,7,3,16,sports cricket,13,2,1,0,afternoon,0,0.34684684684684686,v1.1,75
+Debate Competition,Academic,Management,2,150,Seminar Room,8,3,15,debate public speaking,18,2,1,0,afternoon,0,0.34684684684684686,v1.1,77
+Photography Workshop,Cultural,Management,1,120,Seminar Room,9,3,14,photography art,20,2,1,0,afternoon,1,0.34684684684684686,v1.1,82
+Job Interview,Professional,Management,4,100,Seminar Room,11,0,10,interview skills,13,2,1,0,morning,0,0.34684684684684686,v1.1,88
+Cybersecurity Talk,Technology,Computer,3,160,Auditorium,7,4,13,cybersecurity hacking,18,2,1,0,afternoon,0,0.1918918918918919,v1.1,89
+Hockey Tournament,Sports,Management,2,200,Open Ground,8,6,17,sports hockey,17,2,1,1,evening,0,0.34684684684684686,v1.1,72
+English Literature,Academic,Management,1,130,Seminar Room,9,5,11,literature poetry,18,2,1,1,morning,0,0.34684684684684686,v1.1,68
+Film Screening,Cultural,Management,4,240,Main Hall,10,1,19,film cinema,14,2,1,0,evening,0,0.34684684684684686,v1.1,84
+Networking Event,Professional,Management,3,180,Main Hall,12,3,18,networking professional,16,2,1,0,evening,0,0.34684684684684686,v1.1,91
+Python Workshop,Technology,Computer,2,110,Seminar Room,7,0,10,python programming,15,2,1,0,morning,1,0.1918918918918919,v1.1,87
+Table Tennis,Sports,Management,1,60,Seminar Room,8,6,16,sports table tennis,12,2,1,1,afternoon,0,0.34684684684684686,v1.1,66
+Statistics Class,Academic,Science,3,140,Auditorium,9,6,14,statistics data,16,2,1,1,afternoon,0,0.15675675675675677,v1.1,71
+Singing Contest,Cultural,Management,2,200,Main Hall,10,0,18,singing music,15,2,1,0,evening,0,0.34684684684684686,v1.1,85
+Resume Workshop,Professional,Management,4,120,Seminar Room,11,1,9,resume writing,15,2,1,0,morning,1,0.34684684684684686,v1.1,86
+Blockchain Seminar,Technology,Computer,3,130,Auditorium,7,5,15,blockchain crypto,18,2,1,1,afternoon,0,0.1918918918918919,v1.1,90
+Football Game,Sports,Management,4,280,Open Ground,8,0,17,sports football,13,2,1,0,evening,0,0.34684684684684686,v1.1,74
+Economics Forum,Academic,Management,2,160,Seminar Room,9,2,12,economics finance,15,2,1,0,afternoon,0,0.34684684684684686,v1.1,76
+Poetry Reading,Cultural,Management,1,90,Seminar Room,10,1,17,poetry literature,14,2,1,0,evening,0,0.34684684684684686,v1.1,79
+Leadership Talk,Professional,Management,3,170,Auditorium,12,6,11,leadership management,15,2,1,1,morning,0,0.34684684684684686,v1.1,88
+Cloud Computing,Technology,Computer,4,140,Seminar Room,7,0,14,cloud computing,15,2,1,0,afternoon,0,0.1918918918918919,v1.1,89
+Swimming Meet,Sports,Management,2,120,Open Ground,8,0,15,sports swimming,13,2,1,0,afternoon,0,0.34684684684684686,v1.1,70
+Geology Trip,Academic,Science,3,80,Open Ground,9,2,8,geology field trip,12,2,1,0,morning,0,0.15675675675675677,v1.1,65
+Music Concert,Cultural,Management,4,300,Main Hall,10,6,20,music concert,13,2,1,1,evening,0,0.34684684684684686,v1.1,90
+Startup Demo,Professional,Management,2,150,Seminar Room,11,3,13,startup demo,12,2,1,0,afternoon,0,0.34684684684684686,v1.1,85
+Game Development,Technology,Computer,3,100,Seminar Room,7,1,10,game development,16,2,1,0,morning,0,0.1918918918918919,v1.1,83
+Chess Tournament,Sports,Management,1,80,Seminar Room,8,3,14,chess strategy,16,2,1,0,afternoon,0,0.34684684684684686,v1.1,67
+Philosophy Debate,Academic,Management,4,110,Auditorium,9,0,16,philosophy ethics,17,2,1,0,afternoon,0,0.34684684684684686,v1.1,73
+Stand-Up Comedy,Cultural,Management,2,180,Main Hall,10,4,19,comedy entertainment,15,2,1,0,evening,0,0.34684684684684686,v1.1,87
+Sales Training,Professional,Management,3,140,Seminar Room,12,6,10,sales marketing,14,2,1,1,morning,0,0.34684684684684686,v1.1,84
+Mobile App Dev,Technology,Computer,4,120,Seminar Room,7,6,11,mobile apps,14,3,1,1,morning,0,0.1918918918918919,v1.1,88
+Rugby Match,Sports,Management,2,200,Open Ground,8,3,16,sports rugby,11,2,1,0,afternoon,0,0.34684684684684686,v1.1,71
+History Lecture,Academic,Management,1,160,Auditorium,9,6,13,history culture,15,2,1,1,afternoon,0,0.34684684684684686,v1.1,69
+Fashion Design,Cultural,Management,3,150,Seminar Room,10,5,15,fashion design,14,2,1,1,afternoon,0,0.34684684684684686,v1.1,82
+Mock Interview,Professional,Management,4,90,Seminar Room,11,4,9,interview practice,14,2,1,0,morning,0,0.34684684684684686,v1.1,89
+Vr Experience,Technology,Computer,2,80,Seminar Room,8,3,14,virtual reality,13,2,1,0,afternoon,0,0.1918918918918919,v1.1,91
+Archery Contest,Sports,Management,1,100,Open Ground,8,6,15,sports archery,15,2,1,1,afternoon,0,0.34684684684684686,v1.1,68
+Sociology Class,Academic,Science,3,130,Auditorium,9,3,11,sociology society,15,2,1,0,morning,0,0.15675675675675677,v1.1,72
+Drama Workshop,Cultural,Management,4,120,Main Hall,10,1,18,drama acting,14,2,1,0,evening,1,0.34684684684684686,v1.1,84
+Finance Seminar,Professional,Management,2,180,Seminar Room,12,6,10,finance investment,15,2,1,1,morning,0,0.34684684684684686,v1.1,86
+Software Testing,Technology,Computer,3,110,Seminar Room,7,3,13,software testing qa,16,2,1,0,afternoon,0,0.1918918918918919,v1.1,85
+Marathon Race,Sports,Management,4,300,Open Ground,8,4,6,sports marathon,13,2,1,0,morning,0,0.34684684684684686,v1.1,76
+Psychology Talk,Academic,Science,1,140,Auditorium,9,5,14,psychology mind,15,2,1,1,afternoon,0,0.15675675675675677,v1.1,74
+Band Performance,Cultural,Management,2,220,Main Hall,10,1,19,music band,16,2,1,0,evening,0,0.34684684684684686,v1.1,88
+Communication Skills,Professional,Management,3,160,Seminar Room,11,2,11,communication skills,20,2,1,0,morning,0,0.34684684684684686,v1.1,87
+Database Design,Technology,Computer,4,100,Seminar Room,7,3,10,database sql,15,2,1,0,morning,0,0.1918918918918919,v1.1,82
+Squash Tournament,Sports,Management,1,60,Seminar Room,8,6,17,sports squash,17,2,1,1,evening,0,0.34684684684684686,v1.1,65
+Anthropology Study,Academic,Science,2,90,Auditorium,9,4,15,anthropology culture,18,2,1,0,afternoon,0,0.15675675675675677,v1.1,70
+Painting Workshop,Cultural,Management,3,100,Seminar Room,10,0,16,painting art,17,2,1,0,afternoon,1,0.34684684684684686,v1.1,83
+Team Building,Professional,Management,4,200,Open Ground,12,3,9,team building,13,2,1,0,morning,0,0.34684684684684686,v1.1,91
+Ai Ethics Talk,Technology,Computer,2,150,Auditorium,7,0,12,ai ethics,14,3,1,0,afternoon,0,0.1918918918918919,v1.1,89
+Cycling Race,Sports,Management,3,150,Open Ground,8,3,7,sports cycling,12,2,1,0,morning,0,0.34684684684684686,v1.1,73
+Literature Review,Academic,Management,1,120,Seminar Room,9,2,13,literature review,17,2,1,0,afternoon,0,0.34684684684684686,v1.1,71
+Jazz Performance,Cultural,Management,4,180,Main Hall,10,6,20,jazz music,16,2,1,1,evening,0,0.34684684684684686,v1.1,86
+Project Management,Professional,Management,2,140,Seminar Room,11,4,14,project management,18,2,1,0,afternoon,0,0.34684684684684686,v1.1,88
+Quantum Computing,Technology,Computer,3,90,Auditorium,8,0,11,quantum computing,17,2,1,0,morning,0,0.1918918918918919,v1.1,92
+Wrestling Match,Sports,Management,4,200,Open Ground,8,2,18,sports wrestling,15,2,1,0,evening,0,0.34684684684684686,v1.1,72
+Botany Field Trip,Academic,Science,1,70,Open Ground,9,2,8,botany plants,17,3,1,0,morning,0,0.15675675675675677,v1.1,66
+Mime Performance,Cultural,Management,2,120,Main Hall,10,4,17,mime performance,16,2,1,0,evening,0,0.34684684684684686,v1.1,81
+Digital Marketing,Professional,Management,3,170,Seminar Room,12,6,15,digital marketing,17,2,1,1,afternoon,0,0.34684684684684686,v1.1,87
+Robotics Competition,Technology,Mechanical,4,160,Auditorium,7,4,9,robotics competition,20,2,1,0,morning,0,0.08468468468468468,v1.1,94
+Karate Tournament,Sports,Management,1,120,Open Ground,8,1,16,sports karate,17,2,1,0,afternoon,0,0.34684684684684686,v1.1,69
+Astronomy Night,Academic,Science,2,100,Open Ground,9,6,20,astronomy stars,15,2,1,1,evening,0,0.15675675675675677,v1.1,78
+Sculpture Exhibition,Cultural,Management,3,140,Main Hall,10,4,15,sculpture art,20,2,1,0,afternoon,0,0.34684684684684686,v1.1,84
+Negotiation Skills,Professional,Management,4,110,Seminar Room,11,3,10,negotiation skills,18,2,1,0,morning,0,0.34684684684684686,v1.1,85
+Devops Workshop,Technology,Computer,2,130,Seminar Room,7,1,13,devops deployment,15,2,1,0,afternoon,1,0.1918918918918919,v1.1,86
+Fencing Contest,Sports,Management,3,80,Seminar Room,8,0,17,sports fencing,15,2,1,0,evening,0,0.34684684684684686,v1.1,67
+Political Science,Academic,Management,1,150,Auditorium,9,0,12,political science,17,2,1,0,afternoon,0,0.34684684684684686,v1.1,75
+Theater Production,Cultural,Management,4,250,Main Hall,10,1,19,theater production,18,2,1,0,evening,0,0.34684684684684686,v1.1,89
+Entrepreneurship Talk,Professional,Management,2,180,Auditorium,12,3,11,entrepreneurship,21,2,1,0,morning,0,0.34684684684684686,v1.1,90
+Ui/Ux Design,Technology,Computer,3,120,Seminar Room,8,3,14,ui ux design,12,2,1,0,afternoon,0,0.1918918918918919,v1.1,88
+Rowing Competition,Sports,Management,4,100,Open Ground,8,6,16,sports rowing,18,2,1,1,afternoon,0,0.34684684684684686,v1.1,70
+Microbiology Lab,Academic,Science,1,60,Seminar Room,9,6,10,microbiology lab,16,2,1,1,morning,0,0.15675675675675677,v1.1,68
+Folk Dance Show,Cultural,Management,2,200,Main Hall,10,2,18,folk dance,15,3,1,0,evening,0,0.34684684684684686,v1.1,85
+Public Speaking,Professional,Management,3,140,Seminar Room,11,0,13,public speaking,15,2,1,0,afternoon,0,0.34684684684684686,v1.1,87
+Automation Workshop,Technology,Mechanical,4,110,Seminar Room,7,3,11,automation control,19,2,1,0,morning,1,0.08468468468468468,v1.1,83
+Judo Tournament,Sports,Management,1,90,Open Ground,8,2,15,sports judo,15,2,1,0,afternoon,0,0.34684684684684686,v1.1,71
+Ecology Seminar,Academic,Science,2,100,Auditorium,9,4,14,ecology environment,15,2,1,0,afternoon,0,0.15675675675675677,v1.1,73
+Calligraphy Workshop,Cultural,Management,3,80,Seminar Room,10,1,16,calligraphy art,20,2,1,0,afternoon,1,0.34684684684684686,v1.1,80
+Time Management,Professional,Management,4,160,Seminar Room,12,1,9,time management,15,2,1,0,morning,0,0.34684684684684686,v1.1,86
+Network Security,Technology,Computer,2,140,Auditorium,7,0,15,network security,16,2,1,0,afternoon,0,0.1918918918918919,v1.1,90
+Gymnastics Show,Sports,Management,3,150,Open Ground,8,6,18,sports gymnastics,15,2,1,1,evening,0,0.34684684684684686,v1.1,74
+Thermodynamics Class,Academic,Mechanical,1,120,Auditorium,9,5,11,thermodynamics,20,2,1,1,morning,0,0.08468468468468468,v1.1,69
+Poetry Workshop,Cultural,Management,4,100,Seminar Room,10,0,17,poetry writing,15,2,1,0,evening,1,0.34684684684684686,v1.1,82
+Conflict Resolution,Professional,Management,2,130,Seminar Room,11,0,14,conflict resolution,19,2,1,0,afternoon,0,0.34684684684684686,v1.1,84
+Embedded Systems,Technology,Electrical,3,90,Seminar Room,8,0,10,embedded systems,16,2,1,0,morning,0,0.0945945945945946,v1.1,85
+Sailing Competition,Sports,Management,4,80,Open Ground,8,3,14,sports sailing,19,2,1,0,afternoon,0,0.34684684684684686,v1.1,68
+Organic Chemistry,Academic,Science,1,110,Auditorium,9,2,13,organic chemistry,17,2,1,0,afternoon,0,0.15675675675675677,v1.1,72
+Magic Show,Cultural,Management,2,180,Main Hall,10,6,19,magic entertainment,10,2,1,1,evening,0,0.34684684684684686,v1.1,87
+Presentation Skills,Professional,Management,3,150,Seminar Room,12,6,10,presentation skills,19,2,1,1,morning,0,0.34684684684684686,v1.1,88
+Agile Methodology,Technology,Computer,4,120,Seminar Room,7,6,12,agile scrum,17,2,1,1,afternoon,0,0.1918918918918919,v1.1,89
+Rock Climbing,Sports,Management,1,60,Open Ground,8,3,16,sports climbing,13,2,1,0,afternoon,0,0.34684684684684686,v1.1,66
+Fluid Mechanics,Academic,Mechanical,2,100,Auditorium,9,2,15,fluid mechanics,15,2,1,0,afternoon,0,0.08468468468468468,v1.1,70
+Puppet Show,Cultural,Management,3,120,Main Hall,10,4,16,puppet show,11,2,1,0,afternoon,0,0.34684684684684686,v1.1,83
+Crisis Management,Professional,Management,4,140,Seminar Room,11,4,11,crisis management,17,2,1,0,morning,0,0.34684684684684686,v1.1,86
+Data Analytics,Technology,Computer,2,160,Seminar Room,8,0,9,data analytics,14,2,1,0,morning,0,0.1918918918918919,v1.1,87
+Ping Pong Tournament,Sports,Management,3,80,Seminar Room,8,4,17,sports ping pong,20,3,1,0,evening,0,0.34684684684684686,v1.1,67
+Structural Engineering,Academic,Civil,1,130,Auditorium,9,6,14,structural engineering,22,2,1,1,afternoon,0,0.1045045045045045,v1.1,74
+Origami Workshop,Cultural,Management,4,70,Seminar Room,10,4,15,origami art,16,2,1,0,afternoon,1,0.34684684684684686,v1.1,81
+Stress Management,Professional,Management,2,120,Seminar Room,12,6,13,stress management,17,2,1,1,afternoon,0,0.34684684684684686,v1.1,85
+Digital Circuits,Technology,Electrical,3,100,Seminar Room,7,5,11,digital circuits,16,2,1,1,morning,0,0.0945945945945946,v1.1,84
+Frisbee Tournament,Sports,Management,4,100,Open Ground,8,6,16,sports frisbee,18,2,1,1,afternoon,0,0.34684684684684686,v1.1,69
+Inorganic Chemistry,Academic,Science,1,90,Auditorium,9,0,10,inorganic chemistry,19,2,1,0,morning,0,0.15675675675675677,v1.1,71
+Storytelling Session,Cultural,Management,2,110,Seminar Room,10,0,18,storytelling,20,2,1,0,evening,0,0.34684684684684686,v1.1,82
+Goal Setting,Professional,Management,3,150,Seminar Room,11,4,9,goal setting,12,2,1,0,morning,0,0.34684684684684686,v1.1,87
+Software Architecture,Technology,Computer,4,130,Auditorium,8,3,14,software architecture,21,2,1,0,afternoon,0,0.1918918918918919,v1.1,91
+Equestrian Show,Sports,Management,1,120,Open Ground,8,6,15,sports equestrian,15,2,1,1,afternoon,0,0.34684684684684686,v1.1,73
+Materials Science,Academic,Mechanical,2,110,Auditorium,9,6,12,materials science,17,2,1,1,afternoon,0,0.08468468468468468,v1.1,75
+Acrobatics Performance,Cultural,Management,3,160,Main Hall,10,1,19,acrobatics,22,2,1,0,evening,0,0.34684684684684686,v1.1,86
+Innovation Workshop,Professional,Management,4,180,Seminar Room,12,6,10,innovation creativity,19,2,1,1,morning,1,0.34684684684684686,v1.1,89
+Computer Vision,Technology,Computer,2,100,Seminar Room,7,3,13,computer vision,15,2,1,0,afternoon,0,0.1918918918918919,v1.1,88
+Skateboarding Contest,Sports,Management,3,80,Open Ground,8,1,17,sports skateboarding,21,2,1,0,evening,0,0.34684684684684686,v1.1,68
+Environmental Science,Academic,Science,1,140,Auditorium,9,5,11,environmental science,21,2,1,1,morning,0,0.15675675675675677,v1.1,72
+Beatboxing Battle,Cultural,Management,4,150,Main Hall,10,1,20,beatboxing music,17,2,1,0,evening,0,0.34684684684684686,v1.1,84
+Mindfulness Training,Professional,Management,2,100,Seminar Room,11,0,14,mindfulness meditation,20,2,1,0,afternoon,0,0.34684684684684686,v1.1,83
+Natural Language Processing,Technology,Computer,3,90,Seminar Room,8,3,10,nlp ai,27,3,1,0,morning,0,0.1918918918918919,v1.1,90
+Surfing Competition,Sports,Management,4,100,Open Ground,8,2,15,sports surfing,19,2,1,0,afternoon,0,0.34684684684684686,v1.1,70
+Geotechnical Engineering,Academic,Civil,1,80,Auditorium,9,4,13,geotechnical engineering,24,2,1,0,afternoon,0,0.1045045045045045,v1.1,69
+Juggling Workshop,Cultural,Management,2,90,Seminar Room,10,2,17,juggling performance,17,2,1,0,evening,1,0.34684684684684686,v1.1,80
+Emotional Intelligence,Professional,Management,3,160,Seminar Room,12,3,11,emotional intelligence,22,2,1,0,morning,0,0.34684684684684686,v1.1,85
+Augmented Reality,Technology,Computer,4,110,Seminar Room,7,3,12,augmented reality,17,2,1,0,afternoon,0,0.1918918918918919,v1.1,92
+Parkour Training,Sports,Management,1,70,Open Ground,8,3,16,sports parkour,16,2,1,0,afternoon,0,0.34684684684684686,v1.1,67
+Power Systems,Academic,Electrical,2,120,Auditorium,9,2,14,power systems,13,2,1,0,afternoon,0,0.0945945945945946,v1.1,73
+Balloon Art,Cultural,Management,3,80,Seminar Room,10,6,16,balloon art,11,2,1,1,afternoon,0,0.34684684684684686,v1.1,78
+Decision Making,Professional,Management,4,140,Seminar Room,11,3,10,decision making,15,2,1,0,morning,0,0.34684684684684686,v1.1,86
+Distributed Systems,Technology,Computer,2,100,Auditorium,8,0,11,distributed systems,19,2,1,0,morning,0,0.1918918918918919,v1.1,89
+Bouldering Contest,Sports,Management,3,60,Open Ground,8,3,18,sports bouldering,18,2,1,0,evening,0,0.34684684684684686,v1.1,65
+Heat Transfer,Academic,Mechanical,1,110,Auditorium,9,2,12,heat transfer,13,2,1,0,afternoon,0,0.08468468468468468,v1.1,71
+Face Painting,Cultural,Management,4,100,Main Hall,10,4,15,face painting,13,2,1,0,afternoon,0,0.34684684684684686,v1.1,82
+Adaptability Skills,Professional,Management,2,130,Seminar Room,12,3,13,adaptability,19,2,1,0,afternoon,0,0.34684684684684686,v1.1,84
+Microservices Architecture,Technology,Computer,3,90,Seminar Room,7,1,14,microservices,26,2,1,0,afternoon,0,0.1918918918918919,v1.1,87
+Ultimate Frisbee,Sports,Management,4,120,Open Ground,8,6,17,sports ultimate frisbee,16,2,1,1,evening,0,0.34684684684684686,v1.1,72
+Circuit Analysis,Academic,Electrical,1,100,Auditorium,9,6,10,circuit analysis,16,2,1,1,morning,0,0.0945945945945946,v1.1,70
+Graffiti Art,Cultural,Management,2,90,Seminar Room,10,0,18,graffiti art,12,2,1,0,evening,0,0.34684684684684686,v1.1,79
+Work-Life Balance,Professional,Management,3,150,Seminar Room,11,2,14,work life balance,17,2,1,0,afternoon,0,0.34684684684684686,v1.1,85
+Containerization,Technology,Computer,4,80,Seminar Room,8,0,15,containers docker,16,1,1,0,afternoon,0,0.1918918918918919,v1.1,88
+Kite Flying,Sports,Management,1,100,Open Ground,8,4,16,sports kite flying,11,2,1,0,afternoon,0,0.34684684684684686,v1.1,68
+Concrete Technology,Academic,Civil,2,90,Auditorium,9,0,11,concrete technology,19,2,1,0,morning,0,0.1045045045045045,v1.1,74
+Pottery Making,Cultural,Management,3,70,Seminar Room,10,4,16,pottery art,14,2,1,0,afternoon,0,0.34684684684684686,v1.1,81
+Networking Skills,Professional,Management,4,140,Seminar Room,12,6,9,networking skills,17,2,1,1,morning,0,0.34684684684684686,v1.1,86
+Signal Processing,Technology,Electrical,2,100,Seminar Room,7,0,13,signal processing,17,2,1,0,afternoon,0,0.0945945945945946,v1.1,85
+Laser Tag,Sports,Management,3,150,Open Ground,8,6,19,sports laser tag,9,2,1,1,evening,0,0.34684684684684686,v1.1,75
+Renewable Energy,Academic,Electrical,1,120,Auditorium,9,6,14,renewable energy,16,2,1,1,afternoon,0,0.0945945945945946,v1.1,76
+Mime Workshop,Cultural,Management,4,80,Seminar Room,10,1,17,mime art,13,2,1,0,evening,1,0.34684684684684686,v1.1,80
+Problem Solving,Professional,Management,2,160,Seminar Room,11,0,10,problem solving,15,2,1,0,morning,0,0.34684684684684686,v1.1,87
+Version Control,Technology,Computer,3,110,Seminar Room,8,3,11,version control git,15,2,1,0,morning,0,0.1918918918918919,v1.1,84
+Treasure Hunt,Sports,Management,4,200,Open Ground,8,1,15,sports treasure hunt,13,2,1,0,afternoon,0,0.34684684684684686,v1.1,77
+Machine Design,Academic,Mechanical,1,90,Auditorium,9,5,13,machine design,14,2,1,1,afternoon,0,0.08468468468468468,v1.1,72
+Woodworking,Cultural,Management,2,60,Seminar Room,10,2,16,woodworking,11,1,1,0,afternoon,0,0.34684684684684686,v1.1,78
+Leadership Development,Professional,Management,3,170,Auditorium,12,1,11,leadership development,22,2,1,0,morning,0,0.34684684684684686,v1.1,90
+Data Structures,Technology,Computer,4,120,Seminar Room,7,0,10,data structures,15,2,1,0,morning,0,0.1918918918918919,v1.1,86
+Obstacle Course,Sports,Management,1,100,Open Ground,8,2,17,sports obstacle course,15,2,1,0,evening,0,0.34684684684684686,v1.1,69
+Transportation Engineering,Academic,Civil,2,110,Auditorium,9,4,12,transportation engineering,26,2,1,0,afternoon,0,0.1045045045045045,v1.1,73
+Candle Making,Cultural,Management,3,70,Seminar Room,10,4,15,candle making,13,2,1,0,afternoon,0,0.34684684684684686,v1.1,79
+Cultural Intelligence,Professional,Management,4,140,Seminar Room,11,0,13,cultural intelligence,21,2,1,0,afternoon,0,0.34684684684684686,v1.1,83
+Operating Systems,Technology,Computer,2,130,Auditorium,8,3,14,operating systems,17,2,1,0,afternoon,0,0.1918918918918919,v1.1,88
+Tug Of War,Sports,Management,3,150,Open Ground,8,3,16,sports tug of war,10,3,1,0,afternoon,0,0.34684684684684686,v1.1,71
+Control Systems,Academic,Electrical,1,100,Auditorium,9,2,11,control systems,15,2,1,0,morning,0,0.0945945945945946,v1.1,74
+Soap Making,Cultural,Management,4,80,Seminar Room,10,6,17,soap making,11,2,1,1,evening,0,0.34684684684684686,v1.1,80
+Innovation Thinking,Professional,Management,2,150,Seminar Room,12,6,10,innovation thinking,19,2,1,1,morning,0,0.34684684684684686,v1.1,89
+Compiler Design,Technology,Computer,3,90,Seminar Room,7,6,12,compiler design,15,2,1,1,afternoon,0,0.1918918918918919,v1.1,87
+Relay Race,Sports,Management,4,200,Open Ground,8,6,15,sports relay race,10,2,1,1,afternoon,0,0.34684684684684686,v1.1,76
+Surveying,Academic,Civil,1,80,Auditorium,9,2,10,surveying,9,1,1,0,morning,0,0.1045045045045045,v1.1,68
+Leather Crafting,Cultural,Management,2,60,Seminar Room,10,0,16,leather crafting,16,2,1,0,afternoon,0,0.34684684684684686,v1.1,77
+Change Management,Professional,Management,3,160,Seminar Room,11,4,14,change management,17,2,1,0,afternoon,0,0.34684684684684686,v1.1,85
+Computer Graphics,Technology,Computer,4,110,Seminar Room,8,0,13,computer graphics,17,2,1,0,afternoon,0,0.1918918918918919,v1.1,91
+Sack Race,Sports,Management,1,120,Open Ground,8,4,16,sports sack race,9,2,1,0,afternoon,0,0.34684684684684686,v1.1,70
+Vibrations,Academic,Mechanical,2,90,Auditorium,9,6,12,vibrations,10,1,1,1,afternoon,0,0.08468468468468468,v1.1,71
+Glass Blowing,Cultural,Management,3,50,Seminar Room,10,1,18,glass blowing,13,2,1,0,evening,0,0.34684684684684686,v1.1,82
+Performance Management,Professional,Management,4,140,Seminar Room,12,6,11,performance management,22,2,1,1,morning,0,0.34684684684684686,v1.1,86
+Information Security,Technology,Computer,2,120,Auditorium,7,5,15,information security,20,2,1,1,afternoon,0,0.1918918918918919,v1.1,89
+Dodgeball Tournament,Sports,Management,3,100,Open Ground,8,6,17,sports dodgeball,20,2,1,1,evening,0,0.34684684684684686,v1.1,72
+Water Resources,Academic,Civil,1,100,Auditorium,9,0,13,water resources,15,2,1,0,afternoon,0,0.1045045045045045,v1.1,73
+Jewelry Making,Cultural,Management,4,70,Seminar Room,10,1,16,jewelry making,14,2,1,0,afternoon,0,0.34684684684684686,v1.1,81
+Strategic Planning,Professional,Management,2,180,Seminar Room,11,3,9,strategic planning,18,2,1,0,morning,0,0.34684684684684686,v1.1,88
+Human Computer Interaction,Technology,Computer,3,100,Seminar Room,8,0,14,hci usability,26,3,1,0,afternoon,0,0.1918918918918919,v1.1,85
+Capture The Flag,Sports,Management,4,150,Open Ground,8,1,18,sports capture flag,16,3,1,0,evening,0,0.34684684684684686,v1.1,74
+Digital Signal Processing,Academic,Electrical,1,80,Auditorium,9,6,11,digital signal processing,25,3,1,1,morning,0,0.0945945945945946,v1.1,72
+Tie-Dye Workshop,Cultural,Management,2,90,Seminar Room,10,2,17,tie dye art,16,2,1,0,evening,1,0.34684684684684686,v1.1,78
+Quality Management,Professional,Management,3,150,Seminar Room,12,3,10,quality management,18,2,1,0,morning,0,0.34684684684684686,v1.1,87
+Parallel Computing,Technology,Computer,4,90,Seminar Room,7,3,11,parallel computing,18,2,1,0,morning,0,0.1918918918918919,v1.1,90
+Scavenger Hunt,Sports,Management,1,180,Open Ground,8,2,15,sports scavenger hunt,14,2,1,0,afternoon,0,0.34684684684684686,v1.1,75
+Fluid Dynamics,Academic,Mechanical,2,100,Auditorium,9,2,14,fluid dynamics,14,2,1,0,afternoon,0,0.08468468468468468,v1.1,70
+Embroidery Class,Cultural,Management,3,60,Seminar Room,10,4,15,embroidery art,16,2,1,0,afternoon,0,0.34684684684684686,v1.1,79
+Risk Management,Professional,Management,4,140,Seminar Room,11,4,13,risk management,15,2,1,0,afternoon,0,0.34684684684684686,v1.1,86
+Software Engineering,Technology,Computer,2,130,Auditorium,8,3,10,software engineering,20,2,1,0,morning,0,0.1918918918918919,v1.1,88
+Water Balloon Fight,Sports,Management,3,120,Open Ground,8,3,18,sports water balloon,19,3,1,0,evening,0,0.34684684684684686,v1.1,73
+Electromagnetic Fields,Academic,Electrical,1,90,Auditorium,9,4,12,electromagnetic fields,22,2,1,0,afternoon,0,0.0945945945945946,v1.1,71
+Origami Birds,Cultural,Management,4,80,Seminar Room,10,4,16,origami birds,13,2,1,0,afternoon,0,0.34684684684684686,v1.1,80
+Diversity Training,Professional,Management,2,160,Seminar Room,12,3,14,diversity inclusion,18,2,1,0,afternoon,0,0.34684684684684686,v1.1,84
+Artificial Intelligence,Technology,Computer,3,140,Auditorium,7,3,13,artificial intelligence,23,2,1,0,afternoon,0,0.1918918918918919,v1.1,93
+Balloon Volleyball,Sports,Management,4,100,Open Ground,8,3,17,sports balloon volleyball,18,2,1,0,evening,0,0.34684684684684686,v1.1,69
+Structural Analysis,Academic,Civil,1,110,Auditorium,9,5,10,structural analysis,19,2,1,1,morning,0,0.1045045045045045,v1.1,72
+Macrame Workshop,Cultural,Management,2,70,Seminar Room,10,6,17,macrame art,16,2,1,1,evening,1,0.34684684684684686,v1.1,78
+Talent Management,Professional,Management,3,150,Seminar Room,11,2,11,talent management,17,2,1,0,morning,0,0.34684684684684686,v1.1,85
+Distributed Computing,Technology,Computer,4,100,Seminar Room,8,4,12,distributed computing,21,2,1,0,afternoon,0,0.1918918918918919,v1.1,89
+Limbo Contest,Sports,Management,1,80,Open Ground,8,6,19,sports limbo,13,2,1,1,evening,0,0.34684684684684686,v1.1,68
+Manufacturing Processes,Academic,Mechanical,2,120,Auditorium,9,6,13,manufacturing processes,23,2,1,1,afternoon,0,0.08468468468468468,v1.1,74
+Decoupage Art,Cultural,Management,3,60,Seminar Room,10,0,16,decoupage art,13,2,1,0,afternoon,0,0.34684684684684686,v1.1,77
+Mentorship Program,Professional,Management,4,180,Seminar Room,12,6,10,mentorship,18,2,1,1,morning,0,0.34684684684684686,v1.1,87
+Deep Learning,Technology,Computer,2,110,Seminar Room,7,4,14,deep learning,13,2,1,0,afternoon,0,0.1918918918918919,v1.1,92
+Musical Chairs,Sports,Management,3,100,Open Ground,8,6,18,sports musical chairs,14,2,1,1,evening,0,0.34684684684684686,v1.1,70
+Highway Engineering,Academic,Civil,1,90,Auditorium,9,6,11,highway engineering,19,2,1,1,morning,0,0.1045045045045045,v1.1,71
+Silk Painting,Cultural,Management,4,50,Seminar Room,10,1,18,silk painting,13,2,1,0,evening,0,0.34684684684684686,v1.1,81
+Succession Planning,Professional,Management,2,140,Seminar Room,11,0,12,succession planning,19,2,1,0,afternoon,0,0.34684684684684686,v1.1,86
+Computer Networks,Technology,Computer,3,120,Auditorium,8,0,11,computer networks,17,2,1,0,morning,0,0.1918918918918919,v1.1,87
+Hopscotch Tournament,Sports,Management,4,60,Open Ground,8,1,16,sports hopscotch,20,2,1,0,afternoon,0,0.34684684684684686,v1.1,67
+Analog Circuits,Academic,Electrical,1,80,Auditorium,9,0,14,analog circuits,15,2,1,0,afternoon,0,0.0945945945945946,v1.1,73
+Stained Glass,Cultural,Management,2,50,Seminar Room,10,4,17,stained glass art,13,2,1,0,evening,0,0.34684684684684686,v1.1,79
+Organizational Behavior,Professional,Management,3,160,Seminar Room,12,1,13,organizational behavior,23,2,1,0,afternoon,0,0.34684684684684686,v1.1,85
+Information Theory,Technology,Computer,4,90,Seminar Room,7,1,10,information theory,18,2,1,0,morning,0,0.1918918918918919,v1.1,88
+Red Light Green Light,Sports,Management,1,100,Open Ground,8,2,17,sports red light green light,21,4,1,0,evening,0,0.34684684684684686,v1.1,69
+Concrete Structures,Academic,Civil,2,100,Auditorium,9,2,12,concrete structures,19,2,1,0,afternoon,0,0.1045045045045045,v1.1,72
+Batik Art,Cultural,Management,3,70,Seminar Room,10,1,16,batik art,9,2,1,0,afternoon,0,0.34684684684684686,v1.1,80
+Team Dynamics,Professional,Management,4,150,Seminar Room,11,0,11,team dynamics,13,2,1,0,morning,0,0.34684684684684686,v1.1,86
+Robotics Programming,Technology,Mechanical,2,80,Seminar Room,8,0,9,robotics programming,20,2,1,0,morning,0,0.08468468468468468,v1.1,84
+Fashion Show,Cultural,Management,3,280,Main Hall,12,6,18,"fashion, culture",12,2,2,1,evening,0,0.34684684684684686,v1.1,90
+Internship Panel,Professional,Computer,4,130,Seminar Room,7,0,14,"career, internship",16,2,2,0,afternoon,0,0.1918918918918919,v1.1,83
+English Debate,Academic,Science,2,120,Main Hall,9,0,12,"debate, english",14,2,2,0,afternoon,0,0.15675675675675677,v1.1,76
+Marathon,Sports,Mechanical,2,300,Open Ground,11,1,7,"run, sports",8,1,2,0,morning,0,0.08468468468468468,v1.1,88
+Data Science Panel,Technology,Computer,4,150,Virtual,8,6,11,"data, analytics",18,3,2,1,morning,0,0.1918918918918919,v1.1,91
+Street Play,Cultural,Civil,3,200,Open Ground,10,3,17,"play, social",11,2,2,0,evening,0,0.1045045045045045,v1.1,85
+Elevator Pitch,Professional,Management,4,100,Seminar Room,9,6,10,"startup, pitch",14,2,2,1,morning,0,0.34684684684684686,v1.1,82
+Chem Lab Safety,Academic,Science,1,80,Seminar Room,7,1,9,"lab, safety",15,3,2,0,morning,0,0.15675675675675677,v1.1,70
+Chess Tournament,Sports,Computer,1,90,Main Hall,8,1,14,"chess, sports",16,2,2,0,afternoon,0,0.1918918918918919,v1.1,74
+Django Workshop,Technology,Computer,3,100,Seminar Room,9,4,10,"web, python",15,2,2,0,morning,1,0.1918918918918919,v1.1,86
+Festive Gala,Cultural,Management,3,350,Auditorium,12,3,19,"festival, culture",12,2,2,0,evening,0,0.34684684684684686,v1.1,92
+Resume Review,Professional,Management,4,70,Seminar Room,8,3,10,"resume, review",13,2,2,0,morning,0,0.34684684684684686,v1.1,81
+Environmental Quiz,Academic,Science,2,110,Seminar Room,9,2,11,"environment, nature",18,2,2,0,morning,0,0.15675675675675677,v1.1,79
+Tug Of War,Sports,Civil,1,130,Open Ground,10,3,16,"tug, sports",10,3,2,0,afternoon,0,0.1045045045045045,v1.1,76
+Cloud Computing 101,Technology,Computer,3,120,Virtual,7,4,13,"cloud, aws",19,3,2,0,afternoon,0,0.1918918918918919,v1.1,88
+Street Dance Show,Cultural,Electrical,2,250,Auditorium,10,4,18,"dance, freestyle",17,3,2,0,evening,0,0.0945945945945946,v1.1,87
+Startup Stories,Professional,Computer,4,140,Seminar Room,8,1,11,"startup, journey",15,2,2,0,morning,0,0.1918918918918919,v1.1,85
+Ai Workshop,Technology,Computer,3,150,Auditorium,7,0,14,"ai, ml, workshop",11,2,3,0,afternoon,1,0.1918918918918919,v1.1,85
+Robotics Competition,Technology,Mechanical,2,200,Main Hall,8,1,10,"robotics, competition",20,2,2,0,morning,0,0.08468468468468468,v1.1,78
+Cultural Fest,Cultural,Management,1,350,Open Ground,9,3,9,"cultural, fest, music",13,2,3,0,morning,0,0.34684684684684686,v1.1,92
+Data Science Seminar,Academic,Science,4,100,Seminar Room,7,0,13,"data science, seminar",20,3,2,0,afternoon,0,0.15675675675675677,v1.1,75
+Cricket Tournament,Sports,Electrical,2,250,Open Ground,10,5,15,"sports, cricket",18,2,2,1,afternoon,0,0.0945945945945946,v1.1,88
+Career Fair,Professional,Management,3,300,Main Hall,8,3,11,"career, professional",11,2,2,0,morning,0,0.34684684684684686,v1.1,80
+Machine Learning Bootcamp,Technology,Computer,4,120,Auditorium,9,2,14,"ml, bootcamp",25,3,2,0,afternoon,0,0.1918918918918919,v1.1,82
+Debate Competition,Academic,Civil,1,80,Seminar Room,7,1,10,"debate, competition",18,2,2,0,morning,0,0.1045045045045045,v1.1,70
+Dance Workshop,Cultural,Management,2,180,Main Hall,11,6,16,"dance, workshop",14,2,2,1,afternoon,1,0.34684684684684686,v1.1,90
+Engineering Expo,Technology,Mechanical,3,220,Main Hall,10,4,9,"engineering, expo",16,2,2,0,morning,0,0.08468468468468468,v1.1,77
+Math Olympiad,Academic,Science,1,90,Seminar Room,8,2,13,"math, olympiad",13,2,2,0,afternoon,0,0.15675675675675677,v1.1,72
+Basketball Championship,Sports,Electrical,2,200,Open Ground,9,5,14,"sports, basketball",23,2,2,1,afternoon,0,0.0945945945945946,v1.1,85
+Networking Event,Professional,Management,4,150,Seminar Room,11,4,17,"networking, professional",16,2,2,0,evening,0,0.34684684684684686,v1.1,79
+Hackathon,Technology,Computer,3,180,Auditorium,10,5,10,"hackathon, coding",9,1,2,1,morning,0,0.1918918918918919,v1.1,88
+Music Concert,Cultural,Management,1,400,Open Ground,12,3,18,"music, concert",13,2,2,0,evening,0,0.34684684684684686,v1.1,95
+Python Workshop,Technology,Computer,2,110,Seminar Room,7,6,14,"python, workshop",15,2,2,1,afternoon,1,0.1918918918918919,v1.1,81
+Research Symposium,Academic,Science,4,130,Auditorium,9,3,11,"research, symposium",18,2,2,0,morning,0,0.15675675675675677,v1.1,73
+Volleyball Match,Sports,Civil,2,150,Open Ground,8,6,16,"sports, volleyball",16,2,2,1,afternoon,0,0.1045045045045045,v1.1,83
+Finance Seminar,Professional,Management,3,170,Main Hall,10,4,15,"finance, seminar",15,2,2,0,afternoon,0,0.34684684684684686,v1.1,76
+Iot Workshop,Technology,Electrical,4,140,Seminar Room,11,4,10,"iot, workshop",12,2,2,0,morning,1,0.0945945945945946,v1.1,84
+Theater Play,Cultural,Management,1,250,Main Hall,12,3,19,"theater, play",12,2,2,0,evening,0,0.34684684684684686,v1.1,91
+Ai Panel Discussion,Technology,Computer,3,160,Auditorium,8,5,13,"ai, panel",19,3,2,1,afternoon,0,0.1918918918918919,v1.1,80
+Chemistry Quiz,Academic,Science,2,95,Seminar Room,9,6,10,"chemistry, quiz",14,2,2,1,morning,0,0.15675675675675677,v1.1,68
+Football Match,Sports,Mechanical,1,300,Open Ground,10,2,15,"sports, football",14,2,2,0,afternoon,0,0.08468468468468468,v1.1,87
+Leadership Talk,Professional,Management,4,120,Seminar Room,11,4,14,"leadership, talk",15,2,2,0,afternoon,0,0.34684684684684686,v1.1,78
+Web Dev Bootcamp,Technology,Computer,2,200,Auditorium,7,5,9,"web, dev, bootcamp",16,3,3,1,morning,0,0.1918918918918919,v1.1,83
+Poetry Slam,Cultural,Civil,1,180,Main Hall,8,4,17,"poetry, slam",11,2,2,0,evening,0,0.1045045045045045,v1.1,89
+Physics Workshop,Academic,Science,3,105,Seminar Room,10,3,11,"physics, workshop",16,2,2,0,morning,1,0.15675675675675677,v1.1,74
+Badminton Tournament,Sports,Electrical,2,160,Open Ground,9,2,16,"sports, badminton",20,2,2,0,afternoon,0,0.0945945945945946,v1.1,82
+Startup Pitch,Professional,Management,4,190,Main Hall,12,6,10,"startup, pitch",13,2,2,1,morning,0,0.34684684684684686,v1.1,85
+Cybersecurity Seminar,Technology,Computer,3,140,Auditorium,8,0,14,"cybersecurity, seminar",21,2,2,0,afternoon,0,0.1918918918918919,v1.1,79
+Art Exhibition,Cultural,Management,1,220,Main Hall,10,1,12,"art, exhibition",14,2,2,0,afternoon,0,0.34684684684684686,v1.1,93
+Statistics Lecture,Academic,Science,2,85,Seminar Room,7,3,13,"statistics, lecture",18,2,2,0,afternoon,0,0.15675675675675677,v1.1,71
+Table Tennis Match,Sports,Mechanical,1,120,Open Ground,11,2,15,"sports, table tennis",18,3,2,0,afternoon,0,0.08468468468468468,v1.1,80
+Marketing Workshop,Professional,Management,3,170,Seminar Room,9,1,14,"marketing, workshop",18,2,2,0,afternoon,1,0.34684684684684686,v1.1,77
+Blockchain Workshop,Technology,Computer,4,130,Auditorium,10,1,13,"blockchain, workshop",19,2,2,0,afternoon,1,0.1918918918918919,v1.1,81
+Drama Competition,Cultural,Civil,2,150,Main Hall,11,1,18,"drama, competition",17,2,2,0,evening,0,0.1045045045045045,v1.1,88
+Biology Seminar,Academic,Science,1,75,Seminar Room,8,3,10,"biology, seminar",15,2,2,0,morning,0,0.15675675675675677,v1.1,69
+Swimming Competition,Sports,Electrical,3,180,Open Ground,9,4,14,"sports, swimming",20,2,2,0,afternoon,0,0.0945945945945946,v1.1,84
+Hr Conference,Professional,Management,4,200,Main Hall,12,1,9,"hr, conference",13,2,2,0,morning,0,0.34684684684684686,v1.1,82
+Cloud Computing Workshop,Technology,Computer,2,160,Auditorium,7,0,14,"cloud, workshop",24,3,2,0,afternoon,1,0.1918918918918919,v1.1,83
+Photography Contest,Cultural,Management,1,190,Main Hall,10,5,16,"photography, contest",19,2,2,1,afternoon,0,0.34684684684684686,v1.1,90
+Economics Debate,Academic,Science,3,110,Seminar Room,11,1,11,"economics, debate",16,2,2,0,morning,0,0.15675675675675677,v1.1,76
+Chess Tournament,Sports,Mechanical,2,100,Open Ground,8,2,13,"sports, chess",16,2,2,0,afternoon,0,0.08468468468468468,v1.1,79
+Entrepreneurship Talk,Professional,Management,4,140,Seminar Room,9,0,15,"entrepreneurship, talk",21,2,2,0,afternoon,0,0.34684684684684686,v1.1,81
+Data Analytics Bootcamp,Technology,Computer,3,170,Auditorium,10,1,10,"data, analytics, bootcamp",23,3,3,0,morning,0,0.1918918918918919,v1.1,85
+Singing Competition,Cultural,Civil,1,240,Main Hall,12,6,19,"singing, competition",19,2,2,1,evening,0,0.1045045045045045,v1.1,94
+Astronomy Lecture,Academic,Science,2,90,Seminar Room,8,0,14,"astronomy, lecture",17,2,2,0,afternoon,0,0.15675675675675677,v1.1,72
+Tennis Championship,Sports,Electrical,3,200,Open Ground,10,0,16,"sports, tennis",19,2,2,0,afternoon,0,0.0945945945945946,v1.1,86
+Investment Seminar,Professional,Management,4,150,Seminar Room,11,0,14,"investment, seminar",18,2,2,0,afternoon,0,0.34684684684684686,v1.1,78
+Ui/Ux Workshop,Technology,Computer,2,120,Auditorium,9,6,11,"ui, ux, workshop",14,2,3,1,morning,1,0.1918918918918919,v1.1,80
+Fashion Show,Cultural,Management,1,300,Main Hall,12,4,18,"fashion, show",12,2,2,0,evening,0,0.34684684684684686,v1.1,96
+Geology Workshop,Academic,Science,3,95,Seminar Room,7,2,13,"geology, workshop",16,2,2,0,afternoon,1,0.15675675675675677,v1.1,73
+Hockey Match,Sports,Mechanical,2,220,Open Ground,11,0,15,"sports, hockey",12,2,2,0,afternoon,0,0.08468468468468468,v1.1,84
+Public Speaking Event,Professional,Management,4,180,Main Hall,10,0,10,"public speaking, event",21,3,2,0,morning,0,0.34684684684684686,v1.1,83
+Ar/Vr Demo,Technology,Computer,3,140,Auditorium,8,3,14,"ar, vr, demo",10,2,3,0,afternoon,0,0.1918918918918919,v1.1,82
+Painting Exhibition,Cultural,Civil,1,210,Main Hall,9,5,12,"painting, exhibition",19,2,2,1,afternoon,0,0.1045045045045045,v1.1,91
+Psychology Seminar,Academic,Science,2,85,Seminar Room,10,0,11,"psychology, seminar",18,2,2,0,morning,0,0.15675675675675677,v1.1,74
+Athletics Meet,Sports,Electrical,3,250,Open Ground,12,1,9,"sports, athletics",14,2,2,0,morning,0,0.0945945945945946,v1.1,88
+Business Analytics Workshop,Professional,Management,4,160,Seminar Room,11,5,13,"business, analytics, workshop",27,3,3,1,afternoon,1,0.34684684684684686,v1.1,80
+Ethical Hacking Workshop,Technology,Computer,2,150,Auditorium,8,6,15,"ethical hacking, workshop",24,3,2,1,afternoon,1,0.1918918918918919,v1.1,84
+Literary Fest,Cultural,Management,1,280,Main Hall,12,2,17,"literary, fest",13,2,2,0,evening,0,0.34684684684684686,v1.1,93
+Environmental Science Talk,Academic,Science,3,100,Seminar Room,9,6,10,"environmental, science",26,3,2,1,morning,0,0.15675675675675677,v1.1,75
+Kabaddi Tournament,Sports,Mechanical,2,180,Open Ground,11,6,16,"sports, kabaddi",18,2,2,1,afternoon,0,0.08468468468468468,v1.1,82
+Sales Training,Professional,Management,4,130,Seminar Room,10,6,14,"sales, training",14,2,2,1,afternoon,0,0.34684684684684686,v1.1,77
+Mobile App Development Workshop,Technology,Computer,3,190,Auditorium,12,3,10,"mobile, app, workshop",31,4,3,0,morning,1,0.1918918918918919,v1.1,86
+Stand-Up Comedy Night,Cultural,Civil,1,200,Main Hall,11,4,19,"comedy, stand-up",21,3,2,0,evening,0,0.1045045045045045,v1.1,89
+Mathematics Workshop,Academic,Science,2,110,Seminar Room,8,0,13,"mathematics, workshop",20,2,2,0,afternoon,1,0.15675675675675677,v1.1,76
+Basketball League,Sports,Electrical,3,230,Open Ground,10,3,15,"sports, basketball",17,2,2,0,afternoon,0,0.0945945945945946,v1.1,87
+Product Management Seminar,Professional,Management,4,170,Main Hall,9,5,11,"product management, seminar",26,3,2,1,morning,0,0.34684684684684686,v1.1,81
+Game Development Workshop,Technology,Computer,2,140,Auditorium,7,2,14,"game, development, workshop",25,3,3,0,afternoon,1,0.1918918918918919,v1.1,83
+Pottery Workshop,Cultural,Management,1,160,Main Hall,10,3,16,"pottery, workshop",16,2,2,0,afternoon,1,0.34684684684684686,v1.1,88
+Chemistry Seminar,Academic,Science,3,90,Seminar Room,11,3,10,"chemistry, seminar",17,2,2,0,morning,0,0.15675675675675677,v1.1,72
+Cricket League,Sports,Mechanical,2,270,Open Ground,12,5,14,"sports, cricket",14,2,2,1,afternoon,0,0.08468468468468468,v1.1,89
+Digital Marketing Workshop,Professional,Management,4,150,Seminar Room,9,1,13,"digital marketing, workshop",26,3,2,0,afternoon,1,0.34684684684684686,v1.1,79
+Ai Ethics Discussion,Technology,Computer,3,120,Auditorium,8,4,15,"ai, ethics",20,3,2,0,afternoon,0,0.1918918918918919,v1.1,80
+Classical Music Night,Cultural,Civil,1,240,Main Hall,12,5,18,"music, classical",21,3,2,1,evening,0,0.1045045045045045,v1.1,94
+Physics Olympiad,Academic,Science,2,95,Seminar Room,10,3,11,"physics, olympiad",16,2,2,0,morning,0,0.15675675675675677,v1.1,73
+Volleyball League,Sports,Electrical,3,200,Open Ground,11,3,16,"sports, volleyball",17,2,2,0,afternoon,0,0.0945945945945946,v1.1,85
+Supply Chain Seminar,Professional,Management,4,180,Main Hall,9,2,10,"supply chain, seminar",20,3,2,0,morning,0,0.34684684684684686,v1.1,82
+Big Data Workshop,Technology,Computer,2,170,Auditorium,7,5,14,"big data, workshop",17,3,2,1,afternoon,1,0.1918918918918919,v1.1,84
+Sculpture Exhibition,Cultural,Management,1,190,Main Hall,10,3,12,"sculpture, exhibition",20,2,2,0,afternoon,0,0.34684684684684686,v1.1,90
+Zoology Seminar,Academic,Science,3,80,Seminar Room,12,6,10,"zoology, seminar",15,2,2,1,morning,0,0.15675675675675677,v1.1,71
+Badminton League,Sports,Mechanical,2,150,Open Ground,8,4,15,"sports, badminton",16,2,2,0,afternoon,0,0.08468468468468468,v1.1,81
+Retail Management Workshop,Professional,Management,4,140,Seminar Room,11,6,14,"retail, management, workshop",26,3,3,1,afternoon,1,0.34684684684684686,v1.1,78
+Devops Workshop,Technology,Computer,3,160,Auditorium,10,5,11,"devops, workshop",15,2,2,1,morning,1,0.1918918918918919,v1.1,85
+Folk Dance Competition,Cultural,Civil,1,220,Main Hall,12,5,17,"dance, folk, competition",22,3,3,1,evening,0,0.1045045045045045,v1.1,92
+Botany Workshop,Academic,Science,2,100,Seminar Room,9,5,13,"botany, workshop",15,2,2,1,afternoon,1,0.15675675675675677,v1.1,74
+Table Tennis League,Sports,Electrical,3,130,Open Ground,11,1,16,"sports, table tennis",19,3,2,0,afternoon,0,0.0945945945945946,v1.1,83
+Corporate Law Seminar,Professional,Management,4,200,Main Hall,10,5,9,"corporate law, seminar",21,3,2,1,morning,0,0.34684684684684686,v1.1,80
+Embedded Systems Workshop,Technology,Computer,2,150,Auditorium,8,2,14,"embedded systems, workshop",25,3,2,0,afternoon,1,0.1918918918918919,v1.1,82
+Short Film Festival,Cultural,Management,1,260,Main Hall,12,1,19,"film, festival",19,3,2,0,evening,0,0.34684684684684686,v1.1,95
+Microbiology Seminar,Academic,Science,3,85,Seminar Room,11,5,10,"microbiology, seminar",20,2,2,1,morning,0,0.15675675675675677,v1.1,72
+Football League,Sports,Mechanical,2,280,Open Ground,9,0,15,"sports, football",15,2,2,0,afternoon,0,0.08468468468468468,v1.1,88
+Operations Management Workshop,Professional,Management,4,170,Seminar Room,10,6,13,"operations, management, workshop",30,3,3,1,afternoon,1,0.34684684684684686,v1.1,81
+Quantum Computing Talk,Technology,Computer,3,130,Auditorium,12,1,15,"quantum computing, talk",22,3,2,0,afternoon,0,0.1918918918918919,v1.1,83
+Jazz Concert,Cultural,Civil,1,210,Main Hall,11,1,18,"music, jazz",12,2,2,0,evening,0,0.1045045045045045,v1.1,91
+Genetics Seminar,Academic,Science,2,90,Seminar Room,8,0,11,"genetics, seminar",16,2,2,0,morning,0,0.15675675675675677,v1.1,73
+Hockey League,Sports,Electrical,3,240,Open Ground,10,5,14,"sports, hockey",13,2,2,1,afternoon,0,0.0945945945945946,v1.1,86
+Financial Planning Seminar,Professional,Management,4,160,Main Hall,9,5,10,"financial planning, seminar",26,3,2,1,morning,0,0.34684684684684686,v1.1,79
+5G Technology Workshop,Technology,Computer,2,180,Auditorium,7,2,14,"5g, workshop",22,3,2,0,afternoon,1,0.1918918918918919,v1.1,84
+Calligraphy Workshop,Cultural,Management,1,140,Main Hall,12,5,16,"calligraphy, workshop",20,2,2,1,afternoon,1,0.34684684684684686,v1.1,87
+Neuroscience Talk,Academic,Science,3,95,Seminar Room,11,5,13,"neuroscience, talk",17,2,2,1,afternoon,0,0.15675675675675677,v1.1,75
+Kabaddi League,Sports,Mechanical,2,200,Open Ground,10,2,16,"sports, kabaddi",14,2,2,0,afternoon,0,0.08468468468468468,v1.1,82
+Brand Management Workshop,Professional,Management,4,150,Seminar Room,9,5,14,"brand management, workshop",25,3,2,1,afternoon,1,0.34684684684684686,v1.1,80
+Augmented Reality Workshop,Technology,Computer,3,170,Auditorium,12,3,11,"ar, workshop",26,3,2,0,morning,1,0.1918918918918919,v1.1,85
+Rock Band Performance,Cultural,Civil,1,230,Main Hall,11,5,19,"music, rock",21,3,2,1,evening,0,0.1045045045045045,v1.1,93
+Paleontology Seminar,Academic,Science,2,80,Seminar Room,8,2,10,"paleontology, seminar",20,2,2,0,morning,0,0.15675675675675677,v1.1,71
+Swimming League,Sports,Electrical,3,190,Open Ground,9,4,14,"sports, swimming",15,2,2,0,afternoon,0,0.0945945945945946,v1.1,84
+Customer Service Training,Professional,Management,4,140,Seminar Room,10,3,13,"customer service, training",25,3,2,0,afternoon,0,0.34684684684684686,v1.1,77
+Natural Language Processing Workshop,Technology,Computer,2,160,Auditorium,11,3,15,"nlp, workshop",36,4,2,0,afternoon,1,0.1918918918918919,v1.1,83
+Origami Workshop,Cultural,Management,1,120,Main Hall,12,3,16,"origami, workshop",16,2,2,0,afternoon,1,0.34684684684684686,v1.1,86
+Meteorology Seminar,Academic,Science,3,100,Seminar Room,9,3,11,"meteorology, seminar",19,2,2,0,morning,0,0.15675675675675677,v1.1,74
+Tennis League,Sports,Mechanical,2,210,Open Ground,11,3,15,"sports, tennis",13,2,2,0,afternoon,0,0.08468468468468468,v1.1,87
+Social Media Marketing Workshop,Professional,Management,4,180,Main Hall,10,4,10,"social media, marketing, workshop",31,4,3,0,morning,1,0.34684684684684686,v1.1,82
+Computer Vision Workshop,Technology,Computer,3,150,Auditorium,12,5,14,"computer vision, workshop",24,3,2,1,afternoon,1,0.1918918918918919,v1.1,84
+Indian Classical Dance,Cultural,Civil,1,250,Main Hall,11,3,18,"dance, classical",22,3,2,0,evening,0,0.1045045045045045,v1.1,94
+Oceanography Seminar,Academic,Science,2,85,Seminar Room,8,2,13,"oceanography, seminar",20,2,2,0,afternoon,0,0.15675675675675677,v1.1,72
+Cricket Championship,Sports,Electrical,3,260,Open Ground,12,4,14,"sports, cricket",20,2,2,0,afternoon,0,0.0945945945945946,v1.1,89
+Project Management Certification,Professional,Management,4,190,Seminar Room,9,3,9,"project management, certification",32,3,2,0,morning,0,0.34684684684684686,v1.1,83
+Edge Computing Workshop,Technology,Computer,2,140,Auditorium,10,2,15,"edge computing, workshop",23,3,2,0,afternoon,1,0.1918918918918919,v1.1,81
+Western Music Night,Cultural,Management,1,220,Main Hall,12,6,19,"music, western",19,3,2,1,evening,0,0.34684684684684686,v1.1,92
+Biotechnology Seminar,Academic,Science,3,90,Seminar Room,11,3,10,"biotechnology, seminar",21,2,2,0,morning,0,0.15675675675675677,v1.1,75
+Basketball Tournament,Sports,Mechanical,2,230,Open Ground,10,2,16,"sports, basketball",21,2,2,0,afternoon,0,0.08468468468468468,v1.1,86
+E-Commerce Workshop,Professional,Management,4,160,Main Hall,9,4,14,"e-commerce, workshop",19,2,2,0,afternoon,1,0.34684684684684686,v1.1,80
+Autonomous Vehicles Talk,Technology,Computer,3,170,Auditorium,12,0,11,"autonomous vehicles, talk",24,3,2,0,morning,0,0.1918918918918919,v1.1,84
+Karaoke Night,Cultural,Civil,1,200,Main Hall,11,1,18,"karaoke, music",13,2,2,0,evening,0,0.1045045045045045,v1.1,89
+Astrophysics Seminar,Academic,Science,2,95,Seminar Room,8,3,14,"astrophysics, seminar",20,2,2,0,afternoon,0,0.15675675675675677,v1.1,73
+Volleyball Championship,Sports,Electrical,3,240,Open Ground,12,4,15,"sports, volleyball",23,2,2,0,afternoon,0,0.0945945945945946,v1.1,88
+Human Resources Workshop,Professional,Management,4,150,Seminar Room,10,4,13,"hr, workshop",24,3,2,0,afternoon,1,0.34684684684684686,v1.1,79
+Smart Cities Workshop,Technology,Computer,2,180,Auditorium,9,4,15,"smart cities, workshop",21,3,2,0,afternoon,1,0.1918918918918919,v1.1,83
+Magic Show,Cultural,Management,1,210,Main Hall,12,0,17,"magic, show",10,2,2,0,evening,0,0.34684684684684686,v1.1,90
+Nanotechnology Seminar,Academic,Science,3,100,Seminar Room,11,2,11,"nanotechnology, seminar",22,2,2,0,morning,0,0.15675675675675677,v1.1,76
+Football Tournament,Sports,Mechanical,2,270,Open Ground,10,0,14,"sports, football",19,2,2,0,afternoon,0,0.08468468468468468,v1.1,87
+Negotiation Skills Workshop,Professional,Management,4,170,Main Hall,9,4,10,"negotiation, workshop",27,3,2,0,morning,1,0.34684684684684686,v1.1,81
+6G Technology Discussion,Technology,Computer,3,160,Auditorium,12,1,14,"6g, discussion",24,3,2,0,afternoon,0,0.1918918918918919,v1.1,82
+Comic Book Workshop,Cultural,Civil,1,130,Main Hall,11,2,16,"comic, workshop",19,3,2,0,afternoon,1,0.1045045045045045,v1.1,85
+Archaeology Seminar,Academic,Science,2,80,Seminar Room,8,5,10,"archaeology, seminar",19,2,2,1,morning,0,0.15675675675675677,v1.1,71
+Badminton Championship,Sports,Electrical,3,200,Open Ground,12,0,16,"sports, badminton",22,2,2,0,afternoon,0,0.0945945945945946,v1.1,84
+Business Communication Workshop,Professional,Management,4,140,Seminar Room,10,1,13,"business communication, workshop",31,3,2,0,afternoon,1,0.34684684684684686,v1.1,78
+Drone Technology Workshop,Technology,Computer,2,150,Auditorium,9,6,15,"drones, workshop",25,3,2,1,afternoon,1,0.1918918918918919,v1.1,83
+Salsa Dance Workshop,Cultural,Management,1,180,Main Hall,12,1,18,"dance, salsa",20,3,2,0,evening,1,0.34684684684684686,v1.1,91
+Geophysics Seminar,Academic,Science,3,90,Seminar Room,11,5,11,"geophysics, seminar",18,2,2,1,morning,0,0.15675675675675677,v1.1,74
+Table Tennis Championship,Sports,Mechanical,2,160,Open Ground,10,6,15,"sports, table tennis",25,3,2,1,afternoon,0,0.08468468468468468,v1.1,82
+Time Management Workshop,Professional,Management,4,190,Main Hall,9,0,9,"time management, workshop",24,3,2,0,morning,1,0.34684684684684686,v1.1,80
+Robotics Expo,Cultural,Science,4,247,Auditorium,9,2,10,"music, culture",13,2,2,0,morning,0,0.15675675675675677,v1.1,88
+Environmental Quiz,Academic,Computer,1,364,Seminar Room,11,1,11,"chemistry, math",18,2,2,0,morning,0,0.1918918918918919,v1.1,99
+Open Mic Night,Sports,Science,3,158,Seminar Room,10,0,11,"football, badminton",14,3,2,0,morning,0,0.15675675675675677,v1.1,83
+Chess Tournament,Cultural,Civil,2,121,Auditorium,7,0,9,"fashion, music",16,2,2,0,morning,0,0.1045045045045045,v1.1,39
+Resume Review,Professional,Management,4,186,Open Ground,11,6,10,"career, resume",13,2,2,1,morning,0,0.34684684684684686,v1.1,98
+Environmental Quiz,Sports,Science,2,282,Seminar Room,11,4,12,"sports, badminton",18,2,2,0,afternoon,0,0.15675675675675677,v1.1,39
+Alumni Meet,Sports,Civil,3,149,Virtual,10,3,16,"basketball, badminton",11,2,2,0,afternoon,0,0.1045045045045045,v1.1,39
+Cricket Match,Academic,Computer,1,214,Virtual,7,1,13,"physics, chemistry",13,2,2,0,afternoon,0,0.1918918918918919,v1.1,78
+Dance Battle,Technology,Civil,4,191,Auditorium,9,4,10,"data, cloud",12,2,2,0,morning,0,0.1045045045045045,v1.1,87
+Elevator Pitch,Sports,Mechanical,4,374,Main Hall,10,4,10,"sports, basketball",14,2,2,0,morning,0,0.08468468468468468,v1.1,85
+Hackathon,Professional,Mechanical,3,233,Virtual,12,3,11,"career, startup",9,1,2,0,morning,0,0.08468468468468468,v1.1,58
+Volleyball League,Cultural,Management,4,370,Open Ground,8,2,15,"drama, dance",17,2,2,0,afternoon,0,0.34684684684684686,v1.1,48
+Ai Workshop,Sports,Civil,2,299,Virtual,8,1,13,"football, sports",11,2,2,0,afternoon,1,0.1045045045045045,v1.1,37
+Biology Fair,Technology,Civil,1,72,Virtual,7,1,17,"ml, ai",12,2,2,0,evening,0,0.1045045045045045,v1.1,95
+Chem Lab Safety,Sports,Civil,2,227,Virtual,11,5,11,"football, basketball",15,3,2,1,morning,0,0.1045045045045045,v1.1,70
+Chess Tournament,Sports,Science,4,159,Main Hall,11,2,19,"badminton, sports",16,2,2,0,evening,0,0.15675675675675677,v1.1,78
+Volleyball League,Technology,Electrical,2,343,Seminar Room,12,5,18,"ml, web",17,2,2,1,evening,0,0.0945945945945946,v1.1,67
+Art & Craft,Cultural,Mechanical,1,141,Auditorium,10,5,15,"fashion, dance",11,3,2,1,afternoon,0,0.08468468468468468,v1.1,33
+Math Olympiad,Sports,Civil,3,288,Auditorium,10,2,15,"badminton, sports",13,2,2,0,afternoon,0,0.1045045045045045,v1.1,62
+Festive Gala,Cultural,Electrical,3,137,Seminar Room,11,5,12,"fashion, culture",12,2,2,1,afternoon,0,0.0945945945945946,v1.1,75
+Product Management,Professional,Civil,1,328,Virtual,9,5,15,"resume, linkedin",18,2,2,1,afternoon,0,0.1045045045045045,v1.1,72
+Resume Review,Cultural,Computer,4,385,Open Ground,11,2,14,"music, culture",13,2,2,0,afternoon,0,0.1918918918918919,v1.1,53
+Cultural Night,Academic,Civil,4,352,Virtual,10,6,19,"english, physics",14,2,2,1,evening,0,0.1045045045045045,v1.1,31
+Football Tournament,Sports,Mechanical,2,273,Open Ground,11,5,18,"football, basketball",19,2,2,1,evening,0,0.08468468468468468,v1.1,30
+Festive Gala,Professional,Electrical,4,139,Seminar Room,7,1,18,"networking, career",12,2,2,0,evening,0,0.0945945945945946,v1.1,31
+Volleyball League,Cultural,Civil,1,261,Open Ground,7,3,17,"music, dance",17,2,2,0,evening,0,0.1045045045045045,v1.1,77
+Alumni Meet,Technology,Management,4,317,Seminar Room,7,2,14,"ai, web",11,2,2,0,afternoon,0,0.34684684684684686,v1.1,41
+Chem Lab Safety,Professional,Mechanical,3,382,Main Hall,9,3,9,"networking, linkedin",15,3,2,0,morning,0,0.08468468468468468,v1.1,46
+Marathon,Academic,Management,3,117,Main Hall,8,3,16,"math, quiz",8,1,2,0,afternoon,0,0.34684684684684686,v1.1,54
+Startup Bootcamp,Professional,Science,2,213,Seminar Room,9,3,18,"networking, career",16,2,2,0,evening,0,0.15675675675675677,v1.1,69
+Volleyball League,Professional,Electrical,2,301,Open Ground,9,0,12,"networking, startup",17,2,2,0,afternoon,0,0.0945945945945946,v1.1,71
+Street Play,Technology,Mechanical,4,345,Virtual,9,4,9,"cloud, data",11,2,2,0,morning,0,0.08468468468468468,v1.1,79
+Biology Fair,Professional,Civil,2,322,Auditorium,8,3,14,"networking, career",12,2,2,0,afternoon,0,0.1045045045045045,v1.1,39
+Street Dance Show,Sports,Electrical,4,105,Main Hall,7,1,16,"football, cricket",17,3,2,0,afternoon,0,0.0945945945945946,v1.1,95
+Street Dance Show,Academic,Management,2,294,Seminar Room,12,6,15,"math, english",17,3,2,1,afternoon,0,0.34684684684684686,v1.1,77
+Startup Bootcamp,Sports,Computer,4,221,Seminar Room,12,3,13,"sports, football",16,2,2,0,afternoon,0,0.1918918918918919,v1.1,97
+Cricket Match,Cultural,Computer,2,278,Main Hall,8,2,13,"dance, drama",13,2,2,0,afternoon,0,0.1918918918918919,v1.1,85
+Marathon,Sports,Science,2,200,Auditorium,11,0,14,"basketball, sports",8,1,2,0,afternoon,0,0.15675675675675677,v1.1,42
+Street Dance Show,Professional,Computer,1,197,Seminar Room,10,2,9,"networking, career",17,3,2,0,morning,0,0.1918918918918919,v1.1,94
+Art & Craft,Professional,Civil,3,340,Open Ground,8,5,17,"networking, resume",11,3,2,1,evening,0,0.1045045045045045,v1.1,85
+Ethical Hacking Workshop,Cultural,Mechanical,3,233,Main Hall,8,4,9,"music, dance",24,3,2,0,morning,1,0.08468468468468468,v1.1,97
+Internship Panel,Sports,Science,3,227,Main Hall,10,2,19,"football, badminton",16,2,2,0,evening,0,0.15675675675675677,v1.1,70
+Ethical Hacking Workshop,Cultural,Science,3,223,Main Hall,8,3,16,"music, fashion",24,3,2,0,afternoon,1,0.15675675675675677,v1.1,92
+Alumni Meet,Technology,Civil,2,284,Auditorium,9,4,14,"ai, data",11,2,2,0,afternoon,0,0.1045045045045045,v1.1,77
+Cybersecurity 101,Professional,Management,3,72,Virtual,12,2,19,"linkedin, startup",17,2,2,0,evening,0,0.34684684684684686,v1.1,81
+Cultural Night,Sports,Management,1,308,Open Ground,8,2,11,"basketball, badminton",14,2,2,0,morning,0,0.34684684684684686,v1.1,97
+Football Tournament,Professional,Computer,1,212,Auditorium,8,2,10,"linkedin, networking",19,2,2,0,morning,0,0.1918918918918919,v1.1,69
+Street Play,Cultural,Computer,4,111,Seminar Room,7,0,15,"drama, dance",11,2,2,0,afternoon,0,0.1918918918918919,v1.1,66
+Street Play,Sports,Civil,3,257,Main Hall,10,2,13,"badminton, football",11,2,2,0,afternoon,0,0.1045045045045045,v1.1,49
+Math Olympiad,Professional,Science,1,180,Open Ground,7,3,16,"linkedin, startup",13,2,2,0,afternoon,0,0.15675675675675677,v1.1,32
+Cultural Fest,Technology,Electrical,1,187,Open Ground,7,4,17,"code, web",13,2,2,0,evening,0,0.0945945945945946,v1.1,89
+Drama Night,Academic,Science,3,97,Seminar Room,9,2,16,"quiz, chemistry",11,2,2,0,afternoon,0,0.15675675675675677,v1.1,67
+Math Olympiad,Cultural,Science,3,240,Auditorium,7,4,15,"drama, dance",13,2,2,0,afternoon,0,0.15675675675675677,v1.1,43
+Science Fair,Professional,Civil,4,68,Virtual,12,6,15,"linkedin, resume",12,2,2,1,afternoon,0,0.1045045045045045,v1.1,56
+Tug Of War,Sports,Civil,1,347,Open Ground,11,0,17,"sports, football",10,3,2,0,evening,0,0.1045045045045045,v1.1,61
+Open Mic Night,Professional,Mechanical,1,297,Open Ground,11,6,18,"startup, linkedin",14,3,2,1,evening,0,0.08468468468468468,v1.1,61
+English Debate,Academic,Electrical,3,315,Virtual,9,0,11,"science, quiz",14,2,2,0,morning,0,0.0945945945945946,v1.1,44
+Career Fair,Technology,Computer,4,209,Virtual,8,3,13,"web, cloud",11,2,2,0,afternoon,0,0.1918918918918919,v1.1,94
+Dance Battle,Technology,Civil,2,252,Main Hall,10,3,13,"ml, ai",12,2,2,0,afternoon,0,0.1045045045045045,v1.1,37
+Tug Of War,Sports,Computer,3,172,Open Ground,11,6,17,"football, basketball",10,3,2,1,evening,0,0.1918918918918919,v1.1,34
+Volleyball League,Technology,Computer,2,244,Open Ground,7,2,10,"ai, web",17,2,2,0,morning,0,0.1918918918918919,v1.1,69
+Chem Lab Safety,Cultural,Computer,1,112,Open Ground,8,6,17,"music, fashion",15,3,2,1,evening,0,0.1918918918918919,v1.1,73
+Festive Gala,Sports,Computer,4,303,Seminar Room,10,1,11,"sports, basketball",12,2,2,0,morning,0,0.1918918918918919,v1.1,54
+Environmental Quiz,Academic,Computer,2,147,Main Hall,10,6,12,"science, physics",18,2,2,1,afternoon,0,0.1918918918918919,v1.1,53
+Open Mic Night,Technology,Computer,3,300,Virtual,12,4,16,"web, tech",14,3,2,0,afternoon,0,0.1918918918918919,v1.1,43
+Cultural Night,Cultural,Computer,3,189,Virtual,11,0,9,"dance, music",14,2,2,0,morning,0,0.1918918918918919,v1.1,70
+Data Science Panel,Technology,Science,4,267,Auditorium,8,1,12,"cloud, code",18,3,2,0,afternoon,0,0.15675675675675677,v1.1,77
+Chess Tournament,Cultural,Computer,4,218,Virtual,12,0,19,"music, culture",16,2,2,0,evening,0,0.1918918918918919,v1.1,52
+Industry Talk,Technology,Mechanical,3,374,Main Hall,11,4,9,"web, data",13,2,2,0,morning,0,0.08468468468468468,v1.1,36
+Science Fair,Academic,Management,4,58,Open Ground,11,0,10,"science, physics",12,2,2,0,morning,0,0.34684684684684686,v1.1,45
+Robotics Expo,Academic,Civil,4,146,Open Ground,9,0,11,"english, science",13,2,2,0,morning,0,0.1045045045045045,v1.1,38
+English Debate,Sports,Management,2,212,Seminar Room,11,0,10,"sports, badminton",14,2,2,0,morning,0,0.34684684684684686,v1.1,38
+Linkedin Mastery,Academic,Management,3,104,Open Ground,11,2,17,"english, science",16,2,2,0,evening,0,0.34684684684684686,v1.1,90
+Resume Review,Academic,Computer,2,229,Virtual,10,5,15,"science, math",13,2,2,1,afternoon,0,0.1918918918918919,v1.1,68
+Volleyball League,Professional,Electrical,3,129,Open Ground,8,4,17,"startup, linkedin",17,2,2,0,evening,0,0.0945945945945946,v1.1,70
+Tech Talk,Professional,Computer,4,287,Open Ground,8,2,12,"startup, career",9,2,2,0,afternoon,0,0.1918918918918919,v1.1,62
+Math Olympiad,Technology,Management,3,147,Main Hall,8,3,11,"tech, code",13,2,2,0,morning,0,0.34684684684684686,v1.1,96
+Blockchain Basics,Technology,Science,4,238,Main Hall,8,4,13,"ml, cloud",17,2,2,0,afternoon,0,0.15675675675675677,v1.1,76
+Football Tournament,Academic,Civil,1,355,Seminar Room,11,0,17,"math, quiz",19,2,2,0,evening,0,0.1045045045045045,v1.1,80
+Ai Workshop,Technology,Mechanical,4,377,Main Hall,10,4,15,"code, tech",11,2,2,0,afternoon,1,0.08468468468468468,v1.1,82
+Science Fair,Technology,Mechanical,1,184,Virtual,8,3,19,"data, code",12,2,2,0,evening,0,0.08468468468468468,v1.1,40
+Open Mic Night,Academic,Management,1,260,Main Hall,9,6,16,"quiz, math",14,3,2,1,afternoon,0,0.34684684684684686,v1.1,43
+Volleyball League,Academic,Science,2,134,Main Hall,12,3,15,"quiz, science",17,2,2,0,afternoon,0,0.15675675675675677,v1.1,32
+Cloud Computing 101,Academic,Science,2,231,Virtual,9,1,15,"math, chemistry",19,3,2,0,afternoon,0,0.15675675675675677,v1.1,67
+Alumni Meet,Academic,Civil,4,238,Seminar Room,12,4,15,"science, english",11,2,2,0,afternoon,0,0.1045045045045045,v1.1,41
+Science Quiz,Cultural,Civil,3,394,Seminar Room,11,0,10,"music, culture",12,2,2,0,morning,0,0.1045045045045045,v1.1,52
+Ethical Hacking Workshop,Cultural,Mechanical,3,214,Open Ground,9,2,9,"music, culture",24,3,2,0,morning,1,0.08468468468468468,v1.1,49
+Internship Panel,Cultural,Civil,1,304,Open Ground,9,1,10,"culture, music",16,2,2,0,morning,0,0.1045045045045045,v1.1,89
+Marathon,Technology,Electrical,3,360,Seminar Room,7,6,15,"cloud, ml",8,1,2,1,afternoon,0,0.0945945945945946,v1.1,75
+Internship Panel,Professional,Electrical,2,219,Open Ground,9,6,14,"networking, career",16,2,2,1,afternoon,0,0.0945945945945946,v1.1,64
+English Debate,Technology,Management,4,226,Virtual,10,1,17,"ml, tech",14,2,2,0,evening,0,0.34684684684684686,v1.1,31
+Machine Learning Talk,Sports,Science,4,378,Virtual,12,2,15,"football, basketball",21,3,2,0,afternoon,0,0.15675675675675677,v1.1,88
+Environmental Quiz,Cultural,Computer,2,246,Seminar Room,9,1,12,"culture, fashion",18,2,2,0,afternoon,0,0.1918918918918919,v1.1,63
+Street Play,Sports,Mechanical,3,225,Main Hall,10,1,11,"sports, football",11,2,2,0,morning,0,0.08468468468468468,v1.1,74
+Physics Olympiad,Sports,Electrical,2,211,Open Ground,7,5,12,"cricket, basketball",16,2,2,1,afternoon,0,0.0945945945945946,v1.1,62
+Resume Review,Professional,Civil,2,351,Main Hall,8,4,10,"career, linkedin",13,2,2,0,morning,0,0.1045045045045045,v1.1,35
+Dance Battle,Technology,Science,2,239,Seminar Room,8,4,19,"code, ai",12,2,2,0,evening,0,0.15675675675675677,v1.1,77
+Product Management,Academic,Management,4,221,Seminar Room,12,4,18,"science, chemistry",18,2,2,0,evening,0,0.34684684684684686,v1.1,96
+Physics Olympiad,Cultural,Management,1,260,Open Ground,10,4,19,"music, fashion",16,2,2,0,evening,0,0.34684684684684686,v1.1,45
+Basketball League,Academic,Management,3,109,Auditorium,10,0,16,"physics, math",17,2,2,0,afternoon,0,0.34684684684684686,v1.1,36
+Startup Bootcamp,Professional,Mechanical,1,221,Open Ground,8,6,14,"linkedin, career",16,2,2,1,afternoon,0,0.08468468468468468,v1.1,58
+Startup Stories,Technology,Management,2,92,Virtual,8,5,17,"cloud, tech",15,2,2,1,evening,0,0.34684684684684686,v1.1,63
+Marathon,Professional,Computer,2,242,Seminar Room,8,3,15,"startup, career",8,1,2,0,afternoon,0,0.1918918918918919,v1.1,34
+Industry Talk,Cultural,Science,1,225,Open Ground,12,3,12,"music, dance",13,2,2,0,afternoon,0,0.15675675675675677,v1.1,82
+Cultural Fest,Sports,Science,1,164,Virtual,10,3,11,"football, badminton",13,2,2,0,morning,0,0.15675675675675677,v1.1,89
+Startup Bootcamp,Sports,Civil,4,392,Auditorium,11,2,17,"football, cricket",16,2,2,0,evening,0,0.1045045045045045,v1.1,60
+Football Tournament,Sports,Science,4,116,Virtual,11,2,18,"sports, badminton",19,2,2,0,evening,0,0.15675675675675677,v1.1,53
+Resume Workshop,Cultural,Mechanical,4,317,Auditorium,7,4,11,"culture, drama",15,2,2,0,morning,1,0.08468468468468468,v1.1,33
+Linkedin Mastery,Cultural,Electrical,2,355,Virtual,9,0,17,"culture, drama",16,2,2,0,evening,0,0.0945945945945946,v1.1,52
+Product Management,Technology,Computer,2,196,Seminar Room,12,3,15,"cloud, code",18,2,2,0,afternoon,0,0.1918918918918919,v1.1,48
+Machine Learning Talk,Academic,Management,1,214,Virtual,8,1,19,"math, physics",21,3,2,0,evening,0,0.34684684684684686,v1.1,92
+Ai Workshop,Professional,Electrical,4,164,Auditorium,8,3,19,"linkedin, networking",11,2,2,0,evening,1,0.0945945945945946,v1.1,43
+Alumni Meet,Sports,Management,1,340,Auditorium,7,0,10,"sports, basketball",11,2,2,0,morning,0,0.34684684684684686,v1.1,53
+Cricket Match,Academic,Management,4,189,Open Ground,12,5,12,"science, physics",13,2,2,1,afternoon,0,0.34684684684684686,v1.1,48
+Cricket Match,Technology,Electrical,1,302,Auditorium,8,3,9,"tech, data",13,2,2,0,morning,0,0.0945945945945946,v1.1,57
+Street Play,Academic,Civil,1,182,Auditorium,10,1,11,"quiz, science",11,2,2,0,morning,0,0.1045045045045045,v1.1,81
+Linkedin Mastery,Cultural,Electrical,3,331,Main Hall,11,2,16,"music, dance",16,2,2,0,afternoon,0,0.0945945945945946,v1.1,55
+Python Bootcamp,Academic,Computer,4,76,Auditorium,9,4,16,"english, physics",15,2,2,0,afternoon,0,0.1918918918918919,v1.1,49
+Career Fair,Academic,Management,1,138,Virtual,8,2,10,"science, chemistry",11,2,2,0,morning,0,0.34684684684684686,v1.1,65
+Environmental Quiz,Professional,Management,2,388,Auditorium,8,2,13,"resume, startup",18,2,2,0,afternoon,0,0.34684684684684686,v1.1,85
+Music Jam,Academic,Civil,3,388,Auditorium,10,1,15,"math, english",9,2,2,0,afternoon,0,0.1045045045045045,v1.1,96
+Cybersecurity 101,Technology,Mechanical,4,228,Auditorium,9,4,10,"cloud, ml",17,2,2,0,morning,0,0.08468468468468468,v1.1,62
+Volleyball League,Technology,Electrical,3,243,Virtual,9,2,13,"ai, code",17,2,2,0,afternoon,0,0.0945945945945946,v1.1,86
+Civil Model Making,Academic,Mechanical,1,104,Main Hall,9,1,10,"science, chemistry",18,3,2,0,morning,0,0.08468468468468468,v1.1,34
+Science Quiz,Academic,Science,1,363,Open Ground,7,2,9,"english, math",12,2,2,0,morning,0,0.15675675675675677,v1.1,53
+Django Workshop,Academic,Science,4,310,Seminar Room,12,5,13,"quiz, physics",15,2,2,1,afternoon,1,0.15675675675675677,v1.1,81
+Cultural Night,Sports,Management,4,142,Open Ground,11,3,19,"badminton, football",14,2,2,0,evening,0,0.34684684684684686,v1.1,44
+Startup Stories,Academic,Civil,3,236,Main Hall,12,6,17,"science, english",15,2,2,1,evening,0,0.1045045045045045,v1.1,79
+Cloud Computing 101,Cultural,Computer,2,380,Virtual,9,6,15,"dance, music",19,3,2,1,afternoon,0,0.1918918918918919,v1.1,48
+Festive Gala,Cultural,Electrical,1,388,Seminar Room,7,1,12,"dance, drama",12,2,2,0,afternoon,0,0.0945945945945946,v1.1,43
+Cultural Fest,Sports,Civil,2,80,Seminar Room,11,5,10,"sports, badminton",13,2,2,1,morning,0,0.1045045045045045,v1.1,61
+Badminton Championship,Sports,Computer,2,162,Auditorium,8,5,14,"basketball, football",22,2,2,1,afternoon,0,0.1918918918918919,v1.1,99
+Tech Talk,Cultural,Civil,1,117,Auditorium,7,6,11,"fashion, drama",9,2,2,1,morning,0,0.1045045045045045,v1.1,47
+Tech Talk,Professional,Electrical,2,350,Virtual,7,5,12,"career, startup",9,2,2,1,afternoon,0,0.0945945945945946,v1.1,35
+Product Management,Academic,Science,1,385,Open Ground,10,6,14,"english, physics",18,2,2,1,afternoon,0,0.15675675675675677,v1.1,79
+Art & Craft,Cultural,Mechanical,2,392,Virtual,11,5,12,"music, culture",11,3,2,1,afternoon,0,0.08468468468468468,v1.1,51
+Django Workshop,Sports,Mechanical,3,91,Virtual,7,0,11,"badminton, cricket",15,2,2,0,morning,1,0.08468468468468468,v1.1,96
+Web Dev Basics,Professional,Science,2,106,Main Hall,10,5,16,"startup, resume",14,3,2,1,afternoon,0,0.15675675675675677,v1.1,79
+Basketball League,Professional,Science,2,159,Virtual,11,5,18,"linkedin, career",17,2,2,1,evening,0,0.15675675675675677,v1.1,55
+Ai Workshop,Academic,Computer,1,257,Main Hall,8,6,12,"quiz, chemistry",11,2,2,1,afternoon,1,0.1918918918918919,v1.1,89
+Resume Review,Professional,Electrical,1,243,Virtual,7,4,13,"linkedin, resume",13,2,2,0,afternoon,0,0.0945945945945946,v1.1,49
+Open Mic Night,Academic,Science,3,316,Open Ground,7,2,9,"english, math",14,3,2,0,morning,0,0.15675675675675677,v1.1,93
+Cultural Night,Professional,Electrical,2,371,Auditorium,9,3,18,"career, resume",14,2,2,0,evening,0,0.0945945945945946,v1.1,95
+Django Workshop,Cultural,Computer,3,292,Virtual,10,6,17,"culture, dance",15,2,2,1,evening,1,0.1918918918918919,v1.1,65
+Python Bootcamp,Sports,Mechanical,1,273,Virtual,7,1,13,"badminton, football",15,2,2,0,afternoon,0,0.08468468468468468,v1.1,53
+Cultural Fest,Sports,Electrical,4,172,Auditorium,12,4,9,"badminton, football",13,2,2,0,morning,0,0.0945945945945946,v1.1,56
+Career Fair,Technology,Management,3,212,Main Hall,12,5,11,"tech, ml",11,2,2,1,morning,0,0.34684684684684686,v1.1,92
+Machine Learning Talk,Sports,Management,2,315,Auditorium,11,5,11,"badminton, cricket",21,3,2,1,morning,0,0.34684684684684686,v1.1,36
+Ethical Hacking Workshop,Sports,Computer,2,347,Seminar Room,9,6,9,"football, basketball",24,3,2,1,morning,1,0.1918918918918919,v1.1,80
+Elevator Pitch,Professional,Computer,2,57,Virtual,8,4,13,"resume, career",14,2,2,0,afternoon,0,0.1918918918918919,v1.1,85
+Math Olympiad,Technology,Science,2,80,Main Hall,8,0,14,"cloud, code",13,2,2,0,afternoon,0,0.15675675675675677,v1.1,65
+Robotics Expo,Technology,Civil,4,381,Open Ground,10,3,19,"cloud, web",13,2,2,0,evening,0,0.1045045045045045,v1.1,94
+Linkedin Mastery,Academic,Civil,4,233,Virtual,7,3,17,"quiz, physics",16,2,2,0,evening,0,0.1045045045045045,v1.1,35
+Cultural Fest,Professional,Mechanical,3,188,Open Ground,10,4,13,"startup, linkedin",13,2,2,0,afternoon,0,0.08468468468468468,v1.1,72
+Cloud Computing 101,Technology,Science,4,372,Seminar Room,9,0,14,"ai, tech",19,3,2,0,afternoon,0,0.15675675675675677,v1.1,37
+Product Management,Academic,Electrical,1,335,Open Ground,10,6,15,"english, chemistry",18,2,2,1,afternoon,0,0.0945945945945946,v1.1,32
+Marathon,Professional,Science,3,124,Main Hall,11,3,11,"resume, networking",8,1,2,0,morning,0,0.15675675675675677,v1.1,67
+Internship Panel,Academic,Civil,1,124,Virtual,7,0,14,"quiz, math",16,2,2,0,afternoon,0,0.1045045045045045,v1.1,65
+Resume Review,Cultural,Electrical,3,332,Open Ground,8,1,14,"dance, culture",13,2,2,0,afternoon,0,0.0945945945945946,v1.1,74
+Physics Olympiad,Academic,Computer,2,78,Open Ground,8,1,15,"quiz, chemistry",16,2,2,0,afternoon,0,0.1918918918918919,v1.1,83
+Festive Gala,Technology,Computer,3,86,Virtual,8,3,15,"code, data",12,2,2,0,afternoon,0,0.1918918918918919,v1.1,37
+Art & Craft,Technology,Mechanical,1,256,Main Hall,7,1,10,"ai, web",11,3,2,0,morning,0,0.08468468468468468,v1.1,42
+Ethical Hacking Workshop,Professional,Science,4,202,Open Ground,10,2,16,"career, resume",24,3,2,0,afternoon,1,0.15675675675675677,v1.1,70
+Street Play,Professional,Science,2,260,Auditorium,10,3,19,"networking, career",11,2,2,0,evening,0,0.15675675675675677,v1.1,66
+Web Dev Basics,Sports,Science,4,369,Open Ground,9,0,13,"basketball, badminton",14,3,2,0,afternoon,0,0.15675675675675677,v1.1,94
+Startup Bootcamp,Professional,Computer,2,149,Seminar Room,10,0,9,"linkedin, resume",16,2,2,0,morning,0,0.1918918918918919,v1.1,30
+Table Tennis Tournament,Technology,Science,1,308,Open Ground,8,4,17,"cloud, web",23,3,2,0,evening,0,0.15675675675675677,v1.1,80
+Industry Talk,Academic,Management,4,216,Open Ground,11,1,12,"english, science",13,2,2,0,afternoon,0,0.34684684684684686,v1.1,69
+Robotics Expo,Technology,Electrical,1,59,Virtual,7,0,14,"web, ai",13,2,2,0,afternoon,0,0.0945945945945946,v1.1,86
+Ai Workshop,Technology,Civil,2,259,Auditorium,7,1,17,"ai, cloud",11,2,2,0,evening,1,0.1045045045045045,v1.1,69
+Tug Of War,Cultural,Mechanical,2,109,Open Ground,7,4,14,"culture, fashion",10,3,2,0,afternoon,0,0.08468468468468468,v1.1,49
+Open Mic Night,Cultural,Civil,4,358,Main Hall,8,4,9,"dance, fashion",14,3,2,0,morning,0,0.1045045045045045,v1.1,57
+Data Science Panel,Technology,Science,1,381,Seminar Room,7,0,13,"web, ml",18,3,2,0,afternoon,0,0.15675675675675677,v1.1,76
+Robotics Expo,Sports,Civil,2,54,Main Hall,12,5,10,"basketball, cricket",13,2,2,1,morning,0,0.1045045045045045,v1.1,84
+Fashion Show,Technology,Mechanical,4,301,Seminar Room,8,3,13,"ml, code",12,2,2,0,afternoon,0,0.08468468468468468,v1.1,99
+Ethical Hacking Workshop,Sports,Science,4,324,Auditorium,9,2,17,"sports, football",24,3,2,0,evening,1,0.15675675675675677,v1.1,72
+Elevator Pitch,Sports,Science,2,212,Open Ground,12,0,11,"basketball, cricket",14,2,2,0,morning,0,0.15675675675675677,v1.1,63
+Robotics Expo,Professional,Civil,1,315,Open Ground,7,2,15,"resume, networking",13,2,2,0,afternoon,0,0.1045045045045045,v1.1,39
+Festive Gala,Sports,Electrical,2,164,Main Hall,11,6,17,"cricket, football",12,2,2,1,evening,0,0.0945945945945946,v1.1,72
+Elevator Pitch,Sports,Management,3,337,Main Hall,7,0,15,"cricket, sports",14,2,2,0,afternoon,0,0.34684684684684686,v1.1,77
+Blockchain Basics,Academic,Science,1,149,Auditorium,7,2,10,"chemistry, quiz",17,2,2,0,morning,0,0.15675675675675677,v1.1,56
+Environmental Quiz,Sports,Science,2,330,Virtual,12,2,16,"football, cricket",18,2,2,0,afternoon,0,0.15675675675675677,v1.1,39
+Festive Gala,Cultural,Civil,2,165,Virtual,10,0,11,"music, drama",12,2,2,0,morning,0,0.1045045045045045,v1.1,63
+Dance Battle,Professional,Electrical,4,367,Auditorium,7,3,9,"startup, career",12,2,2,0,morning,0,0.0945945945945946,v1.1,47
+Django Workshop,Sports,Mechanical,4,355,Virtual,12,1,10,"sports, cricket",15,2,2,0,morning,1,0.08468468468468468,v1.1,52
+Fashion Show,Sports,Civil,4,149,Open Ground,9,5,13,"football, cricket",12,2,2,1,afternoon,0,0.1045045045045045,v1.1,41
+Hackathon,Professional,Mechanical,3,315,Main Hall,8,3,17,"networking, startup",9,1,2,0,evening,0,0.08468468468468468,v1.1,64
+Startup Stories,Technology,Computer,4,273,Virtual,11,5,12,"web, code",15,2,2,1,afternoon,0,0.1918918918918919,v1.1,85
+Cloud Computing 101,Sports,Management,3,354,Seminar Room,8,0,13,"cricket, badminton",19,3,2,0,afternoon,0,0.34684684684684686,v1.1,98
+Cloud Computing 101,Professional,Science,4,369,Seminar Room,8,4,15,"resume, startup",19,3,2,0,afternoon,0,0.15675675675675677,v1.1,59
+English Debate,Academic,Computer,2,77,Seminar Room,10,2,17,"physics, english",14,2,2,0,evening,0,0.1918918918918919,v1.1,34
+Robotics Expo,Academic,Management,3,395,Main Hall,12,5,12,"science, quiz",13,2,2,1,afternoon,0,0.34684684684684686,v1.1,69
+Machine Learning Talk,Academic,Computer,3,270,Virtual,12,2,18,"physics, quiz",21,3,2,0,evening,0,0.1918918918918919,v1.1,94
+Career Fair,Sports,Computer,4,384,Auditorium,12,1,17,"football, cricket",11,2,2,0,evening,0,0.1918918918918919,v1.1,51
+Street Play,Professional,Electrical,1,105,Virtual,7,4,16,"career, resume",11,2,2,0,afternoon,0,0.0945945945945946,v1.1,63
+Fashion Show,Academic,Science,4,79,Main Hall,9,2,14,"quiz, math",12,2,2,0,afternoon,0,0.15675675675675677,v1.1,81
+Startup Bootcamp,Sports,Electrical,3,121,Main Hall,11,5,12,"football, sports",16,2,2,1,afternoon,0,0.0945945945945946,v1.1,86
+Startup Bootcamp,Sports,Science,3,58,Open Ground,10,2,14,"football, basketball",16,2,2,0,afternoon,0,0.15675675675675677,v1.1,66
+Resume Review,Cultural,Computer,4,244,Virtual,11,1,19,"drama, culture",13,2,2,0,evening,0,0.1918918918918919,v1.1,65
+Event1,Technology,Computer Science,2,400,Eng. Auditorium,7,1,10,,6,1,1,0,morning,0,0.0018018018018018018,v1.1,82
+Event2,Cultural,Science,2,400,Eng. Auditorium,7,2,10,,6,1,1,0,morning,0,0.15675675675675677,v1.1,82
+Event3,Academic,Business,2,400,Eng. Auditorium,7,3,10,,6,1,1,0,morning,0,0.0036036036036036037,v1.1,82
+Event4,Workshop,Arts,2,400,Eng. Auditorium,7,3,10,"ai,ml",6,1,2,0,morning,0,0.0036036036036036037,v1.1,82
+Event5,Professional,Arts,2,400,Eng. Auditorium,7,3,10,,6,1,1,0,morning,0,0.0036036036036036037,v1.1,82
+Event6,Professional,All Departments,2,400,Eng. Auditorium,7,3,10,,6,1,1,0,morning,0,0.0018018018018018018,v1.1,82
+Event7,Academic,Arts,2,400,Eng. Auditorium,7,0,10,,6,1,1,0,morning,0,0.0036036036036036037,v1.1,82
+Event8,Sports,All Departments,2,400,Eng. Auditorium,7,3,10,,6,1,1,0,morning,0,0.0018018018018018018,v1.1,82
+Event10,Academic,Business,2,400,Eng. Auditorium,7,5,10,,7,1,1,1,morning,0,0.0036036036036036037,v1.1,82
+Ai Innovation Summit,Tech,Computer Engineering,2,100,Unknown,8,6,10,,20,3,1,1,morning,0,0.0018018018018018018,v1.1,82
+Ai & Machine Learning Workshop,Technology,Computer Engineering,2,150,Eng. Auditorium,7,1,10,,30,5,1,0,morning,1,0.0018018018018018018,v1.1,82
+Cultural Diversity Festival,Cultural,Unknown,2,350,Unknown,7,6,10,,27,3,1,1,morning,0,0.0009009009009009009,v1.1,82
+Made By New Organizer,Hackathon,All,2,134,Kjh,8,6,10,ai,21,4,1,1,morning,0,0.007207207207207207,v1.1,82
+Hey,Professional,Science,2,50,Lkj,10,4,10,"gh,fgh",3,1,2,0,morning,0,0.15675675675675677,v1.1,82
+Before Today Event,Seminar,Business,2,51,Eng. Auditorium,7,4,10,"mk,gh",18,3,2,0,morning,0,0.0036036036036036037,v1.1,82
+Freshers' Night,Cultural,Computer Science,2,300,Auditorium,8,2,10,"fresher,welcome",15,2,2,0,morning,0,0.0018018018018018018,v1.1,30
+Cricket Tournament,Sports,Arts,2,200,Open Ground,12,3,10,"cricket,sports",18,2,2,0,morning,0,0.0036036036036036037,v1.1,30
+Entrepreneurship Summit,Professional,Business,2,200,Auditorium,10,6,10,"entrepreneurship,startup",23,2,2,1,morning,0,0.0036036036036036037,v1.1,30

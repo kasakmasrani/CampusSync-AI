@@ -94,7 +94,7 @@ const Home = () => {
           </div>
 
           {/* Demo Video Section */}
-          <div className="max-w-4xl mx-auto">
+          {/* <div className="max-w-4xl mx-auto">
             <Card className="glass-card overflow-hidden">
               <CardContent className="p-0">
                 <div className="relative bg-gradient-to-br from-indigo-100/80 to-emerald-100/80 h-80 flex items-center justify-center">
@@ -114,7 +114,7 @@ const Home = () => {
                 </div>
               </CardContent>
             </Card>
-          </div>
+          </div> */}
         </div>
       </section>
 

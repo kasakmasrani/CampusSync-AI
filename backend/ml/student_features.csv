@@ -1,11 +1,12 @@
-tag_a,tag_ai,tag_asd,tag_bf,tag_d,tag_df,tag_dfgs,tag_gh,tag_gs,tag_lkm,tag_mk,tag_ml,tag_sd,tag_sdf,tag_sdfds,tag_sdgsdg,tag_zs,tag_zx,department_,department_Arts & Humanities,department_Education,department_Engineering,department_Law,department_Medicine,department_Science,year_,year_Graduate,year_Junior,year_Senior,year_Sophomore,sentiment_positive,sentiment_negative,sentiment_neutral,user_id,username
-1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1,1,1,1,stu2@gmail.com
-0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,2,stu1@gmail.com
-0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0,0,0,3,stu3@gmail.com
-0,1,1,0,1,0,1,0,0,0,0,1,0,0,1,1,1,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0,0,4,stu4@gmail.com
-0,1,0,1,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0,0,5,stu5@gmail.com
-1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0,11,6,stu6@gmail.com
-1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0,0,12,7,stu7@gmail.com
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,0,0,8,Events
-1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,19,13,stu10@gmail.com
-1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,0,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0,0,10,14,stu11@gmail.com
+tag_coding,tag_cricket,tag_design,tag_engineering,tag_english,tag_entrepreneurship,tag_fashion,tag_fresher,tag_robotics,tag_science,tag_sports,tag_startup,tag_web dev,tag_welcome,department_,department_Arts & Humanities,department_Business,department_Education,department_Engineering,department_Law,department_Medicine,department_Science,year_,year_Graduate,year_Junior,year_Senior,year_Sophomore,sentiment_positive,sentiment_negative,sentiment_neutral,user_id,username
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0,0,0,1,stu2@gmail.com
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,2,2,stu1@gmail.com
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0,0,0,3,stu3@gmail.com
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0,0,4,stu4@gmail.com
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0,0,5,stu5@gmail.com
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0,0,6,stu6@gmail.com
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0,0,0,7,stu7@gmail.com
+1,1,0,1,1,1,0,1,1,1,1,1,1,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,0,0,8,Events
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,13,stu10@gmail.com
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0,0,0,14,stu11@gmail.com
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0,0,0,15,stu20@gmail.com

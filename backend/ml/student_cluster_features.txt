@@ -1,0 +1,28 @@
+tag_coding
+tag_cricket
+tag_design
+tag_engineering
+tag_entrepreneurship
+tag_fashion
+tag_fresher
+tag_robotics
+tag_sports
+tag_startup
+tag_web dev
+tag_welcome
+department_
+department_Arts & Humanities
+department_Business
+department_Education
+department_Engineering
+department_Law
+department_Medicine
+department_Science
+year_
+year_Graduate
+year_Junior
+year_Senior
+year_Sophomore
+sentiment_positive
+sentiment_negative
+sentiment_neutral

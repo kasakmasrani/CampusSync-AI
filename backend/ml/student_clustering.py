@@ -5,9 +5,11 @@ import joblib
 import pandas as pd
 import numpy as np
 import os
+from sklearn.cluster import KMeans
 
 MODEL_PATH = os.path.join(os.path.dirname(__file__), 'student_cluster_model.pkl')
 FEATURES_PATH = os.path.join(os.path.dirname(__file__), 'student_features.csv')
+FEATURE_LIST_PATH = os.path.join(os.path.dirname(__file__), 'student_cluster_features.txt')
 
 _model = None
 _features_df = None
@@ -20,22 +22,27 @@ def load_features():
     # Always reload features from disk (optional, but safe for dynamic updates)
     return pd.read_csv(FEATURES_PATH)
 
+def load_feature_list():
+    # Each line is a feature column name
+    with open(FEATURE_LIST_PATH, 'r') as f:
+        return [line.strip() for line in f if line.strip() and line.strip() not in ('user_id', 'username')]
+
 def get_student_features(user_id):
     df = load_features()
+    feature_cols = load_feature_list()
     row = df[df['user_id'] == user_id]
     if row.empty:
         return None
-    feature_cols = [col for col in df.columns if col not in ['user_id', 'username']]
     return row[feature_cols].fillna(0).values
 
 def get_similar_students(user_id, top_n=5):
     model = load_model()
     df = load_features()
+    feature_cols = load_feature_list()
     user_feats = get_student_features(user_id)
     if user_feats is None:
         return []
     cluster = model.predict(user_feats)[0]
-    feature_cols = [col for col in df.columns if col not in ['user_id', 'username']]
     all_feats = df[feature_cols].fillna(0).values
     all_clusters = model.predict(all_feats)
     df['cluster'] = all_clusters
@@ -63,3 +70,13 @@ def get_similar_students(user_id, top_n=5):
             'interests': interests
         })
     return results
+
+def train_clustering_model():
+    df = pd.read_csv(FEATURES_PATH)
+    feature_cols = load_feature_list()
+    X = df[feature_cols].fillna(0).values
+    kmeans = KMeans(n_clusters=5, random_state=42)
+    kmeans.fit(X)
+    joblib.dump(kmeans, MODEL_PATH)
+    print("Clustering model trained and saved.")
+

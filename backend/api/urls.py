@@ -61,4 +61,5 @@ urlpatterns = [
     path('ml/retrain/predict/', RetrainEventPredictionModelView.as_view(), name='retrain-event-prediction'),
     path('ml/retrain/clustering/', RetrainStudentClusteringModelView.as_view(), name='retrain-student-clustering'),
     path('ml/export/student-features/', ExportStudentFeaturesView.as_view(), name='export-student-features'),
+    
 ]

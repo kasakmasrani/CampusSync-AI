@@ -37,10 +37,8 @@ def preprocess_data(df):
 
 def train_model():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    # data_path = os.path.join(base_dir, "ml", "data", "event_dataset.csv")
-    # df = pd.read_csv(data_path)
-    df = clean_event_dataset("ml/data/event_dataset.csv")
-    # df = pd.read_csv("data/event_dataset.csv")
+    data_path = os.path.join(base_dir, "ml", "data", "event_dataset.csv")
+    df = clean_event_dataset(data_path)
     df, cat_map, dept_map, year_map = preprocess_data(df)
 
     features = ["category", "department", "target_year", "capacity", "num_tags"]

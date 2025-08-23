@@ -1,0 +1,74 @@
+{
+  "created_on": "2025-08-22T20:29:50.144249",
+  "feature_list": [
+    "event_title",
+    "category",
+    "department",
+    "target_year",
+    "capacity",
+    "location",
+    "month",
+    "day_of_week",
+    "hour",
+    "event_tags",
+    "title_length",
+    "title_word_count",
+    "num_tags",
+    "is_weekend",
+    "time_of_day",
+    "is_workshop",
+    "dept_popularity",
+    "feature_version",
+    "success_rate"
+  ],
+  "row_count": 1110,
+  "expected_important_features": [
+    "capacity",
+    "is_workshop",
+    "dept_popularity",
+    "month"
+  ],
+  "monitoring_metrics": {
+    "missing_rate": {
+      "event_title": 0.0,
+      "category": 0.0,
+      "department": 0.0,
+      "target_year": 0.0,
+      "capacity": 0.0,
+      "location": 0.0,
+      "month": 0.0,
+      "day_of_week": 0.0,
+      "hour": 0.0,
+      "event_tags": 0.0,
+      "title_length": 0.0,
+      "title_word_count": 0.0,
+      "num_tags": 0.0,
+      "is_weekend": 0.0,
+      "time_of_day": 0.0,
+      "is_workshop": 0.0,
+      "dept_popularity": 0.0,
+      "feature_version": 0.0,
+      "success_rate": 0.0
+    },
+    "value_ranges": {
+      "capacity": [
+        50,
+        400
+      ],
+      "success_rate": [
+        30,
+        99
+      ]
+    }
+  },
+  "performance_benchmark": {
+    "expected_r2_range": [
+      0.25,
+      0.4
+    ],
+    "expected_mae_range": [
+      5.0,
+      7.0
+    ]
+  }
+}
